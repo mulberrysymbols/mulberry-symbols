@@ -26,3 +26,4 @@ We do encourage you to share and modify the symbols so that more people can bene
 
 You can easily attribute us with a link to this website with a mention of Mulberry Symbols.
 
+# Developers
