@@ -4,8 +4,15 @@
 @import "{{ site.theme }}";
 
 body, 
-.page-header {
+.page-header,
+.btn {
   background-color: rgb(234, 232, 255);
   color: rgb(112, 48, 160);
   background-image: none;
+}
+
+.btn {
+  background-color: rgb(234, 232, 255);
+  color: rgb(112, 48, 160);
+  border-color: rgb(112, 48, 160);
 }

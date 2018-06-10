@@ -10,6 +10,12 @@ These symbols are provided as a resource for speech and language professionals o
 * Unusual symbols usually missing from proprietary sets
 * Designed by graphics artists, reviewed by SLTs and coloured by people with mental health issues
 
+# Downloads
+
+* A [zip of all the symbols](https://github.com/straight-street/mulberry-symbols/blob/master/mulberry-symbols.zip) in SVG format (large file)
+* A [PDF of the symbols](https://github.com/straight-street/mulberry-symbols/blob/master/categories.pdf) sorted by category
+* A [csv spreadsheet](https://github.com/straight-street/mulberry-symbols/blob/master/symbol-info.csv) with categories, tags and ratings
+
 # Licence
 
 These symbols are published under the [Creative Commons BY-SA](https://github.com/straight-street/mulberry-symbols/blob/master/LICENSE.txt) license. You can use the symbols in any project or product, commercial or otherwise as long as any distribution gives us clear attribution and the symbols are shared under the same licence.
@@ -20,8 +26,3 @@ We do encourage you to share and modify the symbols so that more people can bene
 
 You can easily attribute us with a link to this website with a mention of Mulberry Symbols.
 
-# Downloads
-
-* A [zip of all the symbols](https://github.com/straight-street/mulberry-symbols/blob/master/mulberry-symbols.zip) in SVG format (large file)
-* A [PDF of the symbols](https://github.com/straight-street/mulberry-symbols/blob/master/categories.pdf) sorted by category
-* A [csv spreadsheet](https://github.com/straight-street/mulberry-symbols/blob/master/symbol-info.csv) with categories, tags and ratings
