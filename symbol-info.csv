@@ -1,0 +1,2850 @@
+symbol,grammar,category,rated,tags
+A,Letter,Alphabet,0,alphabet letter
+a_-_lower_case,Noun,Alphabet,0,alphabet letter
+above,Noun,Descriptive Position,0,direction position
+absent,Noun,Descriptive State,0,
+acne_spots,Noun,Healthcare Medical conditions,0,
+acorn,Noun,Plants and Trees,0,gardening plant
+across,Noun,Descriptive Direction,0,abstract direction position
+activity_centre,Noun,Leisure Toys,0,play toys
+Advent,Noun,Religion Festival,0,celebration Christian
+Advent_calendar,Noun,Religion General,0,celebration Christian
+aerial_indoor,Noun,Electrical TV,0,
+aerobics_dance,Noun,Sport,0,sport
+aeroplane,Noun,Transport Air,0,transport travel
+afraid_lady,Noun,People Feelings,0,emotion expression face feeling people
+afraid_man,Noun,People Feelings,0,emotion expression face feeling people
+after,Noun,Descriptive Position,0,direction position
+afternoon,Noun,Descriptive Time,0,calendar diary time
+aftershave,Noun,Healthcare Grooming items,0,grooming
+aftershave_1,Noun,Healthcare Grooming items,0,grooming
+against,Noun,Descriptive Position,0,abstract position
+ahead,Noun,Descriptive Position,0,abstract adverb direction position
+air_person_1a,Noun,People Profession,0,job people profession work
+air_person_1b,Noun,People Profession,0,job people profession work
+air_person_2a,Noun,People Profession,0,job people profession work
+air_person_2b,Noun,People Profession,0,job people profession work
+air_steward_1a,Noun,People Profession,0,job people profession work
+air_steward_1b,Noun,People Profession,0,job people profession work
+air_steward_2a,Noun,People Profession,0,job people profession work
+air_steward_2b,Noun,People Profession,0,job people profession work
+airways,Noun,Healthcare Body parts,0,body
+,,Work and School Timetable,0,
+,,Number Activity,0,
+almond,Noun,Food Nuts,0,
+ambulance,Noun,Transport Road,0,transport travel vehicle
+angel,Noun,Religion Person,0,celebration Christian
+angry_lady,Noun,People Feelings,0,emotion expression face feeling people woman
+angry_man,Noun,People Feelings,0,emotion expression face feeling people
+ankle,Noun,Healthcare Body parts,0,body
+ant,Noun,Animal Spiders and Insects,0,insect
+ant_eater,Noun,Animal Mammal,0,animal mammal wild zoo
+antelope,Noun,Animal Mammal,0,animal mammal wild zoo
+apple,Noun,Food Fruit,0,
+apple_juice,Noun,Drink Type,0,drink juice
+apricot,Noun,Food Fruit,0,food fruit
+apron,Noun,Tools Workshop,0,DIY tools workshop
+aquarium,Noun,Animal Habitat,0,animal
+arch_lever_file,Noun,Work and School Stationery,0,class office school stationery
+archery,Noun,Sport,0,games sport
+archery_target,Noun,Sport Accessories,0,games sport
+arm,Noun,Healthcare Body parts,0,body
+arm_chair,Noun,Building Furniture,0,
+arms,Noun,Healthcare Body parts,0,body
+"armwrestle_,_to",Verb,Leisure Games,0,
+army_tank,Noun,Military,0,transport travel vehicle
+around,Noun,Descriptive Direction,0,direction position
+arrow_keys,Noun,Computer Icon,0,
+art,Noun,Art Making,0,class school
+art_class,Noun,Work and School Timetable,0,class school
+art_room,Noun,Building School,0,class school
+artichoke,Noun,Food Vegetables and salads,0,
+Ash_Wednesday,Noun,Religion Festival,0,celebration Christian
+asparagus,Noun,Food Vegetables and salads,0,food vegetable
+assembly,Noun,Work and School Timetable,0,class school
+at_key,Noun,Computer Icon,0,
+atom,Noun,Science,0,
+aubergine,Noun,Food Vegetables and salads,0,
+aunt_maternal,Noun,People Relationship,0,family relationship relatives
+aunt_paternal,Noun,People Relationship,0,family relationship relatives
+auroscope,Noun,Healthcare Medical items,0,clinic health hospital medical
+autumn,Noun,Descriptive Time,0,calendar diary season time
+avocado,Noun,Food Vegetables and salads,0,food vegetable
+awake,Noun,Descriptive State,0,
+away,Noun,Descriptive Direction,0,direction position
+B,Noun,Alphabet,0,alphabet letter
+b_-_lower_case,Noun,Alphabet,0,alphabet letter
+baby,Noun,People Descriptive,0,grooming
+baby_oil,Noun,Healthcare Grooming items,0,
+baby_powder,Noun,Healthcare Grooming items,0,grooming
+back,Noun,Healthcare Body parts,0,body
+back_1,Noun,Healthcare Body parts,0,body
+back_ache,Noun,Healthcare Medical conditions,0,clinic health hospital medical
+back_garden,Noun,Building Garden and farm,0,animal gardening
+backstop,Noun,Sport Accessories,0,
+backwards,Noun,Descriptive Direction,0,direction position
+bacon,Noun,Food Meat,0,food meat pork
+bad,Noun,Descriptive State,0,
+badger,Noun,Animal Mammal,0,animal wild
+badger_2,Noun,Animal Mammal,0,animal wild
+badminton,Noun,Sport,0,games sport
+badminton_racket,Noun,Sport Accessories,0,games sport
+bagel_2,Noun,Food Breads and baking,0,
+"bake_,_to",Verb,Food Kitchen actions,0,cooking
+baker_1a,Noun,People Profession,0,job people profession work
+baker_1b,Noun,People Profession,0,job people profession work
+baker_2a,Noun,People Profession,0,job people profession work
+baker_2b,Noun,People Profession,0,job people profession work
+baking_tray,Noun,Food Kitchen items,0,cooking kitchen
+ball,Noun,Leisure Toys,0,play toys
+ball_pool,Noun,Leisure Toys,0,
+balloon,Noun,Celebration Item,0,celebration
+banana,Noun,Food Fruit,0,food fruit
+bank,Noun,Money,0,finance money
+bank_card,Noun,Money,0,finance money
+barbeque,Noun,Building Garden and farm,0,home house
+"barbeque_,_to",Verb,Food Kitchen actions,0,cooking
+base_rock,Noun,Science Eco,0,
+baseball_base,Noun,Sport Accessories,0,
+baseball_bat,Noun,Sport Accessories,0,
+baseball_game,Noun,Sport,0,
+baseball_glove,Noun,Sport Accessories,0,
+baseball_player,Noun,Sport,0,
+basket,Noun,Building Contents,0,celebration
+basket_2,Noun,Building Contents,0,celebration
+basketball,Noun,Sport,0,games sport
+basketball_ball,Noun,Sport Accessories,0,
+basketball_game,Noun,Sport,0,
+bat,Noun,Animal Mammal,0,animal wild
+bath,Noun,Building Contents,0,grooming
+"bath_animal_,_to",VerbComplex,Animal Activity Grooming,0,action animal
+bath_mat,Noun,Building Contents,0,home house
+"bathe_,_to",Verb,Healthcare Grooming activities,0,grooming
+battery_1,Noun,Electrical General,0,
+battery_1a,Noun,Electrical General,0,
+battery_2,Noun,Electrical General,0,
+battery_2a,Noun,Electrical General,0,
+beach,Noun,Holiday and travel,0,holiday
+beach_bag,Noun,Clothes Accessories,0,clothes
+beach_towel,Noun,Holiday and travel,0,holiday
+beads,Noun,Leisure Toys,0,play toys
+beak,Noun,Animal Features,0,animal bird
+beaker_1,Noun,Science,0,
+beaker_2,Noun,Science,0,
+beanbag,Noun,Leisure Toys,0,play toys
+,,Food Vegetables and salads,0,
+bear,Noun,Animal Mammal,0,animal mammal wild zoo
+bed_four_poster,Noun,Building Furniture,0,
+bed_time,Noun,Descriptive Time,0,calendar diary time
+bee_bumble,Noun,Animal Spiders and Insects,0,insect
+bee_honey,Noun,Animal Spiders and Insects,0,insect
+beef,Noun,Food Meat,0,beef food meat
+beehive,Noun,Animal Habitat,0,animal
+beer,Noun,Drink Type,0,alcohol drink
+bees_nest,Noun,Animal Habitat,0,animal insect
+beetle,Noun,Animal Spiders and Insects,0,insect
+beetroot,Noun,Food Vegetables and salads,0,
+before,Noun,Descriptive Position,0,direction position
+begin_start,Noun,Descriptive Direction,0,abstract position
+behind,Noun,Descriptive Position,0,direction position
+bell,Noun,Building Contents,0,celebration
+below,Noun,Descriptive Position,0,direction position
+belt,Noun,Clothes General,0,clothes
+bench,Noun,Building Garden and farm,0,gardening
+bendy,Noun,Science,0,
+bendy_1,Noun,Science,0,
+berry,Noun,Food Fruit,0,
+beside_next_to,Noun,Descriptive Position,0,direction position
+between,Noun,Descriptive Position,0,direction position
+bib,Noun,Clothes General,0,clothes
+bicycle,Noun,Transport Road,0,transport travel
+big_mac_switch,Noun,Communication Aid,0,AAC electric
+big_wheel,Noun,Holiday and travel,0,holiday
+bikini,Noun,Clothes General,0,clothes swimwear
+bin_bag,Noun,Building Contents,0,home house
+bin_bags,Noun,Building Contents,0,
+bingo,Noun,Leisure Games,0,
+bingo_marker,Noun,Leisure Games,0,
+bird,Noun,Animal Birds,0,animal bird pet wild
+bird_bath,Noun,Animal Habitat,0,animal bird
+bird_cage,Noun,Animal Habitat,0,animal bird
+bird_feeder,Noun,Animal Habitat,0,animal bird
+bird_seed,Noun,Animal Activity Feeding,0,animal bird
+birthday_cake,Noun,Celebration Item,0,celebration food
+birthday_card,Noun,Celebration Item,0,celebration
+biscuit_chocolate_chip,Noun,Food Breads and baking,0,food snack
+biscuits,Noun,Food Breads and baking,0,food snack
+blackberry,Noun,Food Fruit,0,
+blackboard,Noun,Building Equipment and devices,0,class school
+blackcurrant_juice,Noun,Drink Type,0,drink juice
+blackcurrants,Noun,Food Fruit,0,
+bladder,Noun,Healthcare Body parts,0,
+bladder_kidneys,Noun,Healthcare Body parts,0,
+blanket,Noun,Building Contents,0,
+blanket_chest,Noun,Building Furniture,0,
+blender_drinks,Noun,Food Kitchen items,0,
+"bless_,_to",Verb,Religion General,0,celebration Christian
+blind,Noun,People Descriptive,0,
+blind_2,Noun,People Descriptive,0,
+blinds,Noun,Building Contents,0,home house
+blood_pressure,Noun,Healthcare Medical conditions,0,clinic health hospital medical
+blouse,Noun,Clothes General,0,clothes
+blusher,Noun,Healthcare Grooming items,0,grooming
+boat,Noun,Transport Water,0,transport travel
+bobble_hat,Noun,Clothes General,0,clothes hat
+boccia,Noun,Sport,0,
+boccia_chute,Noun,Sport Accessories,0,
+body_outline,Noun,Healthcare Body parts,0,body
+bolt,Noun,Tools Workshop,0,DIY tools workshop
+bone,Noun,Animal Activity Feeding,0,animal
+bone_2,Noun,Healthcare Body parts,0,
+bonfire,Noun,Building Garden and farm,0,celebration
+Bonfire_Night,Noun,Celebration Event,0,celebration
+book_end,Noun,Building Contents,0,
+book_ends,Noun,Building Contents,0,
+book_shelf,Noun,Building Furniture,0,
+bookcase,Noun,Building Furniture,0,
+bootees,Noun,Clothes General,0,clothes footwear
+boots,Noun,Clothes General,0,clothes footwear
+both,Noun,Descriptive Quantity,0,abstract direction position
+bottom,Noun,Descriptive Position,0,direction position
+bottom_2,Noun,Descriptive Position,0,abstract adjective position
+bottom_3,Noun,Healthcare Body parts,0,
+bow,Noun,Clothes Accessories,0,
+bow_and_arrow,Noun,Sport Accessories,0,games sport
+bow_tie,Noun,Clothes Accessories,0,
+bowl,Noun,Food Kitchen items,0,cooking feeding kitchen
+bowler_1,Noun,Sport,0,
+bowling,Noun,Sport,0,games sport
+bowling_ball,Noun,Sport Accessories,0,
+bowling_gutter,Noun,Sport Accessories,0,
+bowling_pins,Noun,Sport Accessories,0,
+bowling_spare,Noun,Sport Accessories,0,
+bowling_strike,Noun,Sport Accessories,0,
+boxer_shorts,Noun,Clothes General,0,clothes underwear
+Boxing_Day,Noun,Religion Festival,0,celebration Christian
+bra,Noun,Clothes General,0,clothes underwear
+bracelet_1,Noun,Clothes Jewellery,0,clothes jewellery
+bracelet_2,Noun,Clothes Jewellery,0,clothes jewellery
+brain,Noun,Healthcare Body parts,0,
+branch,Noun,Plants and Trees,0,gardening plant
+brazil_nut,Noun,Food Nuts,0,
+bread,Noun,Food Breads and baking,0,food
+bread_roll,Noun,Food Breads and baking,0,food
+bread_roll_3,Noun,Food Breads and baking,0,
+,,Food Breads and baking,0,
+"break_,_to",Verb,Descriptive State,0,abstract
+break_2,Noun,Descriptive State,0,abstract
+"break_egg_,_to",VerbComplex,Food Kitchen actions,0,cooking
+break_time_1,Noun,Work and School Timetable,0,class office school
+break_time_2,Noun,Work and School Timetable,0,class school
+breakfast_time,Noun,Descriptive Time,0,calendar diary time
+breakfast_time_1,Noun,Descriptive Time,0,calendar diary time
+bricks,Noun,Leisure Toys,0,play toys
+bridle,Noun,Animal Activity Grooming,0,animal
+briefcase_1,Noun,Clothes Accessories,0,clothes
+briefcase_2,Noun,Clothes Accessories,0,clothes
+bright,Noun,Electrical General,0,
+bright_room,Noun,Descriptive State,0,abstract
+broad_beans,Noun,Food Vegetables and salads,0,
+broccoli,Noun,Food Vegetables and salads,0,food vegetable
+broken,Noun,Descriptive State,0,abstract
+broken_bone,Noun,Healthcare Medical conditions,0,
+brooch,Noun,Clothes Jewellery,0,clothes jewellery
+broom,Noun,Building Contents,0,home house
+broomstick,Noun,Celebration Item,0,celebration
+brother,Noun,People Relationship,0,family relationship relatives
+"brush_animal_,_to",VerbComplex,Animal Activity Grooming,0,action animal
+"brush_hair_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+"brush_teeth_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+brussel_sprouts,Noun,Food Vegetables and salads,0,
+bubble_bath,Noun,Healthcare Grooming items,0,grooming
+bubble_gum_-_blow,Noun,Food Sweets and desserts,0,
+,,Leisure Toys,0,
+bubble_wrap,Noun,Work and School Stationery,0,class office school stationery
+bubbles_blow,Noun,Leisure Toys,0,play toys
+bucket,Noun,Leisure Toys,0,play toys
+buckle,Noun,Clothes Accessories,0,grooming
+bud,Noun,Plants and Trees,0,gardening plant
+budgie,Noun,Animal Birds,0,animal bird pet
+buffalo,Noun,Animal Mammal,0,animal mammal
+bulb_holder,Noun,Electrical General,0,
+bulb_holder_2,Noun,Electrical General,0,
+bumpy,Noun,Descriptive Shape,0,abstract adjective
+bun_-_hot_cross,Noun,Food Breads and baking,0,food
+bun_currant,Noun,Food Breads and baking,0,
+bunk_beds,Noun,Building Furniture,0,home house
+burn,Noun,Healthcare Medical conditions,0,
+bus,Noun,Leisure Toys,0,play toys transport travel vehicle
+bus_double_decker,Noun,Transport Road,0,transport travel vehicle
+bus_single_decker,Noun,Transport Road,0,transport travel vehicle
+bush,Noun,Plants and Trees,0,gardening plant
+busy,Noun,People Descriptive,0,
+butter,Noun,Food Dairy,0,diary food
+butterfly,Noun,Animal Spiders and Insects,0,insect
+butternut_squash,Noun,Food Vegetables and salads,0,
+button,Noun,Clothes Accessories,0,clothes
+C,Noun,Alphabet,0,alphabet letter
+c_-_lower_case,Noun,Alphabet,0,alphabet letter
+cabbage,Noun,Food Vegetables and salads,0,food vegetable
+cable_tv,Noun,Electrical TV,0,
+cactus,Noun,Plants and Trees,0,gardening plant
+cafe,Noun,Food Feeding and eating,0,
+cafe_2,Noun,Food Feeding and eating,0,
+cage,Noun,Animal Habitat,0,animal
+cake,Noun,Food Breads and baking,0,dessert food
+cake_case,Noun,Food Kitchen items,0,cooking
+cake_slice,Noun,Food Breads and baking,0,
+cake_tin,Noun,Food Kitchen items,0,cooking kitchen
+calculator,Noun,Work and School Stationery,0,class office school stationery
+calendar,Noun,Work and School Timetable,0,class office school stationery
+calendar_month,Noun,Descriptive Time,0,calendar diary season time
+calf,Noun,Healthcare Body parts,0,body
+camel,Noun,Animal Mammal,0,animal mammal wild zoo
+camera,Noun,Electrical Media,0,
+camera_compact,Noun,Electrical Media,0,
+camera_SLR,Noun,Electrical Media,0,
+can_opener,Noun,Food Kitchen items,0,cooking kitchen
+can_opener_electric,Noun,Food Kitchen items,0,cooking electric
+candle_2,Noun,Celebration Item,0,celebration
+candy_cane,Noun,Food Nuts,0,celebration food
+canoe,Noun,Transport Water,0,transport travel
+cap,Noun,Clothes General,0,clothes hat
+car,Noun,Transport Road,0,holiday travel
+car_2,Noun,Transport Road,0,transport travel vehicle
+car_boot,Noun,Transport Road,0,transport travel vehicle
+car_bumper,Noun,Transport Road,0,transport travel vehicle
+car_mechanic_1a,Noun,People Profession,0,job people profession work
+car_mechanic_1b,Noun,People Profession,0,job people profession work
+car_mechanic_2a,Noun,People Profession,0,job people profession work
+car_mechanic_2b,Noun,People Profession,0,job people profession work
+car_toy,Noun,Leisure Toys,0,
+car_transporter,Noun,Transport Road,0,transport travel vehicle
+caravan,Noun,Transport Road,0,transport travel vehicle
+card,Noun,Celebration Item,0,celebration
+cardboard,Noun,Work and School Stationery,0,class school
+care_assistant_1a,Noun,People Profession,0,job people profession work
+care_assistant_1b,Noun,People Profession,0,job people profession work
+care_assistant_2a,Noun,People Profession,0,job people profession work
+care_assistant_2b,Noun,People Profession,0,job people profession work
+care_assistant_3a,Noun,People Profession,0,job people profession work
+care_assistant_3b,Noun,People Profession,0,job people profession work
+care_assistant_4a,Noun,People Profession,0,job people profession work
+care_assistant_4b,Noun,People Profession,0,job people profession work
+care_assistant_5a,Noun,People Profession,0,job people profession work
+care_assistant_5b,Noun,People Profession,0,job people profession work
+care_assistant_6a,Noun,People Profession,0,job people profession work
+care_assistant_6b,Noun,People Profession,0,job people profession work
+caretaker_1a,Noun,People Profession,0,job people profession work
+caretaker_1b,Noun,People Profession,0,job people profession work
+caretaker_2a,Noun,People Profession,0,job people profession work
+caretaker_2b,Noun,People Profession,0,job people profession work
+carol_singer,Noun,Religion Person,0,celebration Christian
+carpenter_1a,Noun,People Profession,0,job people profession work
+carpenter_1b,Noun,People Profession,0,job people profession work
+carpenter_2a,Noun,People Profession,0,job people profession work
+carpenter_2b,Noun,People Profession,0,job people profession work
+carrot,Noun,Food Vegetables and salads,0,food vegetable
+cart,Noun,Transport Road,0,transport travel vehicle
+carton_1,Noun,Drink Containers and measures,0,drink
+carton_2,Noun,Drink Containers and measures,0,drink
+cash_point,Noun,Money,0,finance money
+cashew,Noun,Food Nuts,0,
+casserole,Noun,Food Kitchen items,0,cooking
+cassette_tape,Noun,Electrical Media,0,
+castle,Noun,Building Public,0,class school
+castor_sugar,Noun,Food Ingredients,0,food ingredient
+cat,Noun,Animal Mammal,0,animal pet
+cat_bed,Noun,Animal Habitat,0,animal
+cat_biscuits,Noun,Animal Activity Feeding,0,animal
+cat_food,Noun,Animal Activity Feeding,0,animal
+caterpillar,Noun,Animal Spiders and Insects,0,insect
+catherine_wheel,Noun,Celebration Item,0,celebration
+cauliflower,Noun,Food Vegetables and salads,0,food vegetable
+cctv,Noun,Electrical Media,0,
+CD_player_personal,Noun,Electrical Media,0,electric
+ceiling,Noun,Building Structure,0,home house
+ceiling_light,Noun,Building Structure,0,home house
+"celebrate_2_,_to",Verb,Celebration Event,0,celebration Christian
+"celebrate_3_,_to",Verb,Celebration Event,0,celebration
+celebrate_birthday,Noun,Celebration Event,0,celebration
+celebration,Noun,Celebration Event,0,celebration
+celeriac,Noun,Food Vegetables and salads,0,
+celery,Noun,Food Vegetables and salads,0,
+cement_mixer,Noun,Tools Workshop,0,
+centipede,Noun,Animal Spiders and Insects,0,insect
+cereal,Noun,Food Breads and baking,0,breakfast meal
+cereal_bowl,Noun,Food Kitchen items,0,cooking
+cereal_museli,Noun,Food Breads and baking,0,
+certificate,Noun,Work and School Education,0,class office school
+chair,Noun,Building Furniture,0,home house
+chair_computer,Noun,Building Furniture,0,
+chair_dining,Noun,Building Furniture,0,
+chair_wing_back,Noun,Building Furniture,0,
+chaise_lounge,Noun,Building Furniture,0,
+chalk,Noun,Work and School Stationery,0,class school
+chameleon,Noun,Animal Reptiles and Amphibians,0,animal reptile
+champagne,Noun,Drink Type,0,celebration
+chandelier,Noun,Building Contents,0,
+"change_nappy_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+tv_change_channel,Noun,Electrical TV,0,
+channel_bbc_1,Noun,Electrical TV,0,
+chapatti,Noun,Food Breads and baking,0,
+charge,Noun,Electrical General,0,
+mobile_phone_adaptor,Noun,Electrical Phone,0,
+cheek,Noun,Healthcare Body parts,0,
+cheese,Noun,Food Dairy,0,
+cheese_brie,Noun,Food Dairy,0,diary food
+cheese_burger,Interjection,Food Meals and snacks,0,food meal meat
+,,Food Dairy,0,
+"cheese_on_toast_,_melted",Noun,Food Meals and snacks,0,cooking
+cheese_slices,Noun,Food Dairy,0,
+cheese_stilton,Noun,Food Dairy,0,
+cheetah,Noun,Animal Mammal,0,animal mammal wild zoo
+cheque_book,Noun,Money,0,finance money
+cherry,Noun,Food Fruit,0,food fruit
+chest_female,Noun,Healthcare Body parts,1,body
+chest_male,Noun,Healthcare Body parts,1,body
+chest_of_drawers,Noun,Building Furniture,0,home house
+,,Food Nuts,0,
+chewing_gum,Noun,Food Sweets and desserts,0,sweet
+chewy_tube,Noun,Food Feeding and eating,0,feeding
+chick,Noun,Animal Birds,0,bird celebration
+chicken,Noun,Food Poultry,0,food meat
+chicken_breast,Noun,Food Poultry,0,food meat
+chicken_house,Noun,Animal Habitat,0,animal bird
+chicken_leg,Noun,Food Poultry,0,food meat
+chicken_live,Noun,Animal Birds,0,animal bird pet
+chicken_nuggets,Noun,Food Poultry,0,food meat
+chicken_pieces,Noun,Food Poultry,0,food meat
+chicken_run,Noun,Animal Habitat,0,animal bird
+childrens_tv,Noun,Electrical TV,0,
+chilli_pepper,Noun,Food Vegetables and salads,0,
+chimney,Noun,Building Structure,0,celebration
+chimpanzee,Noun,Animal Mammal,0,animal mammal wild zoo
+chin,Noun,Healthcare Body parts,0,
+chinese_cabbage,Noun,Food Vegetables and salads,0,
+chinese_food,Noun,Food Meals and snacks,0,food meal
+chip_and_pin_device,Noun,Money,0,finance money
+chipmunk,Noun,Animal Mammal,0,animal mammal
+chipmunk_2,Noun,Animal Mammal,0,animal mammal
+chipmunk_3,Noun,Animal Mammal,0,animal mammal
+chisel,Noun,Tools Workshop,0,DIY tools workshop
+chocolate,Noun,Food Sweets and desserts,0,diary food sweet
+chocolate_bar,Noun,Food Sweets and desserts,0,dairy food sweet
+chocolate_egg,Noun,Food Sweets and desserts,0,dairy food sweet
+chocolate_log,Noun,Food Breads and baking,0,celebration Christian food
+"chop_,_to",Verb,Food Kitchen actions,0,cooking
+chopping_board,Noun,Food Kitchen items,0,cooking kitchen
+Christian,Noun,Religion General,0,celebration Christian Easter
+Christmas,Noun,Religion Festival,0,celebration Christian
+Christmas_bauble,Noun,Celebration Item,0,celebration Christian
+Christmas_bell,Noun,Celebration Item,0,celebration Christian
+Christmas_cake,Noun,Food Breads and baking,0,celebration Christian food
+Christmas_Day,Noun,Religion Festival,0,celebration Christian
+Christmas_decorations,Noun,Celebration Item,0,celebration Christian
+Christmas_Eve,Noun,Religion Festival,0,celebration Christian
+Christmas_lights,Noun,Celebration Item,0,celebration Christian
+Christmas_pudding,Noun,Food Breads and baking,0,celebration Christian food
+Christmas_sock,Noun,Celebration Item,0,celebration Christian
+Christmas_tree,Noun,Celebration Item,0,celebration Christian
+Christmas_wreath,Noun,Celebration Item,0,celebration Christian
+church,Noun,Building Public,0,celebration Christian Easter
+cigarette,Noun,Leisure General,0,
+circle_time,Noun,Work and School Timetable,0,class office school
+circuit,Noun,Electrical General,0,
+clamp,Noun,Tools Workshop,0,DIY tools workshop
+class_room,Noun,Building School,0,class school
+claw,Noun,Animal Features,0,animal bird
+clay,Noun,Science,0,
+clean_dishes,Noun,Descriptive State,0,abstract
+clean_hands,Noun,Healthcare Grooming activities,0,
+clean_room,Noun,Descriptive State,0,abstract
+"clean_shoes_,_to",VerbComplex,Building Household tasks,0,action
+"clean_window_,_to",VerbComplex,Building Household tasks,0,action
+cleaner_1a,Noun,People Profession,0,job people profession work
+cleaner_1b,Noun,People Profession,0,job people profession work
+cleaner_2a,Noun,People Profession,0,job people profession work
+cleaner_2b,Noun,People Profession,0,job people profession work
+cleaner_spray,Noun,Building Contents,0,home house
+cleaning_box,Noun,Building Contents,0,
+climbing_rock,Noun,Sport Accessories,0,sport
+climbing_wall,Noun,Sport Accessories,0,sport
+clingfilm,Noun,Food Kitchen items,0,cooking
+"clip_nails_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+,,Art Making,0,
+clock,Noun,Electrical General,0,
+clock_radio,Noun,Electrical General,0,electric
+close_to,Noun,Descriptive Position,0,abstract adjective adverb position
+closed,Noun,Descriptive Position,0,
+closed_shop,Noun,Building Shop,0,
+clothes_extra_large,Noun,Descriptive Quantity,0,
+clothes_female,Noun,Clothes General,0,clothes
+clothes_generic,Noun,Clothes General,0,clothes
+clothes_hanger,Noun,Building Contents,0,home house
+clothes_large,Noun,Descriptive Quantity,0,
+clothes_male,Noun,Clothes General,0,clothes
+clothes_medium,Noun,Descriptive Quantity,0,
+clothes_neat,Noun,Descriptive State,0,
+clothes_peg,Noun,Building Contents,0,home house
+clothes_small,Noun,Descriptive Quantity,0,
+cloudy,Noun,Environment Weather,0,climate forecast weather
+clover,Noun,Plants and Trees,0,gardening plant
+coach,Noun,Transport Road,0,transport travel vehicle
+coat,Noun,Clothes General,0,clothes
+coated_spoon,Noun,Food Feeding and eating,0,feeding utensil
+cockatiel,Noun,Animal Birds,0,animal bird pet
+cockerel,Noun,Animal Birds,0,animal bird
+coffee,Noun,Drink Type,0,drink
+coffee_instant,Noun,Drink Type,0,drink
+coffee_maker,Noun,Food Kitchen items,0,cooking electric
+coffee_table,Noun,Building Furniture,0,
+colander,Noun,Food Kitchen items,0,cooking kitchen
+collar_1,Noun,Clothes General,0,clothes
+collar_pet,Noun,Animal Activity Grooming,0,animal
+colouring_book,Noun,Leisure Toys,0,play toys
+comb,Noun,Healthcare Grooming items,0,grooming
+"comb_animal_,_to",VerbComplex,Animal Activity Grooming,0,action animal
+comedy_tv,Noun,Electrical TV,0,
+comet,Noun,Science Astronomy,0,astronomy
+communication_aid,Noun,Communication Aid,0,aid
+communication_aid_2,Noun,Communication Aid,0,aid
+communication_aid_chat_2,Noun,Communication Aid,0,aid
+communication_aid_gotalk_9p,Noun,Communication Aid,0,aid
+communication_aid_listen_to_me,Noun,Communication Aid,0,aid
+communication_aid_scan4,Noun,Communication Aid,0,aid
+communication_aid_techspeak_32,Noun,Communication Aid,0,aid
+communication_board,Noun,Communication Aid,0,class school
+communication_book,Noun,Communication Aid,0,class school
+communication_book_portable,Noun,Communication Aid,0,aid
+communication_device,Noun,Communication Aid,0,AAC electric
+computer_1,Noun,Electrical Computer,0,computer
+computer_2,Noun,Electrical Computer,0,electric
+computer_art,Noun,Electrical Computer,0,
+computer_cable,Noun,Electrical Computer,0,
+computer_folder_open,Noun,Computer Icon,0,
+computer_game,Noun,Electrical Computer,0,
+computer_game_2,Noun,Electrical Computer,0,
+computer_keyboard,Noun,Electrical Computer,0,
+computer_monitor,Noun,Electrical Computer,0,computer electric
+computer_mouse_1,Noun,Computer Icon,0,computer
+computer_mouse_2,Noun,Electrical Computer,0,electric
+computer_programme,Noun,Electrical Computer,0,
+computer_speaker,Noun,Electrical Computer,0,
+concentrating_lady,Noun,People Feelings,0,emotion expression face feeling people woman
+concentrating_man,Noun,People Feelings,0,emotion expression face feeling people
+confused_lady,Noun,People Feelings,0,emotion expression face feeling people woman
+confused_man,Noun,People Feelings,0,emotion expression face feeling people
+conical_flask,Noun,Food Kitchen items,0,cooking kitchen
+connection,Noun,Electrical Computer,0,
+"cook_,_to",Verb,Food Kitchen actions,0,cooking
+cook_chef_1a,Noun,People Profession,0,job people profession work
+cook_chef_1b,Noun,People Profession,0,job people profession work
+cook_chef_2a,Noun,People Profession,0,job people profession work
+cook_chef_2b,Noun,People Profession,0,job people profession work
+cook_school_1a,Noun,People Profession,0,job people profession work
+cook_school_1b,Noun,People Profession,0,job people profession work
+cooker,Noun,Food Kitchen items,0,cooking kitchen
+copy,Noun,Computer Icon,0,
+corned_beef,Noun,Food Meat,0,
+corner_cabinet,Noun,Building Furniture,0,
+corner_cabinet_2,Noun,Building Furniture,0,
+cornet,Noun,Food Sweets and desserts,0,diary food
+cornflakes,Noun,Food Breads and baking,0,breakfast food meal
+correct,Noun,Descriptive State,0,abstract adjective
+correct_thought,Noun,People Descriptive,0,
+cot,Noun,Building Furniture,0,home house
+cottage_cheese,Noun,Food Dairy,0,diary food
+cotton_bud,Noun,Healthcare Grooming items,0,grooming
+counters,Noun,Money,0,finance money
+country_Afghanistan,Noun,Country Maps,0,
+country_Alaska,Noun,Country Maps,0,country
+country_Albania,Noun,Country Maps,0,
+country_Alderney,Noun,Country Maps,0,
+country_Algeria,Noun,Country Maps,0,country
+country_American_Samoa,Noun,Country Maps,0,
+country_Andorra,Noun,Country Maps,0,
+country_Angola,Noun,Country Maps,0,country
+country_Anguilla,Noun,Country Maps,0,
+country_Antartica,Noun,Country Maps,0,
+country_Antigua_Barbuda,Noun,Country Maps,0,
+country_Argentina,Noun,Country Maps,0,
+country_Armenia,Noun,Country Maps,0,country
+country_Aruba,Noun,Country Maps,0,country
+country_Austria,Noun,Country Maps,0,country
+country_Azerbaijan,Noun,Country Maps,0,country
+country_Bahrain,Noun,Country Maps,0,country
+country_Bangladesh,Noun,Country Maps,0,country
+country_Barbados,Noun,Country Maps,0,country
+country_Belarus,Noun,Country Maps,0,country
+country_Belgium,Noun,Country Maps,0,country
+country_Belize,Noun,Country Maps,0,
+country_Benin,Noun,Country Maps,0,country
+country_Bermuda,Noun,Country Maps,0,
+country_Bhutan,Noun,Country Maps,0,
+country_blank,Noun,Country Maps,0,
+country_Bonaire,Noun,Country Maps,0,country
+country_Bosnia_Herzegovina,Noun,Country Maps,0,country
+country_Botswana,Noun,Country Maps,0,country
+country_Bulgaria,Noun,Country Maps,0,country
+country_Burkina_Faso,Noun,Country Maps,0,country
+country_Burundi,Noun,Country Maps,0,country
+country_Cambodia,Noun,Country Maps,0,
+country_Cameroon,Noun,Country Maps,0,country
+country_Canada,Noun,Country Maps,0,country
+country_Canary_Islands,Noun,Country Maps,0,
+country_Cape_Verde,Noun,Country Maps,0,country
+country_Cayman_Islands,Noun,Country Maps,0,
+country_Chad,Noun,Country Maps,0,country
+country_Chile,Noun,Country Maps,0,country
+country_China,Noun,Country Maps,0,country
+country_Colombia,Noun,Country Maps,0,country
+country_Comoros,Noun,Country Maps,0,country
+country_Congo_Brazzaville,Noun,Country Maps,0,country
+country_Congo_Kinshasa,Noun,Country Maps,0,country
+country_Costa_Rica,Noun,Country Maps,0,country
+country_Croatia,Noun,Country Maps,0,
+country_Cuba,Noun,Country Maps,0,country
+country_Cyprus,Noun,Country Maps,0,country
+country_Denmark,Noun,Country Maps,0,country
+country_Djbouti,Noun,Country Maps,0,country
+country_Dominican_Republic,Noun,Country Maps,0,country
+country_Ecuador,Noun,Country Maps,0,
+country_England,Noun,Country Maps,0,country
+country_Eritrea,Noun,Country Maps,0,country
+country_Estonia,Noun,Country Maps,0,country
+country_Ethiopia,Noun,Country Maps,0,country
+country_Falkland_Islands,Noun,Country Maps,0,
+country_Finland,Noun,Country Maps,0,country
+country_France,Noun,Country Maps,0,country
+country_Gabon,Noun,Country Maps,0,country
+country_Georgia,Noun,Country Maps,0,country
+country_Germany,Noun,Country Maps,0,country
+country_Ghana,Noun,Country Maps,0,country
+country_Gibraltar,Noun,Country Maps,0,
+country_Greece,Noun,Country Maps,0,country
+country_Greenland,Noun,Country Maps,0,country
+country_Grenada,Noun,Country Maps,0,
+country_Guernsey,Noun,Country Maps,0,
+country_Guinea,Noun,Country Maps,0,
+country_Guinea_Bissau,Noun,Country Maps,0,country
+country_Guyana,Noun,Country Maps,0,country
+country_Haiti,Noun,Country Maps,0,country
+country_Hawaii,Noun,Country Maps,0,
+country_Honduras,Noun,Country Maps,0,country
+country_Hong_Kong,Noun,Country Maps,0,country
+country_Hungary,Noun,Country Maps,0,country
+country_Iceland,Noun,Country Maps,0,country
+country_India,Noun,Country Maps,0,country
+country_Indonesia,Noun,Country Maps,0,country
+country_Iran,Noun,Country Maps,0,
+country_Iraq,Noun,Country Maps,0,country
+country_Ireland,Noun,Country Maps,0,country
+country_Isle_of_Man,Noun,Country Maps,0,
+country_Israel,Noun,Country Maps,0,country
+country_Italy,Noun,Country Maps,0,country
+country_Ivory_Coast,Noun,Country Maps,0,country
+country_Jamaica,Noun,Country Maps,0,country
+country_Japan,Noun,Country Maps,0,country
+country_Jersey,Noun,Country Maps,0,
+country_Jordan,Noun,Country Maps,0,country
+country_Kazakhstan,Noun,Country Maps,0,
+country_Kenya,Noun,Country Maps,0,
+country_Kosovo,Noun,Country Maps,0,
+country_Kuwait,Noun,Country Maps,0,country
+country_Kyrgyzstan,Noun,Country Maps,0,
+country_Laos,Noun,Country Maps,0,country
+country_Latvia,Noun,Country Maps,0,country
+country_Lebanon,Noun,Country Maps,0,
+country_Lesotho,Noun,Country Maps,0,
+country_Liberia,Noun,Country Maps,0,country
+country_Libya,Noun,Country Maps,0,country
+country_Liechtenstein,Noun,Country Maps,0,
+country_Lithuania,Noun,Country Maps,0,country
+country_Luxembourg,Noun,Country Maps,0,country
+country_Macedonia,Noun,Country Maps,0,
+country_Madagascar,Noun,Country Maps,0,country
+country_Malaysia,Noun,Country Maps,0,country
+country_Maldives,Noun,Country Maps,0,
+country_Mali,Noun,Country Maps,0,country
+country_Marshall_Islands,Noun,Country Maps,0,
+country_Mauritania,Noun,Country Maps,0,country
+country_Mauritius,Noun,Country Maps,0,country
+country_Moldova,Noun,Country Maps,0,
+country_Monaco,Noun,Country Maps,0,country
+country_Mongolia,Noun,Country Maps,0,
+country_Morocco,Noun,Country Maps,0,
+country_Namibia,Noun,Country Maps,0,country
+country_Nauru,Noun,Country Maps,0,country
+country_Nepal,Noun,Country Maps,0,
+country_New_Caledonia,Noun,Country Maps,0,
+country_New_Zealand,Noun,Country Maps,0,country
+country_Niger,Noun,Country Maps,0,country
+country_Nigeria,Noun,Country Maps,0,country
+country_Niue,Noun,Country Maps,0,country
+country_North_Korea,Noun,Country Maps,0,country
+country_Northern_Cyprus,Noun,Country Maps,0,country
+country_Norway,Noun,Country Maps,0,country
+country_Oman,Noun,Country Maps,0,country
+country_Pakistan,Noun,Country Maps,0,country
+country_Palau,Noun,Country Maps,0,country
+country_Palestine,Noun,Country Maps,0,country
+country_Panama,Noun,Country Maps,0,country
+country_Papua_New_Guinea,Noun,Country Maps,0,
+country_Paraguay,Noun,Country Maps,0,
+country_Pitcairn_Islands,Noun,Country Maps,0,
+country_Qatar,Noun,Country Maps,0,country
+country_Romania,Noun,Country Maps,0,country
+country_Russian_Federation,Noun,Country Maps,0,country
+country_Rwanda,Noun,Country Maps,0,country
+country_Samoa,Noun,Country Maps,0,country
+country_Sao_Tome_Principe,Noun,Country Maps,0,country
+country_Saudi_Arabia,Noun,Country Maps,0,country
+country_Scotland,Noun,Country Maps,0,country
+country_Senegal,Noun,Country Maps,0,country
+country_Seychelles,Noun,Country Maps,0,country
+country_Sierra_Leone,Noun,Country Maps,0,country
+country_Singapore,Noun,Country Maps,0,country
+country_Slovenia,Noun,Country Maps,0,
+country_Solomon_Islands,Noun,Country Maps,0,country
+country_Somalia,Noun,Country Maps,0,country
+country_Somaliland,Noun,Country Maps,0,
+country_South_Africa,Noun,Country Maps,0,country
+country_South_Korea,Noun,Country Maps,0,country
+country_Sri_Lanka,Noun,Country Maps,0,
+country_St_Vincent_Grenadines,Noun,Country Maps,0,
+country_St._Kitts_and_Nevis,Noun,Country Maps,0,country
+country_Suriname,Noun,Country Maps,0,country
+country_Sweden,Noun,Country Maps,0,country
+country_Switzerland,Noun,Country Maps,0,country
+country_Syria,Noun,Country Maps,0,country
+country_Taiwan,Noun,Country Maps,0,country
+country_Tanzania,Noun,Country Maps,0,country
+country_Thailand,Noun,Country Maps,0,country
+country_The_Azores,Noun,Country Maps,0,
+country_The_Bahamas,Noun,Country Maps,0,country
+country_The_Czech_Republic,Noun,Country Maps,0,country
+country_The_Faroe_Islands,Noun,Country Maps,0,
+country_The_Gambia,Noun,Country Maps,0,country
+country_The_Netherlands,Noun,Country Maps,0,country
+country_The_Sudan,Noun,Country Maps,0,country
+country_Togo,Noun,Country Maps,0,country
+country_Trinidad_and_Tobago,Noun,Country Maps,0,country
+country_Tunisia,Noun,Country Maps,0,country
+country_Turkey,Noun,Country Maps,0,country
+country_Ukraine,Noun,Country Maps,0,country
+country_United_Arab_Emirates,Noun,Country Maps,0,
+country_United_Kingdom,Noun,Country Maps,0,country
+country_United_States,Noun,Country Maps,0,country
+country_Uzbekistan,Noun,Country Maps,0,country
+country_Vanuatu,Noun,Country Maps,0,
+country_Venezuela,Noun,Country Maps,0,country
+country_Viet_Nam,Noun,Country Maps,0,country
+country_Wakes_Island,Noun,Country Maps,0,
+country_Wales,Noun,Country Maps,0,
+country_Western_Sahara,Noun,Country Maps,0,country
+country_Yemen,Noun,Country Maps,0,country
+country_Zambia,Noun,Country Maps,0,
+courgette,Noun,Food Vegetables and salads,0,food vegetable
+"cover_food_,_to",VerbComplex,Food Kitchen actions,0,cooking
+cow,Noun,Animal Mammal,0,animal farm mammal
+cow_shed,Noun,Animal Habitat,0,animal
+crab,Noun,Animal Crustacean and Molluscs,0,animal wild
+cracker,Noun,Celebration Item,0,celebration Christian
+cranberries,Noun,Food Fruit,0,
+cranberry_juice,Noun,Drink Type,0,
+crane,Noun,Tools Workshop,0,
+crane_fly,Noun,Animal Spiders and Insects,0,insect
+crayon,Noun,Work and School Stationery,0,class office school stationery
+cream,Noun,Food Dairy,0,diary food
+cream_ointment,Noun,Healthcare Grooming items,0,clinic health hospital medical
+creme_fraiche,Noun,Food Dairy,0,
+cricket,Noun,Sport,0,games sport
+cricket_2,Noun,Animal Spiders and Insects,0,animal insect
+cricket_ball,Noun,Sport Accessories,0,
+cricket_bowler,Noun,Sport,0,
+crisps,Noun,Food Meals and snacks,0,food snack
+crisps_cheese_puffs,Noun,Food Meals and snacks,0,
+crocodile,Noun,Animal Reptiles and Amphibians,0,animal reptile wild zoo
+crocodile_2,Noun,Animal Reptiles and Amphibians,0,animal reptile wild zoo
+crooked,Noun,Descriptive Shape,0,abstract adjective
+cross,Noun,Religion General,0,celebration Christian Easter
+cross_palm,Noun,Religion General,0,celebration Christian Easter
+crown,Noun,Clothes General,0,clothes hat
+crown_of_thorns,Noun,Religion General,0,celebration Christian Easter
+Crucifixion,Noun,Religion Festival,0,celebration Christian Easter
+cruiser,Noun,Transport Water,0,holiday travel
+crunchy,Noun,Food Feeding and eating,0,
+"crush_,_to",Verb,Food Kitchen actions,0,
+"crush_garlic_,_to",VerbComplex,Food Kitchen actions,0,cooking
+crutches,Noun,Healthcare Medical items,0,clinic health hospital medical
+crutches_1,Noun,Healthcare Medical items,0,clinic health hospital medical
+cucumber,Noun,Food Vegetables and salads,0,food vegetable
+cup_non_spill,Noun,Food Feeding and eating,0,feeding
+cupboard,Noun,Building Furniture,0,home house
+curly,Noun,Descriptive Shape,0,abstract adjective
+curly_hair,Noun,People Descriptive,0,
+curry,Noun,Food Meals and snacks,0,food meal
+curtains,Noun,Building Contents,0,home house
+cushion_2,Noun,Building Furniture,0,
+cut,Noun,Healthcare Medical conditions,0,clinic health hospital medical
+"cycle_,_to",Verb,Sport,0,sport
+cycle_helmet,Noun,Clothes Sport,0,sport
+cymbals_hand,Noun,Music Instrument,0,instrument music
+D,Noun,Alphabet,0,alphabet letter
+d_-_lower_case,Noun,Alphabet,0,alphabet letter
+dad_parent,Noun,People Relationship,0,family relationship relatives
+daffodil,Noun,Plants and Trees,0,gardening plant
+daisy,Noun,Plants and Trees,0,gardening plant
+darts,Noun,Leisure Games,0,games sport
+date,Noun,Descriptive Time,0,calendar diary season time
+daughter,Noun,People Relationship,0,family relationship relatives
+day,Noun,Descriptive Time,0,calendar diary time
+dead,Noun,Descriptive State,0,
+dead_plant,Noun,Plants and Trees,0,
+"decorate_cake_,_to",VerbComplex,Food Kitchen actions,0,cooking
+"decorate_tree_,_to",VerbComplex,Celebration Event,0,celebration Christian
+deep,Noun,Descriptive Quantity,0,abstract adjective position
+,,Food Kitchen items,0,
+deer,Noun,Animal Mammal,0,animal wild
+delicious_drink,Noun,Food Feeding and eating,0,
+delicious_food,Noun,Food Feeding and eating,0,
+delivery_person_1a,Noun,People Profession,0,job people profession work
+delivery_person_1b,Noun,People Profession,0,job people profession work
+delivery_person_2a,Noun,People Profession,0,job people profession work
+delivery_person_2b,Noun,People Profession,0,job people profession work
+delivery_trolley,Noun,Tools Workshop,0,
+dental_floss,Noun,Healthcare Grooming items,0,grooming
+dentist_1a,Noun,People Profession,0,job people profession work
+dentist_1b,Noun,People Profession,0,job people profession work
+dentist_2a,Noun,People Profession,0,job people profession work
+dentist_2b,Noun,People Profession,0,job people profession work
+deodorant,Noun,Healthcare Grooming items,0,grooming
+deodorant_spray,Noun,Healthcare Grooming items,0,grooming
+desiring_lady,Noun,People Feelings,0,emotion expression face feeling people woman
+desiring_man,Noun,People Feelings,0,emotion expression face feeling people
+desk,Noun,Building Furniture,0,home house
+"dice_,_to",Verb,Food Kitchen actions,0,cooking
+dictionary,Noun,Work and School Stationery,0,class office school stationery
+dining_table,Noun,Building Furniture,0,
+dinner,Noun,Food Feeding and eating,0,
+dinner_2_people,Noun,Food Feeding and eating,0,celebration
+dinner_3_people,Noun,Food Feeding and eating,0,celebration
+dinner_cold,Noun,Food Meals and snacks,0,
+dinner_hot,Noun,Food Feeding and eating,0,
+dinner_lady_1a,Noun,People Profession,0,job people profession work
+dinner_lady_1b,Noun,People Profession,0,job people profession work
+dinner_time,Noun,Descriptive Time,0,calendar diary time
+dinner_time_1,Noun,Descriptive Time,0,calendar diary time
+dinosaur,Noun,Leisure Toys,0,play toys
+"dip_food_,_to",VerbComplex,Food Kitchen actions,0,
+dirty,Noun,Descriptive State,0,
+dirty_dishes,Noun,Food Kitchen items,0,cooking
+disabled_sign,Noun,Communication Signs,0,communication
+disabled_toilet,Noun,Building Public,0,communication
+disgusted_lady,Noun,People Feelings,0,emotion expression face feeling people woman
+disgusted_man,Noun,People Feelings,0,emotion expression face feeling people
+dish,Noun,Food Kitchen items,0,cooking kitchen
+dish_cloth,Noun,Food Kitchen items,0,cooking feeding kitchen
+dish_partitioned,Noun,Food Feeding and eating,0,feeding
+dishes,Noun,Food Kitchen items,0,cooking
+dishwasher,Noun,Building Equipment and devices,0,home house
+dishwasher_powder,Noun,Building Contents,0,home house
+"dive_2_,_to",Verb,Sport,0,sport
+doctor_1a,Noun,People Profession,0,job people profession work
+doctor_1b,Noun,People Profession,0,job people profession work
+doctor_2a,Noun,People Profession,0,job people profession work
+doctor_2b,Noun,People Profession,0,job people profession work
+dog,Noun,Animal Mammal,0,animal pet
+dog_basket,Noun,Animal Habitat,0,animal
+dog_bed,Noun,Animal Habitat,0,animal
+dog_biscuits,Noun,Animal Activity Feeding,0,animal
+dog_chew,Noun,Animal Activity Feeding,0,animal
+dog_coat,Noun,Animal Activity Grooming,0,animal
+dog_food,Noun,Animal Activity Feeding,0,animal
+dog_kennel,Noun,Animal Habitat,0,animal pet
+doidy_cup,Noun,Food Feeding and eating,0,feeding
+doll,Noun,Leisure Toys,0,play toys
+dolphin,Noun,Animal Fish and Marine mammals,0,animal mammal wild zoo
+donkey,Noun,Animal Mammal,0,animal mammal
+door,Noun,Building Structure,0,home house
+door_2,Noun,Building Structure,0,
+double_bed,Noun,Building Furniture,0,
+doughnut,Noun,Food Breads and baking,0,cake food
+dove,Noun,Animal Birds,0,bird celebration Christian Easter
+down,Noun,Descriptive Direction,0,direction position
+download,Noun,Computer Icon,0,
+dragonfly,Noun,Animal Spiders and Insects,0,insect
+draining_board,Noun,Building Furniture,0,home house
+drama,Noun,Work and School Subjects,0,class school
+drama_class,Noun,Work and School Timetable,0,class school
+drawer,Noun,Building Furniture,0,home house
+drawing_pin,Noun,Work and School Stationery,0,class office school stationery
+dress,Noun,Clothes General,0,clothes
+dresser,Noun,Building Furniture,0,home house
+dressing_gown,Noun,Clothes General,0,clothes sleepwear
+dressing_table,Noun,Building Furniture,0,home house
+football_dribble,Noun,Sport,0,
+drill_bit,Noun,Tools Workshop,0,DIY tools workshop
+drill_electric,Noun,Tools Workshop,0,DIY tools workshop
+,,Drink Type,0,
+"drink_,_to",Verb,Drink Actions,0,grooming
+drink_cold,Noun,Drink Description,0,
+drink_cold_2,Noun,Drink Description,0,
+drink_consistency_firm_spoon,Noun,Food Feeding and eating,0,feeding
+drink_consistency_honey_cup,Noun,Food Feeding and eating,0,feeding
+drink_consistency_juice_straw,Noun,Food Feeding and eating,0,feeding
+drink_hot,Noun,Drink Description,0,
+drink_hot_2,Noun,Drink Description,0,
+drink_large,Noun,Drink Containers and measures,0,drink
+drink_medium,Noun,Drink Containers and measures,0,drink
+drink_small,Noun,Drink Containers and measures,0,drink
+,,Drink Description,0,
+dropper_pipette,Noun,Science,0,
+drum,Noun,Music Instrument,0,instrument music
+dry,Noun,Descriptive State,0,
+"dry_face_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+"dry_hair_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+"dry_hair_2_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+"dry_hands_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+"dry_hands_2_,_to",VerbComplex,Healthcare Grooming activities,0,electric grooming
+duck,Noun,Animal Birds,0,animal bird pet wild
+dumper_truck,Noun,Transport Road,0,transport travel vehicle
+"dust_,_to",Verb,Building Household tasks,0,action
+DVD_player,Noun,Electrical Media,0,electric
+DVD_player_portable,Noun,Electrical Media,0,electric
+dysphagia_cup,Noun,Food Feeding and eating,0,feeding
+dysphagia_cup_2,Noun,Food Feeding and eating,0,feeding
+dysphagia_cup_3,Noun,Food Feeding and eating,0,feeding
+E,Noun,Alphabet,0,alphabet letter
+e_-_lower_case,Noun,Alphabet,0,alphabet letter
+ear,Noun,Healthcare Body parts,0,body
+ear_muffs,Noun,Clothes General,0,clothes
+earrings,Noun,Clothes Jewellery,0,clothes jewellery
+Earth,Noun,Science Astronomy,0,astronomy planets
+Earth_crust,Noun,Science,0,
+Earth_inner_core,Noun,Science,0,
+Earth_mantle,Noun,Science,0,
+Earth_outer_core,Noun,Science,0,
+Earths_atmosphere,Noun,Science Astronomy,0,astronomy planets
+earthworm,Noun,Animal Other Invertebrates,0,insect
+earwig,Noun,Animal Spiders and Insects,0,insect
+east,Noun,Descriptive Direction,0,direction position
+Easter_egg,Noun,Celebration Item,0,celebration Christian Easter food
+Easter_egg_hunt,Noun,Celebration Event,0,celebration Christian Easter
+egg,Noun,Food Eggs,0,diary food
+egg_boiled,Noun,Food Eggs,0,diary food meal
+egg_cup,Noun,Food Kitchen items,0,cooking feeding kitchen
+egg_fried,Noun,Food Eggs,0,diary food meal
+egg_on_toast,Noun,Food Eggs,0,diary food meal
+,,Food Eggs,0,
+eggs,Noun,Food Eggs,0,diary food
+eggs_scrambled,Noun,Food Eggs,0,diary food meal
+eighth,Noun,Descriptive Quantity,0,amount fraction
+either,Noun,Descriptive Quantity,0,abstract direction position
+elbow,Noun,Healthcare Body parts,0,
+elearning,Noun,Electrical Computer,0,
+elephant,Noun,Animal Mammal,0,animal mammal wild zoo
+elf,Noun,Celebration Item,0,celebration
+emagazine,Noun,Electrical Computer,0,
+email,Noun,Computer Icon,0,
+email_attachment,Noun,Computer Icon,0,
+emery_board,Noun,Healthcare Grooming items,0,grooming
+empty,Noun,Descriptive Quantity,0,abstract adjective
+energy_monitor,Noun,Electrical General,0,
+engine,Noun,Transport Road,0,transport travel vehicle
+english,Noun,Work and School Subjects,0,class school
+english_class,Noun,Work and School Timetable,0,class school
+enough,Noun,Descriptive Quantity,0,abstract adjective
+"enter_,_to",Verb,Descriptive Direction,0,
+"enter_door_,_to",VerbComplex,People Actions,0,
+envelope,Noun,Work and School Stationery,0,class office school stationery
+escalator,Noun,Building Structure,0,home house
+even,Noun,Descriptive Shape,0,abstract adjective
+every,Noun,Descriptive Quantity,0,amount
+excited_lady,Noun,People Feelings,0,emotion expression face feeling people woman
+excited_man,Noun,People Feelings,0,emotion expression face feeling people
+"exercise_,_to",Verb,Sport,0,class school
+"exit_,_to",Verb,Descriptive Direction,0,
+"exit_door_,_to",VerbComplex,People Actions,0,
+extension_lead,Noun,Electrical General,0,
+extra,Noun,Descriptive Quantity,0,abstract adjective
+extra_2,Noun,Descriptive Quantity,0,abstract adjective
+extra_large,Noun,Descriptive Quantity,0,abstract adjective
+eye,Noun,Healthcare Body parts,0,
+eye_drops,Noun,Healthcare Medical items,0,clinic health hospital medical
+eye_shadow,Noun,Healthcare Grooming items,0,grooming
+eyebrow,Noun,Healthcare Body parts,0,
+eyebrow_bushy,Noun,Healthcare Body parts,0,
+eyebrow_pencil,Noun,Healthcare Grooming items,0,grooming
+eyelash,Noun,Healthcare Body parts,0,
+eyelash_curler,Noun,Healthcare Grooming items,0,grooming
+eyes,Noun,Healthcare Body parts,0,
+eyes_blue,Noun,Healthcare Body parts,0,
+eyes_brown,Noun,Healthcare Body parts,0,
+eyes_closed,Noun,People Descriptive,0,
+eyes_green,Noun,Healthcare Body parts,0,
+F,Noun,Alphabet,0,alphabet letter
+f_-_lower_case,Noun,Alphabet,0,alphabet letter
+fabric,Noun,Science,0,
+face_neutral_3,Noun,People Feelings,0,grooming
+fairy,Noun,Celebration Item,0,celebration
+family,Noun,People Relationship,0,celebration
+family_2,Noun,People Relationship,0,family relationship relatives
+fancy,Noun,Descriptive State,0,
+fangs,Noun,Animal Features,0,animal
+farmer_1a,Noun,People Profession,0,job people profession work
+farmer_1b,Noun,People Profession,0,job people profession work
+farmer_2a,Noun,People Profession,0,job people profession work
+farmer_2b,Noun,People Profession,0,job people profession work
+fast_2,Noun,Descriptive Quantity,0,
+fat,Noun,People Descriptive,0,features people size
+Father_Christmas,Noun,Celebration Item,0,celebration Christian
+Father_Christmas_sack,Noun,Celebration Item,0,celebration Christian
+favourite,Noun,Descriptive Quantity,0,abstract adjective position
+fax_machine,Noun,Electrical General,0,
+feather,Noun,Animal Features,0,animal bird
+features,Noun,Healthcare Body parts,0,
+"feed_cat_,_to",VerbComplex,Animal Activity Feeding,0,action
+"feed_dog_,_to",VerbComplex,Animal Activity Feeding,0,action
+feet,Noun,Healthcare Body parts,0,body
+felt_tips,Noun,Work and School Stationery,0,class office school stationery
+female_body,Noun,Healthcare Body parts,1,
+female_side,Noun,People Feelings,0,
+ferret,Noun,Animal Mammal,0,animal pet
+ferry,Noun,Transport Water,0,transport travel
+fibre_optic_lamp,Noun,Leisure Toys,0,communication
+field,Noun,Building Garden and farm,0,animal
+fifty_percent,Noun,Descriptive Quantity,0,amount percent
+fig,Noun,Food Fruit,0,
+file,Noun,Tools Workshop,0,DIY tools workshop
+"file_nails_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+filing_cabinet,Noun,Building Furniture,0,
+filter_paper,Noun,Science,0,
+fin,Noun,Animal Features,0,animal
+finger,Noun,Healthcare Body parts,0,body
+finger_puppet,Noun,Leisure Toys,0,play toys
+fingernail,Noun,Healthcare Body parts,0,body
+nails,Noun,Healthcare Body parts,0,
+fingers,Noun,Healthcare Body parts,0,
+finish,Noun,Descriptive Direction,0,abstract adjective position
+fir_tree,Noun,Plants and Trees,0,gardening plant
+fire,Noun,Descriptive State,0,abstract
+fire_engine,Noun,Transport Road,0,transport travel vehicle
+fire_helmet,Noun,Clothes General,0,equipment uniform
+fire_hose,Noun,Tools Workshop,0,equipment
+fireplace,Noun,Building Structure,0,home house
+fireworks,Noun,Celebration Item,0,celebration
+fireworks_2,Noun,Celebration Item,0,celebration
+first,Noun,Descriptive Position,0,direction position
+first_2,Noun,Descriptive Position,0,
+first_aid_box,Noun,Healthcare Medical items,0,clinic health hospital medical
+first_base,Noun,Sport Accessories,0,
+fish,Noun,Animal Fish and Marine mammals,0,food
+"fish_,_to",Verb,Sport,0,sport
+fish_battered,Noun,Food Meals and snacks,0,food meal
+fish_burger,Noun,Food Meals and snacks,0,food meal
+fish_food,Noun,Animal Activity Feeding,0,animal
+fish_koi_carp,Noun,Animal Fish and Marine mammals,0,animal pet
+fish_tank,Noun,Animal Habitat,0,animal
+fish_tropical,Noun,Animal Fish and Marine mammals,0,animal pet
+fist,Noun,Healthcare Body parts,0,body
+,,Number,0,
+flag_Aboriginal_Peoples,Noun,Country Flags,0,flag
+flag_Abu_Dhabi_-_UAE,Noun,Country Flags,0,flag
+flag_Afghanistan,Noun,Country Flags,0,
+flag_African_Union,Noun,Country Flags,0,
+flag_Ajman_Dubia_-_UAE,Noun,Country Flags,0,flag
+flag_Aland_Islands_-_Finland,Noun,Country Flags,0,flag
+flag_Alaska,Noun,Country Flags,0,flag
+flag_Albania,Noun,Country Flags,0,
+flag_Alderney,Noun,Country Flags,0,
+flag_Algeria,Noun,Country Flags,0,flag
+flag_American_Samoa,Noun,Country Flags,0,
+flag_Andorra,Noun,Country Flags,0,
+flag_Angola,Noun,Country Flags,0,flag
+flag_Anguilla,Noun,Country Flags,0,
+flag_Antartica,Noun,Country Flags,0,
+flag_Antigua_Barbuda,Noun,Country Flags,0,flag
+flag_Argentina,Noun,Country Flags,0,
+flag_Armenia,Noun,Country Flags,0,flag
+flag_Aruba,Noun,Country Flags,0,flag
+flag_Asean,Noun,Country Flags,0,flag
+flag_Austria,Noun,Country Flags,0,flag
+flag_Azerbaijan,Noun,Country Flags,0,flag
+flag_Bahrain,Noun,Country Flags,0,flag
+flag_Bangladesh,Noun,Country Flags,0,flag
+flag_Barbados,Noun,Country Flags,0,flag
+flag_Belarus,Noun,Country Flags,0,flag
+flag_Belgium,Noun,Country Flags,0,flag
+flag_Belize,Noun,Country Flags,0,
+flag_Benin,Noun,Country Flags,0,flag
+flag_Bermuda,Noun,Country Flags,0,
+flag_Bhutan,Noun,Country Flags,0,
+flag_blank,Noun,Country Flags,0,flag
+flag_Bolivia,Noun,Country Flags,0,
+flag_Bonaire_Dutch_Antillies,Noun,Country Flags,0,flag
+flag_Bosnia_Herzegovina,Noun,Country Flags,0,flag
+flag_Botswana,Noun,Country Flags,0,flag
+flag_Brazil,Noun,Country Flags,0,
+flag_Brunei,Noun,Country Flags,0,
+flag_Bulgaria,Noun,Country Flags,0,flag
+flag_Burkina_Faso,Noun,Country Flags,0,flag
+flag_Burundi,Noun,Country Flags,0,flag
+flag_Cambodia,Noun,Country Flags,0,
+flag_Cameroon,Noun,Country Flags,0,flag
+flag_Canada,Noun,Country Flags,0,flag
+flag_Canary_Islands,Noun,Country Flags,0,
+flag_Cape_Verde,Noun,Country Flags,0,flag
+flag_Caricom,Noun,Country Flags,0,flag
+flag_Cayman_Islands,Noun,Country Flags,0,
+flag_Central_African_Republic,Noun,Country Flags,0,flag
+flag_Chad,Noun,Country Flags,0,flag
+flag_Chile,Noun,Country Flags,0,flag
+flag_China,Noun,Country Flags,0,flag
+flag_Colombia,Noun,Country Flags,0,flag
+flag_Comoros,Noun,Country Flags,0,flag
+flag_Congo_Brazzaville,Noun,Country Flags,0,flag
+flag_Congo_Kinshasa,Noun,Country Flags,0,flag
+flag_Cook_Islands,Noun,Country Flags,0,
+flag_Costa_Rica,Noun,Country Flags,0,flag
+flag_Croatia,Noun,Country Flags,0,
+flag_Cuba,Noun,Country Flags,0,flag
+flag_Cyprus,Noun,Country Flags,0,flag
+flag_Denmark,Noun,Country Flags,0,flag
+flag_Djibouti,Noun,Country Flags,0,flag
+flag_Dominica,Noun,Country Flags,0,
+flag_Dominican_Republic,Noun,Country Flags,0,flag
+flag_Ecuador,Noun,Country Flags,0,
+flag_Egypt,Noun,Country Flags,0,
+flag_El_Salvador,Noun,Country Flags,0,
+flag_England,Noun,Country Flags,0,flag
+flag_Equatorial_Guinea,Noun,Country Flags,0,
+flag_Eritrea,Noun,Country Flags,0,flag
+flag_Estonia,Noun,Country Flags,0,flag
+flag_Ethiopia,Noun,Country Flags,0,flag
+flag_European_Union,Noun,Country Flags,0,flag
+flag_Falkland_Islands,Noun,Country Flags,0,
+flag_Fiji,Noun,Country Flags,0,
+flag_Finland,Noun,Country Flags,0,flag
+flag_France,Noun,Country Flags,0,flag
+flag_Fujairah_-_UAE,Noun,Country Flags,0,flag
+flag_Gabon,Noun,Country Flags,0,flag
+flag_Georgia,Noun,Country Flags,0,flag
+flag_Germany,Noun,Country Flags,0,flag
+flag_Ghana,Noun,Country Flags,0,flag
+flag_Gibraltar,Noun,Country Flags,0,
+flag_Greece,Noun,Country Flags,0,flag
+flag_Greenland,Noun,Country Flags,0,flag
+flag_Grenada,Noun,Country Flags,0,
+flag_Guam,Noun,Country Flags,0,
+flag_Guernsey,Noun,Country Flags,0,
+flag_Guinea,Noun,Country Flags,0,
+flag_Guinea_Bissau,Noun,Country Flags,0,flag
+flag_Guyana,Noun,Country Flags,0,flag
+flag_Haiti,Noun,Country Flags,0,flag
+flag_Hawaii,Noun,Country Flags,0,
+flag_Honduras,Noun,Country Flags,0,flag
+flag_Hong_Kong_-_China,Noun,Country Flags,0,flag
+flag_Hungary,Noun,Country Flags,0,flag
+flag_Iceland,Noun,Country Flags,0,flag
+flag_India,Noun,Country Flags,0,flag
+flag_Indonesia,Noun,Country Flags,0,flag
+flag_Iran,Noun,Country Flags,0,
+flag_Iraq,Noun,Country Flags,0,flag
+flag_Ireland,Noun,Country Flags,0,flag
+flag_Isle_of_Man,Noun,Country Flags,0,
+flag_Israel,Noun,Country Flags,0,flag
+flag_Italy,Noun,Country Flags,0,flag
+flag_Ivory_Coast,Noun,Country Flags,0,flag
+flag_Jamaica,Noun,Country Flags,0,flag
+flag_Japan,Noun,Country Flags,0,flag
+flag_Jersey,Noun,Country Flags,0,
+flag_Jordan,Noun,Country Flags,0,flag
+flag_Kazakhstan,Noun,Country Flags,0,
+flag_Kenya,Noun,Country Flags,0,
+flag_Kiribati,Noun,Country Flags,0,
+flag_Kosovo,Noun,Country Flags,0,
+flag_Kuwait,Noun,Country Flags,0,flag
+flag_Kyrgyzstan,Noun,Country Flags,0,
+flag_Laos,Noun,Country Flags,0,flag
+flag_Latvia,Noun,Country Flags,0,flag
+flag_Lebanon,Noun,Country Flags,0,
+flag_Lesotho,Noun,Country Flags,0,
+flag_Liberia,Noun,Country Flags,0,flag
+flag_Libya,Noun,Country Flags,0,flag
+flag_Liechtenstein,Noun,Country Flags,0,
+flag_Lithuania,Noun,Country Flags,0,flag
+flag_Luxembourg,Noun,Country Flags,0,flag
+flag_Macedonia,Noun,Country Flags,0,
+flag_Madagascar,Noun,Country Flags,0,flag
+flag_Malawi,Noun,Country Flags,0,
+flag_Malaysia,Noun,Country Flags,0,flag
+flag_Maldives,Noun,Country Flags,0,flag
+flag_Mali,Noun,Country Flags,0,flag
+flag_Malta,Noun,Country Flags,0,
+flag_Marshall_Islands,Noun,Country Flags,0,
+flag_Mauritania,Noun,Country Flags,0,flag
+flag_Mauritius,Noun,Country Flags,0,flag
+flag_Mexico,Noun,Country Flags,0,
+flag_Micronesia,Noun,Country Flags,0,flag
+flag_Midway_Islands,Noun,Country Flags,0,
+flag_Moldova,Noun,Country Flags,0,
+flag_Monaco,Noun,Country Flags,0,flag
+flag_Mongolia,Noun,Country Flags,0,
+flag_Montenegro,Noun,Country Flags,0,
+flag_Morocco,Noun,Country Flags,0,
+flag_Mozambique,Noun,Country Flags,0,
+flag_Myanmar,Noun,Country Flags,0,
+flag_Namibia,Noun,Country Flags,0,flag
+flag_NATO,Noun,Country Flags,0,
+flag_Nauru,Noun,Country Flags,0,flag
+flag_Nepal,Noun,Country Flags,0,
+flag_New_Caledonia,Noun,Country Flags,0,
+flag_New_Zealand,Noun,Country Flags,0,flag
+flag_Nicaragua,Noun,Country Flags,0,
+flag_Niger,Noun,Country Flags,0,flag
+flag_Nigeria,Noun,Country Flags,0,flag
+flag_Niue,Noun,Country Flags,0,flag
+flag_North_Korea,Noun,Country Flags,0,flag
+flag_Northern_Cyprus,Noun,Country Flags,0,flag
+flag_Northern_Marianas,Noun,Country Flags,0,
+flag_Norway,Noun,Country Flags,0,flag
+flag_Olympic_Movement,Noun,Country Flags,0,
+flag_Oman,Noun,Country Flags,0,
+flag_Pakistan,Noun,Country Flags,0,flag
+flag_Palau,Noun,Country Flags,0,flag
+flag_Palestine,Noun,Country Flags,0,flag
+flag_Panama,Noun,Country Flags,0,flag
+flag_Papua_New_Guinea,Noun,Country Flags,0,
+flag_Paraguay,Noun,Country Flags,0,
+flag_Peru,Noun,Country Flags,0,
+flag_Philippines,Noun,Country Flags,0,
+flag_Pitcairn_Islands,Noun,Country Flags,0,
+flag_Poland,Noun,Country Flags,0,flag
+flag_Portugal,Noun,Country Flags,0,
+flag_Puerto_Rico,Noun,Country Flags,0,flag
+flag_Qatar,Noun,Country Flags,0,
+flag_Rass_al_Khaimah_Sharjah,Noun,Country Flags,0,flag
+flag_Red_Cross,Noun,Country Flags,0,flag
+flag_Romania,Noun,Country Flags,0,flag
+flag_Russian_Federation,Noun,Country Flags,0,flag
+flag_Rwanda,Noun,Country Flags,0,flag
+flag_S_Georgia_Sandwich_Isles,Noun,Country Flags,0,
+flag_Sami,Noun,Country Flags,0,
+flag_Samoa,Noun,Country Flags,0,flag
+flag_San_Marino,Noun,Country Flags,0,
+flag_Sao_Tome_Principe,Noun,Country Flags,0,flag
+flag_Sark,Noun,Country Flags,0,
+flag_Saudi_Arabia,Noun,Country Flags,0,
+flag_Scotland,Noun,Country Flags,0,flag
+flag_Seborga,Noun,Country Flags,0,
+flag_Senegal,Noun,Country Flags,0,flag
+flag_Serbia,Noun,Country Flags,0,
+flag_Seychelles,Noun,Country Flags,0,flag
+flag_Sierra_Leone,Noun,Country Flags,0,flag
+flag_Singapore,Noun,Country Flags,0,flag
+flag_Slovakia,Noun,Country Flags,0,
+flag_Slovenia,Noun,Country Flags,0,
+flag_Solomon_Islands,Noun,Country Flags,0,flag
+flag_Somalia,Noun,Country Flags,0,flag
+flag_Somaliland,Noun,Country Flags,0,
+flag_South_Africa,Noun,Country Flags,0,flag
+flag_South_Korea,Noun,Country Flags,0,flag
+flag_Spain,Noun,Country Flags,0,
+flag_Sri_Lanka,Noun,Country Flags,0,
+flag_St_Helena,Noun,Country Flags,0,
+flag_St_Vincent_Grenadines,Noun,Country Flags,0,
+flag_St._Kitts_and_Nevis,Noun,Country Flags,0,flag
+flag_Suriname,Noun,Country Flags,0,flag
+flag_Swaziland,Noun,Country Flags,0,
+flag_Sweden,Noun,Country Flags,0,flag
+flag_Switzerland,Noun,Country Flags,0,flag
+flag_Syria,Noun,Country Flags,0,flag
+flag_Taiwan,Noun,Country Flags,0,flag
+flag_Tajikistan,Noun,Country Flags,0,
+flag_Tanzania,Noun,Country Flags,0,flag
+flag_Thailand,Noun,Country Flags,0,flag
+flag_The_Azores,Noun,Country Flags,0,
+flag_The_Bahamas,Noun,Country Flags,0,flag
+flag_The_Czech_Republic,Noun,Country Flags,0,flag
+flag_The_Faroe_Islands,Noun,Country Flags,0,
+flag_The_Gambia,Noun,Country Flags,0,flag
+flag_The_Netherlands,Noun,Country Flags,0,flag
+flag_The_Sudan,Noun,Country Flags,0,flag
+flag_Tibet,Noun,Country Flags,0,
+flag_Timor_Leste,Noun,Country Flags,0,flag
+flag_Togo,Noun,Country Flags,0,flag
+flag_Tokelau,Noun,Country Flags,0,flag
+flag_Tonga,Noun,Country Flags,0,flag
+flag_Trinidad_and_Tobago,Noun,Country Flags,0,flag
+flag_Tristan_de_Cunha,Noun,Country Flags,0,
+flag_Tunisia,Noun,Country Flags,0,flag
+flag_Turkey,Noun,Country Flags,0,flag
+flag_Turkmenistan,Noun,Country Flags,0,
+flag_Turks_Caicos_Isles,Noun,Country Flags,0,
+flag_Tuvalu,Noun,Country Flags,0,flag
+flag_Uganda,Noun,Country Flags,0,
+flag_Ukraine,Noun,Country Flags,0,flag
+flag_Umm_al_Qaiwan_-_UAE,Noun,Country Flags,0,flag
+flag_United_Arab_Emirates,Noun,Country Flags,0,
+flag_United_Kingdom,Noun,Country Flags,0,flag
+flag_United_Nations,Noun,Country Flags,0,
+flag_United_States_of_America,Noun,Country Flags,0,flag
+flag_Uruguay,Noun,Country Flags,0,
+flag_Uzbekistan,Noun,Country Flags,0,flag
+flag_Vanuatu,Noun,Country Flags,0,
+flag_Vatican_City,Noun,Country Flags,0,
+flag_Venezuela,Noun,Country Flags,0,flag
+flag_Viet_Nam,Noun,Country Flags,0,flag
+flag_Virgin_Islands,Noun,Country Flags,0,
+flag_Wakes_Island,Noun,Country Flags,0,
+flag_Wales,Noun,Country Flags,0,
+flag_Western_Sahara,Noun,Country Flags,0,flag
+flag_Yemen,Noun,Country Flags,0,flag
+flag_Zambia,Noun,Country Flags,0,
+flag_Zimbabwe,Noun,Country Flags,0,
+flame,Noun,Descriptive State,0,
+flamingo,Noun,Animal Birds,0,animal bird wild zoo
+flannel,Noun,Healthcare Grooming items,0,grooming
+flat,Noun,Descriptive Shape,0,abstract adjective
+flat_tyre,Noun,Transport Road,0,transport travel vehicle
+flatscreen_tv,Noun,Electrical TV,0,electric
+"flip_,_to",Verb,Food Kitchen actions,0,cooking
+flipper,Noun,Animal Features,0,animal
+float,Noun,Science,0,
+floor,Noun,Building Structure,0,home house
+florist_1a,Noun,People Profession,0,job people profession work
+florist_1b,Noun,People Profession,0,job people profession work
+florist_2a,Noun,People Profession,0,job people profession work
+florist_2b,Noun,People Profession,0,job people profession work
+flour_plain,Noun,Food Breads and baking,0,food ingredient
+flour_self_raising,Noun,Food Breads and baking,0,food ingredient
+flower,Noun,Plants and Trees,0,gardening plant
+"flush_toilet_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+flute,Noun,Music Instrument,0,instrument music
+fly,Noun,Animal Spiders and Insects,0,insect
+"fold_clothes_,_to",VerbComplex,Building Household tasks,0,action
+food,Noun,Food Breads and baking,0,
+food_blender,Noun,Food Kitchen items,0,cooking kitchen
+food_bowl_dog,Noun,Animal Activity Feeding,0,animal
+food_bowl_horse,Noun,Animal Activity Feeding,0,animal
+food_cold,Noun,Food Meals and snacks,0,
+food_hot,Noun,Food Feeding and eating,0,
+foot,Noun,Healthcare Body parts,0,body
+football,Noun,Sport Accessories,0,
+football_kit_Arsenal,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Aston_Villa,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Barnsley,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Birmingham,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Blackburn_Rovers,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Blackpool,Noun,Clothes Sport,0,clothes soccer team
+football_kit_blank,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Bolton_Wanderers,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Bristol_City,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Burnley,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Cardiff,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Chelsea,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Coventry,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Crystal_Palace,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Derby,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Doncaster,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Everton,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Fulham,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Hull_City,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Ipswich,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Leicester,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Liverpool,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Manchester_City,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Manchester_United,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Middlesbrough,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Newcastle_United,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Nottingham_Forest,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Peterborough,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Plymouth_Argyle,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Portsmouth,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Preston,Noun,Clothes Sport,0,clothes soccer team
+football_kit_QPR,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Reading,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Scunthorpe,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Sheffield_United,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Sheffield_Weds,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Spurs,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Stoke_City,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Sunderland,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Swansea,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Watford,Noun,Clothes Sport,0,clothes soccer team
+football_kit_West_Bromwich,Noun,Clothes Sport,0,clothes soccer team
+football_kit_West_Ham_United,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Wigan_Athletic,Noun,Clothes Sport,0,clothes soccer team
+football_kit_Wolves,Noun,Clothes Sport,0,clothes soccer team
+forearm,Noun,Healthcare Body parts,0,
+fork,Noun,Food Kitchen items,0,cooking feeding kitchen utensil
+fork_adapted,Noun,Food Feeding and eating,0,feeding utensil
+fork_lift_truck,Noun,Transport Road,0,transport travel vehicle
+forward,Noun,Descriptive Direction,0,
+forwards,Noun,Descriptive Direction,0,direction position
+fox,Noun,Animal Mammal,0,animal wild
+frankincense,Noun,Religion General,0,celebration Christian
+freckles,Noun,Healthcare Body parts,0,
+freezer,Noun,Food Kitchen items,0,
+friction,Noun,Science,0,
+fridge,Noun,Food Kitchen items,0,cooking feeding kitchen
+frog,Noun,Animal Reptiles and Amphibians,0,animal wild
+fromage_frais,Noun,Food Dairy,0,
+front,Noun,Healthcare Body parts,0,body
+front_door,Noun,Building Structure,0,home house
+fruit_tree,Noun,Plants and Trees,0,gardening plant
+"fry_,_to",Verb,Food Kitchen actions,0,cooking
+frying_pan,Noun,Food Kitchen items,0,cooking kitchen
+full,Noun,Descriptive Quantity,0,abstract adjective
+funnel,Noun,Food Kitchen items,0,cooking
+funny_laugh,Noun,People Descriptive,0,
+furniture,Noun,Building Furniture,0,home house
+future,Noun,Descriptive Time,0,calendar diary season time
+fuzzy,Noun,Descriptive State,0,abstract adjective
+G,Noun,Alphabet,0,alphabet letter
+g_-_lower_case,Noun,Alphabet,0,alphabet letter
+garage,Noun,Building Residential,0,
+garden_chair_folding,Noun,Holiday and travel,0,holiday
+garden_clippers,Noun,Tools Garden,0,gardening
+gardener_1a,Noun,People Profession,0,job people profession work
+gardener_1b,Noun,People Profession,0,job people profession work
+gardener_2a,Noun,People Profession,0,job people profession work
+gardener_2b,Noun,People Profession,0,job people profession work
+garlic,Noun,Food Vegetables and salads,0,food vegetable
+garlic_crusher,Noun,Food Kitchen items,0,cooking kitchen
+geography,Noun,Work and School Subjects,0,class school
+geography_class,Noun,Work and School Timetable,0,class school
+"get_dressed_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+ghost,Noun,Celebration Item,0,celebration
+giraffe,Noun,Animal Mammal,0,animal mammal wild zoo
+,,Drink Containers and measures,0,
+glass_2,Noun,Science,0,
+glasses,Noun,Healthcare Medical items,0,
+glitter,Noun,Work and School Stationery,0,class school
+globe,Noun,Work and School Education,0,class school
+gloves,Noun,Clothes General,0,clothes
+glue,Noun,Work and School Stationery,0,class office school stationery
+glue_stick,Noun,Work and School Stationery,0,class office school stationery
+gnat,Noun,Animal Spiders and Insects,0,insect
+"go_through_door_,_to",VerbComplex,Descriptive Direction,0,
+goal,Noun,Sport Accessories,0,
+gold_bar,Noun,Money,0,celebration
+goldfish,Noun,Animal Fish and Marine mammals,0,animal pet
+goldfish_bowl,Noun,Animal Habitat,0,animal pet
+golf,Noun,Sport,0,games sport
+golf_club,Noun,Sport Accessories,0,
+good,Noun,Descriptive State,0,
+good_person,Noun,People Descriptive,0,
+good_to_drink,Noun,Food Feeding and eating,0,
+good_to_eat,Noun,Food Feeding and eating,0,
+good_to_eat_2,Noun,Food Feeding and eating,0,
+goose,Noun,Animal Birds,0,animal bird pet wild
+goose_roast,Noun,Food Poultry,0,bird celebration food
+gooseberry,Noun,Food Fruit,0,
+gorilla,Noun,Animal Mammal,0,animal mammal wild zoo
+grandfather,Noun,People Relationship,0,family relationship relatives
+grandmother,Noun,People Relationship,0,family relationship relatives
+grandparents,Noun,People Relationship,0,family relationship relatives
+grape_juice,Noun,Drink Type,0,drink juice
+grapefruit,Noun,Food Fruit,0,food fruit
+grapefruit_juice,Noun,Drink Type,0,drink juice
+grapes,Noun,Food Fruit,0,food fruit
+grass,Noun,Plants and Trees,0,gardening plant
+"grate_,_to",Verb,Food Kitchen actions,0,cooking
+grater,Noun,Food Kitchen items,0,cooking feeding kitchen
+gravity,Noun,Science,0,
+great,Noun,Descriptive State,0,
+green_beans,Noun,Food Vegetables and salads,0,food vegetable
+,,Art Colour,0,
+greengrocer_1a,Noun,People Profession,0,job people profession work
+greengrocer_1b,Noun,People Profession,0,job people profession work
+greengrocer_2a,Noun,People Profession,0,job people profession work
+greengrocer_2b,Noun,People Profession,0,job people profession work
+"grill_,_to",Verb,Food Kitchen actions,0,cooking
+grill_pan,Noun,Food Kitchen items,0,cooking kitchen
+ground,Noun,Plants and Trees,0,gardening
+group_work,Noun,Work and School Subjects,0,class office school
+guinea_pig,Noun,Animal Mammal,0,animal pet
+guitar,Noun,Music Instrument,0,instrument music
+gum,Noun,Healthcare Body parts,0,body
+guy,Noun,Celebration Item,0,celebration
+Guy_Fawkes,Noun,Celebration Event,0,celebration
+gym_1,Noun,Sport,0,class school
+H,Noun,Alphabet,0,alphabet letter
+h_-_lower_case,Noun,Alphabet,0,alphabet letter
+hair_bunches,Noun,People Descriptive,0,grooming
+hair_conditioner,Noun,Healthcare Grooming items,0,grooming
+hair_curler,Noun,Healthcare Grooming items,0,grooming
+hair_curlers_electric,Noun,Healthcare Grooming items,0,electric grooming
+hair_curling_tongs,Noun,Healthcare Grooming items,0,electric grooming
+hair_dye,Noun,Healthcare Grooming items,0,grooming
+hair_dye_1,Noun,Healthcare Grooming items,0,grooming
+hair_plaits,Noun,People Descriptive,0,grooming
+hair_ponytail,Noun,People Descriptive,0,grooming
+hairbrush,Noun,Healthcare Grooming items,0,grooming
+haircut,Noun,Healthcare Grooming activities,0,grooming
+hairdryer,Noun,Healthcare Grooming items,0,electric grooming
+hairspray,Noun,Healthcare Grooming items,0,grooming
+half,Noun,Descriptive Quantity,0,abstract position
+Halloween,Noun,Celebration Event,0,celebration
+ham,Noun,Food Meat,0,food meat pork
+hamburger,Noun,Food Meals and snacks,0,food meat pork
+hammer,Noun,Tools Workshop,0,DIY tools workshop
+hamster,Noun,Animal Mammal,0,animal pet
+hamster_food,Noun,Animal Activity Feeding,0,animal
+hamster_maze,Noun,Animal Habitat,0,animal
+hand_bag,Noun,Clothes Accessories,0,clothes
+hand_cream,Noun,Healthcare Grooming items,0,grooming
+hand_mixer,Noun,Food Kitchen items,0,cooking
+hand_punch,Noun,Work and School Stationery,0,class office school stationery
+handcuffs,Noun,Clothes Accessories,0,equipment
+handle_bars,Noun,Transport Road,0,transport travel
+handsome,Noun,People Descriptive,0,
+hangar,Noun,Transport Air,0,travel
+hankerchief,Noun,Clothes Accessories,0,clothes
+happy_lady,Noun,People Feelings,0,emotion expression face feeling people woman
+happy_man,Noun,People Feelings,0,emotion expression face feeling people
+hard,Noun,Descriptive State,0,abstract adjective
+hard_hat,Noun,Clothes General,0,clothes hat
+hare,Noun,Animal Mammal,0,animal wild
+harvest,Noun,Celebration Item,0,celebration Christian
+Harvest_Festival,Noun,Religion Festival,0,celebration Christian
+hat_-_ladies,Noun,Clothes General,0,clothes hat
+hat_-_mans,Noun,Clothes General,0,clothes hat
+hat_Christmas,Noun,Celebration Item,0,celebration Christian
+hat_too_big,Noun,Descriptive Quantity,0,
+haunted_house,Noun,Celebration Item,0,celebration
+hazelnut,Noun,Food Nuts,0,
+head,Noun,Healthcare Body parts,0,body
+head_teacher_1a,Noun,People Profession,0,job people profession work
+head_teacher_1b,Noun,People Profession,0,job people profession work
+head_teacher_2a,Noun,People Profession,0,job people profession work
+head_teacher_2b,Noun,People Profession,0,job people profession work
+headache,Noun,Healthcare Medical conditions,0,clinic health hospital medical
+headband,Noun,Healthcare Grooming items,0,
+headboard,Noun,Building Furniture,0,
+headlamp,Noun,Transport Road,0,transport travel vehicle
+headmouse,Noun,Communication Aid,0,electric
+headphones,Noun,Electrical Media,0,electric
+headpointer_2,Noun,Communication Aid,0,
+healthy,Noun,Healthcare Medical conditions,0,clinic health hospital medical
+"hear_,_to",Verb,Healthcare Body parts,0,body
+hearing_aid_1,Noun,Healthcare Medical items,0,clinic health hospital medical
+hearing_aid_2,Noun,Healthcare Medical items,0,clinic health hospital medical
+heart,Noun,Healthcare Body parts,0,body
+"heat_,_to",Verb,Food Kitchen actions,0,cooking
+heavy,Noun,Descriptive Quantity,0,
+hedge,Noun,Plants and Trees,0,gardening plant
+hedge_cutters,Noun,Tools Garden,0,gardening
+hedgehog,Noun,Animal Mammal,0,animal wild
+heel,Noun,Healthcare Body parts,0,
+heel_of_shoe,Noun,Clothes General,0,clothes footwear
+helicopter,Noun,Transport Air,0,transport travel
+hello,Noun,Communication Conversation,0,communication
+helmet,Noun,Clothes Sport,0,sport
+helmet_pilot,Noun,Clothes General,0,equipment uniform
+heptagon,Noun,Descriptive Shape,0,maths shape
+heron,Noun,Animal Birds,0,animal bird
+hexagon,Noun,Descriptive Shape,0,maths shape
+high,Noun,Descriptive Quantity,0,abstract adjective position
+high_chair,Noun,Building Furniture,0,home house
+highest,Noun,Descriptive Position,0,direction position
+hip,Noun,Healthcare Body parts,0,
+hippopotamus,Noun,Animal Mammal,0,animal mammal wild zoo
+hips,Noun,Healthcare Body parts,0,
+history,Noun,Work and School Subjects,0,class school
+history_class,Noun,Work and School Timetable,0,class school
+hoe,Noun,Tools Garden,0,gardening
+hoist,Noun,Healthcare Medical items,0,clinic health hospital medical
+holdall,Noun,Holiday and travel,0,holiday
+hole_punch,Noun,Work and School Stationery,0,class office school stationery
+hole_punch_2,Noun,Work and School Stationery,0,
+hollow,Noun,Descriptive Shape,0,abstract adjective
+holly,Noun,Plants and Trees,0,celebration
+homepage,Noun,Computer Icon,0,
+hood_hoodie,Noun,Clothes General,0,clothes hat
+hooded_top,Noun,Clothes General,0,clothes
+hoof,Noun,Animal Features,0,animal mammal
+"hoover_,_to",Verb,Building Household tasks,0,action
+horns,Noun,Animal Features,0,animal mammal
+horse,Noun,Animal Mammal,0,animal
+hose,Noun,Tools Garden,0,gardening
+hot,Noun,Descriptive Quantity,0,
+hot_air_balloon,Noun,Transport Air,0,transport travel
+hot_brush,Noun,Healthcare Grooming items,0,grooming
+hot_chocolate,Noun,Drink Type,0,drink
+hot_person,Noun,People Descriptive,0,
+house,Noun,Building Residential,0,class school
+Houses_of_Parliament,Noun,Politics,0,celebration
+how,Noun,Question,0,ask query question
+how_many,Noun,Descriptive Quantity,0,ask query question
+hungry,Noun,Food Feeding and eating,0,feeding
+husband,Noun,People Relationship,0,family relationship relatives
+I,Noun,Alphabet,0,alphabet letter
+i_-_lower_case,Noun,Alphabet,0,alphabet letter
+ice_cream,Noun,Food Sweets and desserts,0,dessert diary food
+ice_cream_tub,Noun,Food Sweets and desserts,0,dessert diary food
+ice_lolly,Noun,Food Sweets and desserts,0,food
+in,Noun,Descriptive Position,0,direction position
+in_front,Noun,Descriptive Position,0,direction position
+inbox,Noun,Computer Icon,0,
+index_cards,Noun,Work and School Stationery,0,class office school stationery
+inhaler,Noun,Healthcare Medical items,0,clinic health hospital medical
+inside_out,Noun,Descriptive State,0,
+inside_room,Noun,Descriptive Position,0,
+install_software,Noun,Computer Icon,0,
+intellikeys,Noun,Communication Aid,0,communication
+internet,Noun,Computer Icon,0,
+intestine,Noun,Healthcare Body parts,0,body
+iPhone,Noun,Electrical Phone,0,
+iPod,Noun,Electrical Media,0,electric
+iron,Noun,Building Contents,0,home house
+"iron_,_to",Verb,Building Household tasks,0,action
+ironing_board,Noun,Building Contents,0,home house
+is_this_enough,Noun,Descriptive Quantity,0,
+IT_assistant_1a,Noun,People Profession,0,job people profession work
+IT_assistant_1b,Noun,People Profession,0,job people profession work
+IT_assistant_2a,Noun,People Profession,0,job people profession work
+IT_assistant_2b,Noun,People Profession,0,job people profession work
+IT_class,Noun,Work and School Timetable,0,class school
+IT_room,Noun,Building School,0,class school
+itch,Noun,Healthcare Medical conditions,0,clinic health hospital medical
+ivy,Noun,Plants and Trees,0,celebration
+ivy_2,Noun,Plants and Trees,0,celebration
+J,Noun,Alphabet,0,alphabet letter
+j_-_lower_case,Noun,Alphabet,0,alphabet letter
+jack_in_box,Noun,Leisure Toys,0,play toys
+jacket,Noun,Clothes General,0,clothes
+jacket_-_mans,Noun,Clothes General,0,clothes
+jacket_2,Noun,Clothes General,0,clothes
+jam_tart,Noun,Food Sweets and desserts,0,cake dessert food
+jar,Noun,Food Kitchen items,0,DIY tools workshop
+jealous_lady,Noun,People Feelings,0,emotion expression face feeling people woman
+jealous_man,Noun,People Feelings,0,emotion expression face feeling people
+jeans,Noun,Clothes General,0,clothes
+jeep,Noun,Transport Road,0,transport travel vehicle
+jelly,Noun,Food Sweets and desserts,0,dessert food
+jelly_beans,Noun,Food Sweets and desserts,0,food sweet
+jellyfish,Noun,Animal Other Invertebrates,0,animal fish
+Jesus,Noun,Religion Person,0,celebration Christian Easter
+jet_plane,Noun,Transport Air,0,transport travel
+jewellery,Noun,Clothes Jewellery,0,clothes jewellery
+jigsaw_puzzle,Noun,Leisure Games,0,play toys
+,,Leisure Games,0,
+Joseph,Noun,Religion Person,0,celebration Christian Easter
+joystick_PennyGiles,Noun,Communication Aid,0,electric
+Judas,Noun,Religion Person,0,celebration Christian Easter
+judo,Noun,Sport,0,games sport
+judo_belt,Noun,Clothes Sport,0,games sport
+jumper,Noun,Clothes General,0,
+jungle_gym,Noun,Leisure Playground,0,equipment playground
+Jupiter,Noun,Science Astronomy,0,astronomy planets
+K,Noun,Alphabet,0,alphabet letter
+k_-_lower_case,Noun,Alphabet,0,alphabet letter
+kangaroo,Noun,Animal Mammal,0,animal mammal wild
+kennel,Noun,Animal Habitat,0,animal
+kettle,Noun,Food Kitchen items,0,electric
+key_1,Noun,Building Contents,0,home house
+key_2,Noun,Building Contents,0,home house
+keyboard_electric,Noun,Music Instrument,0,instrument music
+"kick_ball_1_,_to",VerbComplex,Sport,0,games sport
+"kick_ball_2_,_to",VerbComplex,Sport,0,games sport
+kidneys,Noun,Healthcare Body parts,0,
+killer_whale,Noun,Animal Fish and Marine mammals,0,animal mammal wild
+kite,Noun,Leisure Toys,0,play toys
+kiwi,Noun,Food Fruit,0,food fruit
+knee,Noun,Healthcare Body parts,0,body
+knickers,Noun,Clothes General,0,clothes underwear
+knife,Noun,Food Kitchen items,0,cooking feeding kitchen utensil
+knife_adapted,Noun,Food Feeding and eating,0,feeding utensil
+knife_adapted_2,Noun,Food Feeding and eating,0,feeding utensil
+koala,Noun,Animal Mammal,0,animal mammal
+koosh_ball,Noun,Leisure Toys,0,play toys
+L,Noun,Alphabet,0,alphabet letter
+l_-_lower_case,Noun,Alphabet,0,alphabet letter
+labels,Noun,Work and School Stationery,0,class office school stationery
+ladies_toilet,Noun,Building Public,0,communication
+ladle,Noun,Food Kitchen items,0,cooking
+lady_-_face,Noun,People Feelings,0,emotion expression face feeling people woman
+lager,Noun,Drink Type,0,alcohol drink
+lamb,Noun,Food Meat,0,food lamb meat
+lamb_2,Noun,Animal Mammal,0,animal celebration Christian Easter farm food
+lamp,Noun,Electrical General,0,electric
+lampshade,Noun,Building Contents,0,
+lampshade_2,Noun,Building Contents,0,
+lantern,Noun,Electrical General,0,
+lantern_2,Noun,Electrical General,0,
+laptop,Noun,Electrical Computer,0,electric
+large,Noun,Descriptive Quantity,0,abstract adjective
+last,Noun,Descriptive Position,0,direction position
+last_2,Noun,Descriptive Position,0,
+last_month,Noun,Descriptive Time,0,calendar diary season time
+Last_Supper,Noun,Religion Festival,0,celebration Christian Easter
+laughing_lady,Noun,People Feelings,0,emotion expression face feeling people woman
+laughing_man,Noun,People Feelings,0,emotion expression face feeling people
+laundry_basket,Noun,Building Contents,0,home house
+lava_lamp,Noun,Leisure Toys,0,play toys
+lawnmower,Noun,Tools Garden,0,electric gardening
+lead,Noun,Animal Activity Grooming,0,animal
+leaf,Noun,Plants and Trees,0,gardening plant
+leaves,Noun,Plants and Trees,0,gardening plant
+leek,Noun,Food Vegetables and salads,0,food vegetable
+left,Noun,Descriptive Direction,0,direction position
+right_click,Noun,Electrical Computer,0,
+left_hand,Noun,Healthcare Body parts,0,
+leg,Noun,Healthcare Body parts,0,body
+leg_warmers,Noun,Clothes General,0,clothes
+lego,Noun,Leisure Toys,0,play toys
+legs,Noun,Healthcare Body parts,0,body
+lemon,Noun,Food Fruit,0,food fruit
+lemon_squash,Noun,Drink Type,0,drink
+lemonade,Noun,Drink Type,0,drink
+lemonade_2,Noun,Drink Type,0,drink
+lens,Noun,Science,0,
+Lent,Noun,Religion Festival,0,celebration Christian Easter
+lentils,Noun,Food Vegetables and salads,0,
+leopard,Noun,Animal Mammal,0,animal mammal wild
+letter,Noun,Work and School Stationery,0,class office school stationery
+lettuce,Noun,Food Vegetables and salads,0,food salad vegetable
+lid,Noun,Food Kitchen items,0,cooking
+lid_2,Noun,Food Kitchen items,0,cooking
+lift,Noun,Building Structure,0,home house
+light,Noun,Descriptive Quantity,0,
+lightbulb,Noun,Electrical General,0,
+lily,Noun,Plants and Trees,0,celebration
+line_diagonal,Noun,Descriptive Shape,0,maths shape
+line_horizontal,Noun,Descriptive Shape,0,maths shape
+line_parallel,Noun,Descriptive Shape,0,maths shape
+line_vertical,Noun,Descriptive Shape,0,maths shape
+lion,Noun,Animal Mammal,0,animal mammal wild zoo
+lip_balm,Noun,Healthcare Grooming items,0,grooming
+lip_bottom,Noun,Healthcare Body parts,0,
+lip_top,Noun,Healthcare Body parts,0,
+lips_1,Noun,Healthcare Body parts,0,body
+lipstick,Noun,Healthcare Grooming items,0,grooming
+liquid_soap,Noun,Healthcare Grooming items,0,grooming
+little,Noun,Descriptive Quantity,0,abstract adjective
+little_mac_switch,Noun,Communication Aid,0,communication
+lizard,Noun,Animal Reptiles and Amphibians,0,animal pet
+locker,Noun,Building Furniture,0,class office school
+log,Noun,Plants and Trees,0,gardening
+lollipop,Noun,Food Sweets and desserts,0,food snack sweet
+long,Noun,Descriptive Quantity,0,abstract adjective position
+long_hair,Noun,People Descriptive,0,
+long_johns,Noun,Clothes General,0,clothes underwear
+"look_in_mirror_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+lorry,Noun,Transport Road,0,transport travel vehicle
+lorry_2,Noun,Transport Road,0,transport travel vehicle
+lost,Noun,People Descriptive,0,
+lotion,Noun,Healthcare Grooming items,0,grooming
+lots_more,Noun,Descriptive Quantity,0,amount
+loud,Noun,Descriptive State,0,abstract adjective
+,,Food Diet,0,
+lowest,Noun,Descriptive Position,0,direction position
+lucky,Noun,Descriptive State,0,abstract adjective
+lump,Noun,Healthcare Medical conditions,0,clinic health hospital medical
+lunch_box,Noun,Food Feeding and eating,0,class office school
+,,Food Meals and snacks,0,
+lunch_time,Noun,Work and School Timetable,0,class office school
+lungs,Noun,Healthcare Body parts,0,body
+M,Noun,Alphabet,0,alphabet letter
+m_-_lower_case,Noun,Alphabet,0,alphabet letter
+macadamias,Noun,Food Nuts,0,
+magnet,Noun,Science,0,
+magnetic,Noun,Science,0,
+mains_socket,Noun,Electrical General,0,
+"make_the_bed_,_to",VerbComplex,Building Household tasks,0,action
+make_up,Noun,Healthcare Grooming items,0,grooming
+male_body,Noun,Healthcare Body parts,1,
+man_-_face,Noun,People Feelings,0,emotion expression face feeling people
+manger,Noun,Religion General,0,celebration Christian
+margarine,Noun,Food Dairy,0,diary food
+married,Noun,People Relationship,0,family relationship relatives
+marrow,Noun,Food Vegetables and salads,0,
+Mars,Noun,Science Astronomy,0,astronomy planets
+marshmallows,Noun,Food Sweets and desserts,0,food sweet
+Mary,Noun,Religion Person,0,celebration Christian Easter
+mascara,Noun,Healthcare Grooming items,0,grooming
+"mash_,_to",Verb,Food Kitchen actions,0,cooking
+,,Food Kitchen actions,0,
+masher,Noun,Food Kitchen items,0,cooking feeding kitchen
+mask_dustmask,Noun,Tools Workshop,0,DIY tools workshop
+masking_tape,Noun,Work and School Stationery,0,class office school stationery
+maths,Noun,Work and School Subjects,0,class school
+maths_class,Noun,Work and School Timetable,0,class school
+mayonnaise,Noun,Food Dairy,0,diary food
+measuring_cups,Noun,Food Kitchen items,0,cooking
+measuring_jug,Noun,Food Kitchen items,0,cooking kitchen
+measuring_spoons,Noun,Food Kitchen items,0,cooking kitchen
+medal,Noun,Sport Accessories,0,games sport
+medicine,Noun,Healthcare Medical items,0,clinic health hospital medical
+medicine_cabinet,Noun,Building Furniture,0,
+melon,Noun,Food Fruit,0,food fruit
+"melt_,_to",Verb,Food Kitchen actions,0,
+memory_card,Noun,Electrical Media,0,
+memory_card_2,Noun,Electrical Media,0,
+mend,Noun,Descriptive State,0,
+mens_toilet,Noun,Building Public,0,communication
+Mercury,Noun,Science Astronomy,0,astronomy planets
+merry_go_round,Noun,Leisure Playground,0,equipment playground
+messy_clothes,Noun,Descriptive State,0,
+messy_room,Noun,Descriptive State,0,abstract adjective
+microphone,Noun,Music Instrument,0,instrument music
+microscope,Noun,Science,0,class school
+microwave,Noun,Food Kitchen items,0,cooking electric kitchen
+middle,Noun,Descriptive Position,0,abstract adjective position
+milk,Noun,Drink Type,0,dairy drink
+milk_2_litre,Noun,Food Dairy,0,diary drink
+milk_bottle,Noun,Food Dairy,0,dairy food
+milk_carton,Noun,Food Dairy,0,diary drink
+milk_person_1a,Noun,People Profession,0,job people profession work
+milk_person_1b,Noun,People Profession,0,job people profession work
+milk_person_2a,Noun,People Profession,0,job people profession work
+milk_person_2b,Noun,People Profession,0,job people profession work
+milkshake,Noun,Drink Type,0,dairy drink
+,,Food Sweets and desserts,0,
+Milky_Way,Noun,Science Astronomy,0,astronomy
+mince_pie,Noun,Food Breads and baking,0,celebration food
+,,Food Meat,0,
+mini_bus,Noun,Transport Road,0,transport travel vehicle
+minute,Noun,Descriptive Time,0,calendar diary time
+mirror,Noun,Healthcare Grooming items,0,grooming
+mirror_1,Noun,Building Furniture,0,
+mirror_2,Noun,Building Furniture,0,
+mirror_ball,Noun,Leisure Toys,0,play toys
+mistake_no_wrong,Noun,Descriptive State,0,abstract
+mistletoe,Noun,Plants and Trees,0,celebration
+mittens,Noun,Clothes General,0,clothes
+mixer,Noun,Food Kitchen items,0,cooking electric kitchen
+mobile_phone,Noun,Electrical Phone,0,electric
+mobile_phone_camera,Noun,Electrical Phone,0,
+mobile_phone_case,Noun,Electrical Phone,0,
+mobile_phone_cover,Noun,Electrical Phone,0,
+mobile_phone_no,Noun,Electrical Phone,0,
+mobile_phone_number,Noun,Electrical Phone,0,
+mobile_phone_ring_tone,Noun,Electrical Phone,0,
+mobile_phone_silent,Noun,Electrical Phone,0,
+mobile_phone_text_message,Noun,Electrical Phone,0,
+mobile_phone_video,Noun,Electrical Phone,0,
+mole,Noun,Healthcare Body parts,0,body
+money,Noun,Money,0,finance money
+monster,Noun,Celebration Item,0,celebration
+Moon,Noun,Science Astronomy,0,astronomy
+mop,Noun,Building Contents,0,home house
+moped,Noun,Transport Road,0,transport travel vehicle
+more,Noun,Descriptive Quantity,0,abstract adjective
+morning,Noun,Descriptive Time,0,calendar diary time
+most,Noun,Descriptive Quantity,0,amount
+moth,Noun,Animal Spiders and Insects,0,insect
+motor_home,Noun,Transport Road,0,transport travel vehicle
+motorcycle,Noun,Transport Road,0,transport travel vehicle
+mountains,Noun,Holiday and travel,0,holiday travel
+mouse,Noun,Animal Mammal,0,animal pet wild
+mouse_mat,Noun,Electrical Computer,0,
+mouth,Noun,Healthcare Body parts,0,features people
+mouthwash,Noun,Healthcare Grooming items,0,grooming
+mouthwash_1,Noun,Healthcare Grooming items,0,grooming
+muesli,Noun,Food Breads and baking,0,breakfast food meal
+mug_2,Noun,Drink Containers and measures,0,
+multi_media,Noun,Electrical Media,0,
+mum_parent,Noun,People Relationship,0,family relationship relatives
+muscles,Noun,Healthcare Body parts,0,
+mushroom,Noun,Food Vegetables and salads,0,food vegetable
+music,Noun,Work and School Subjects,0,class school
+music_class,Noun,Work and School Timetable,0,class school
+music_room,Noun,Building School,0,class school
+musician_1a,Noun,People Profession,0,job people profession work
+musician_1b,Noun,People Profession,0,job people profession work
+musician_2a,Noun,People Profession,0,job people profession work
+musician_2b,Noun,People Profession,0,job people profession work
+mussel,Noun,Animal Crustacean and Molluscs,0,animal shellfish
+my_computer_icon,Noun,Computer Icon,0,
+N,Noun,Alphabet,0,alphabet letter
+n_-_lower_case,Noun,Alphabet,0,alphabet letter
+nail,Noun,Tools Workshop,0,DIY tools workshop
+nail_care,Noun,Healthcare Grooming items,0,grooming
+nail_clippers,Noun,Healthcare Grooming items,0,grooming
+nail_file,Noun,Healthcare Grooming items,0,grooming
+nail_polish,Noun,Healthcare Grooming items,0,
+nail_polish_remover,Noun,Healthcare Grooming items,0,grooming
+nappy,Noun,Healthcare Grooming items,0,clothes underwear
+Nativity,Noun,Religion Festival,0,celebration Christian
+near,Noun,Descriptive Position,0,direction position
+neck,Noun,Healthcare Body parts,0,
+necklace,Noun,Clothes Jewellery,0,clothes jewellery
+necklace_2,Noun,Clothes Jewellery,0,clothes jewellery
+need_toilet,Noun,Communication Conversation,0,communication
+neither,Noun,Descriptive Quantity,0,abstract adjective position
+Neptune,Noun,Science Astronomy,0,astronomy planets
+nest,Noun,Animal Habitat,0,animal bird
+nest_of_tables,Noun,Building Furniture,0,
+networked_computers,Noun,Computer Icon,0,
+new_document,Noun,Computer Icon,0,
+newspaper,Noun,Work and School Education,0,home house
+newspaper_person_1a,Noun,People Profession,0,job people profession work
+newspaper_person_1b,Noun,People Profession,0,job people profession work
+newspaper_person_2a,Noun,People Profession,0,job people profession work
+newspaper_person_2b,Noun,People Profession,0,job people profession work
+next,Noun,Descriptive Position,0,direction position
+next_month,Noun,Descriptive Time,0,calendar diary season time
+next_week,Noun,Descriptive Time,0,calendar diary time
+night,Noun,Descriptive Time,0,calendar diary time
+nightgown,Noun,Clothes General,0,clothes sleepwear
+no_class,Noun,Work and School Timetable,0,class school
+no_smoking_sign,Noun,Descriptive State,0,abstract
+noisy,Noun,Descriptive State,0,
+non_speaking,Noun,People Descriptive,0,
+non-permeable,Noun,Science Eco,0,
+north,Noun,Descriptive Direction,0,direction position
+north_east,Noun,Descriptive Direction,0,abstract adjective adverb direction position
+north_west,Noun,Descriptive Direction,0,abstract adjective adverb direction position
+nosey_cup,Noun,Food Feeding and eating,0,feeding
+nostril,Noun,Healthcare Body parts,0,body
+notebook,Noun,Work and School Stationery,0,class office school stationery
+notepad,Noun,Work and School Stationery,0,class office school stationery
+now,Noun,Descriptive Time,0,calendar diary season time
+nurse_1a,Noun,People Profession,0,job people profession work
+nurse_1b,Noun,People Profession,0,job people profession work
+nurse_2a,Noun,People Profession,0,job people profession work
+nurse_2b,Noun,People Profession,0,job people profession work
+O,Noun,Alphabet,0,alphabet letter
+o_-_lower_case,Noun,Alphabet,0,alphabet letter
+oak_leaf,Noun,Plants and Trees,0,gardening plant
+occupational_therapist_1a,Noun,People Profession,0,job people profession work
+occupational_therapist_1b,Noun,People Profession,0,job people profession work
+occupational_therapist_2a,Noun,People Profession,0,job people profession work
+occupational_therapist_2b,Noun,People Profession,0,job people profession work
+octagon,Noun,Descriptive Shape,0,maths shape
+off,Noun,Descriptive Position,0,direction position
+office_block,Noun,Building Office and factory,0,
+old_object,Noun,Descriptive State,0,abstract
+old_person_1,Noun,People Descriptive,0,
+old_person_2,Noun,People Descriptive,0,
+old_person_3,Noun,People Descriptive,0,
+,,Food Ingredients,0,
+olympic_games,Noun,Sport,0,
+olympic_rings,Noun,Sport Accessories,0,
+olympic_torch,Noun,Sport Accessories,0,
+olympic_torch_2,Noun,Sport Accessories,0,
+on,Noun,Descriptive Position,0,direction position
+one_hour,Noun,Descriptive Time,0,calendar diary time
+onion,Noun,Food Vegetables and salads,0,food vegetable
+opaque,Noun,Science,0,
+open,Noun,Descriptive State,0,abstract adjective position
+open_2,Noun,Descriptive Position,0,
+"open_computer_folder_,_to",VerbComplex,Computer Icon,0,
+open_shop,Noun,Building Shop,0,
+"open_tin_,_to",VerbComplex,Food Kitchen actions,0,cooking
+operating_theatre,Noun,Building Public,0,clinic health hospital medical
+operation,Noun,Healthcare Medical conditions,0,clinic health hospital medical
+opposite,Noun,Descriptive Position,0,abstract adjective position
+orange,Noun,Food Fruit,0,food fruit
+orange_fizzy_drink,Noun,Drink Type,0,drink
+orange_juice,Noun,Drink Type,0,drink juice
+orange_squash,Noun,Drink Type,0,drink
+ostrich,Noun,Animal Birds,0,animal bird wild zoo
+out,Noun,Descriptive Direction,0,abstract adjective direction position
+outbox,Noun,Computer Icon,0,
+outside,Noun,Descriptive Position,0,
+over,Noun,Descriptive Position,0,direction position
+owl,Noun,Animal Birds,0,animal bird wild
+oxygen_mask,Noun,Healthcare Medical items,0,clinic health hospital medical
+oyster,Noun,Animal Crustacean and Molluscs,0,animal shellfish
+oyster_2,Noun,Animal Crustacean and Molluscs,0,animal shellfish
+ozone_layer,Noun,Science,0,
+P,Noun,Alphabet,0,alphabet letter
+p_-_lower_case,Noun,Alphabet,0,alphabet letter
+paddles,Noun,Transport Water,0,transport travel
+paint,Noun,Tools Workshop,0,DIY tools workshop
+paint_brush,Noun,Work and School Stationery,0,class school
+paint_brush_2,Noun,Tools Workshop,0,DIY tools workshop
+paint_childs,Noun,Work and School Stationery,0,class school
+palm,Noun,Plants and Trees,0,celebration Christian Easter
+Palm_Sunday,Noun,Religion Festival,0,celebration Christian Easter
+palm_tree,Noun,Holiday and travel,0,holiday
+pancake_2,Noun,Food Breads and baking,0,celebration food
+pancakes,Noun,Food Breads and baking,0,celebration food
+panda,Noun,Animal Mammal,0,animal mammal wild zoo
+pants,Noun,Clothes General,0,clothes underwear
+paper,Noun,Work and School Stationery,0,class office school stationery
+paper_towel,Noun,Food Kitchen items,0,cooking feeding kitchen
+paper_towels,Noun,Healthcare Grooming items,0,grooming
+paperclip,Noun,Work and School Stationery,0,class office school stationery
+para_olympic_games,Noun,Sport,0,
+parachute,Noun,Transport Air,0,transport travel
+parade_1,Noun,Celebration Event,0,celebration
+parade_2,Noun,Celebration Event,0,celebration
+parallelogram,Noun,Descriptive Shape,0,maths shape
+paramedic_1a,Noun,People Profession,0,job people profession work
+paramedic_1b,Noun,People Profession,0,job people profession work
+paramedic_2a,Noun,People Profession,0,job people profession work
+paramedic_2b,Noun,People Profession,0,job people profession work
+parents,Noun,People Relationship,0,family relationship relatives
+parrot,Noun,Animal Birds,0,animal bird pet wild
+parsnip,Noun,Food Vegetables and salads,0,
+part,Noun,Descriptive Quantity,0,amount
+partner,Noun,People Relationship,0,family relationship relatives
+party_celebration,Noun,Celebration Event,0,celebration
+party_popper,Noun,Celebration Item,0,celebration
+passion_flower,Noun,Plants and Trees,0,celebration
+passion_fruit,Noun,Food Fruit,0,
+passport,Noun,Holiday and travel,0,holiday travel
+past,Noun,Descriptive Time,0,calendar diary season time
+pasta,Noun,Food Pastas and rice,0,food meal
+paste,Noun,Computer Icon,0,
+pastry,Noun,Food Breads and baking,0,food ingredient
+patch_on_clothes,Noun,Clothes General,0,clothes
+paw,Noun,Animal Features,0,animal mammal pet
+paw_1,Noun,Animal Features,0,animal mammal pet
+PE,Noun,Work and School Subjects,0,class school
+PE_class,Noun,Work and School Timetable,0,class school
+pea,Noun,Food Vegetables and salads,0,
+peach,Noun,Food Fruit,0,food fruit
+peacock,Noun,Animal Birds,0,animal bird wild
+peanut,Noun,Food Nuts,0,food
+peanut_2,Noun,Food Nuts,0,
+pear,Noun,Food Fruit,0,food fruit
+peas,Noun,Food Vegetables and salads,0,food vegetable
+pecan,Noun,Food Nuts,0,
+"peel_,_to",Verb,Food Kitchen actions,0,cooking
+peeler,Noun,Food Kitchen items,0,cooking kitchen
+pelican,Noun,Animal Birds,0,animal bird
+pen,Noun,Work and School Stationery,0,class office school stationery
+pen_and_paper_2,Noun,Art Making,0,
+pencil,Noun,Work and School Stationery,0,class office school stationery
+pencil_and_paper_2,Noun,Art Making,0,
+pencil_box,Noun,Work and School Stationery,0,class office school stationery
+pencil_case,Noun,Work and School Stationery,0,class office school stationery
+pencil_sharpener,Noun,Work and School Stationery,0,class office school stationery
+pencil_sharpener_2,Noun,Work and School Stationery,0,class office school stationery
+penguin,Noun,Animal Birds,0,animal bird wild zoo
+penis,Noun,Healthcare Body parts,1,
+pentagon,Noun,Descriptive Shape,0,maths shape
+pepper,Noun,Food Vegetables and salads,0,food vegetable
+pepper_mill,Noun,Food Kitchen items,0,
+perfume,Noun,Healthcare Grooming items,0,grooming
+"perm_,_to",Verb,Healthcare Grooming activities,0,grooming
+permeable,Noun,Science Eco,0,
+personal_passport,Noun,Communication Aid,0,class school
+pestle_and_mortar,Noun,Food Kitchen items,0,cooking kitchen
+pet_blanket,Noun,Animal Activity Grooming,0,animal
+pet_brush,Noun,Animal Activity Grooming,0,animal
+pet_carrier,Noun,Animal Habitat,0,animal
+pet_carrying_basket,Noun,Animal Habitat,0,animal
+pet_comb,Noun,Animal Activity Grooming,0,animal
+petal,Noun,Plants and Trees,0,
+petrol_tanker,Noun,Transport Road,0,transport travel vehicle
+petticoat,Noun,Clothes General,0,clothes underwear
+phone_picture_video,Noun,Electrical Phone,0,
+photocopier,Noun,Building Equipment and devices,0,class office school stationery
+photographs,Noun,Holiday and travel,0,holiday
+physio_therapist_1a,Noun,People Profession,0,job people profession work
+physio_therapist_1b,Noun,People Profession,0,job people profession work
+physio_therapist_2a,Noun,People Profession,0,job people profession work
+physio_therapist_2b,Noun,People Profession,0,job people profession work
+piano,Noun,Music Instrument,0,
+picture,Noun,Building Furniture,0,home house
+picture_frame,Noun,Building Furniture,0,home house
+pie,Noun,Food Breads and baking,0,celebration food
+piglet,Noun,Animal Mammal,0,animal farm mammal
+pilot_1a,Noun,People Profession,0,job people profession work
+pilot_1b,Noun,People Profession,0,job people profession work
+pilot_2a,Noun,People Profession,0,job people profession work
+pilot_2b,Noun,People Profession,0,job people profession work
+pine_cone,Noun,Plants and Trees,0,gardening plant
+pine_nut,Noun,Food Nuts,0,
+pineapple,Noun,Food Fruit,0,food fruit
+pineapple_juice,Noun,Drink Type,0,drink juice
+pint,Noun,Drink Containers and measures,0,drink
+pint_half,Noun,Drink Containers and measures,0,drink
+pistachios,Noun,Food Nuts,0,
+pizza,Noun,Food Meals and snacks,0,
+pizza_cutter,Noun,Food Kitchen items,0,cooking feeding kitchen
+place_mat,Noun,Food Feeding and eating,0,
+place_setting,Noun,Food Kitchen items,0,cooking feeding kitchen
+plane,Noun,Tools Workshop,0,DIY tools workshop
+plane_landing,Noun,Transport Air,0,transport travel
+plane_take_off,Noun,Transport Air,0,transport travel
+planets,Noun,Science Astronomy,0,astronomy planets
+plant,Noun,Plants and Trees,0,gardening plant
+plaster,Noun,Healthcare Medical items,0,clinic health hospital medical
+plastic,Noun,Science,0,
+plastic_bag,Noun,Science,0,
+plastic_pocket,Noun,Work and School Stationery,0,class office school stationery
+plate,Noun,Food Kitchen items,0,cooking feeding kitchen
+plate_guard,Noun,Food Feeding and eating,0,feeding
+plate_lipped,Noun,Food Feeding and eating,0,feeding
+play_area,Noun,Leisure Playground,0,class school
+playdough,Noun,Science,0,
+playing_card_picture,Noun,Leisure Games,0,
+playing_cards,Noun,Leisure Games,0,
+playing_cards_clubs,Noun,Leisure Games,0,
+playing_cards_diamonds,Noun,Leisure Games,0,
+playing_cards_hearts,Noun,Leisure Games,0,
+playing_cards_patience,Noun,Leisure Games,0,
+playing_cards_spades,Noun,Leisure Games,0,
+playstation,Noun,Electrical Media,0,electric
+pliers,Noun,Tools Workshop,0,DIY tools workshop
+plug_2,Noun,Electrical General,0,
+plum,Noun,Food Fruit,0,food fruit
+plum_tomato,Noun,Food Vegetables and salads,0,
+Pluto,Noun,Science Astronomy,0,astronomy planets
+pocket,Noun,Clothes General,0,clothes
+"point_,_to",Verb,Descriptive Direction,0,
+pointed,Noun,Descriptive Shape,0,abstract adjective
+polar_bear,Noun,Animal Mammal,0,animal mammal wild zoo
+police_1a,Noun,People Profession,0,job people profession work
+police_1b,Noun,People Profession,0,job people profession work
+police_car,Noun,Transport Road,0,transport travel vehicle
+police_helmet,Noun,Clothes General,0,
+police_radio,Noun,Electrical Phone,0,equipment
+"polish_nails_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+pond,Noun,Building Garden and farm,0,animal
+pool_hoist,Noun,Healthcare Medical items,0,clinic health hospital medical
+pool_snooker,Noun,Leisure Games,0,games sport
+"pop_champagne_cork_,_to",VerbComplex,Drink Actions,0,celebration
+pop_socks,Noun,Clothes General,0,clothes footwear
+porcupine,Noun,Animal Mammal,0,animal mammal wild zoo
+pork_chop,Noun,Food Meat,0,food meat
+porter_hospital_1a,Noun,People Profession,0,job people profession work
+porter_hospital_1b,Noun,People Profession,0,job people profession work
+porter_hospital_2a,Noun,People Profession,0,job people profession work
+porter_hospital_2b,Noun,People Profession,0,job people profession work
+post_person_1a,Noun,People Profession,0,job people profession work
+post_person_1b,Noun,People Profession,0,job people profession work
+post_person_2a,Noun,People Profession,0,job people profession work
+post_person_2b,Noun,People Profession,0,job people profession work
+post_van,Noun,Transport Road,0,transport travel vehicle
+post-it,Noun,Work and School Stationery,0,class office school stationery
+pot,Noun,Tools Garden,0,gardening
+potato,Noun,Food Vegetables and salads,0,food
+potted_plant,Noun,Plants and Trees,0,gardening plant
+pottery,Noun,Science,0,
+potty_chair,Noun,Healthcare Grooming items,0,grooming
+"pour_custard_,_to",Verb,Food Sweets and desserts,0,
+powder_puff,Noun,Healthcare Grooming items,0,grooming
+power_switch,Noun,Electrical General,0,
+prawn,Noun,Animal Crustacean and Molluscs,0,animal fish shellfish
+"pray_,_to",Verb,Religion General,0,celebration Christian Easter
+prayer,Noun,Religion General,0,celebration Christian Easter
+present,Noun,Celebration Item,0,celebration
+pretty,Noun,People Descriptive,0,
+pretzel,Noun,Food Breads and baking,0,food snack
+prickles,Noun,Animal Features,0,animal
+print,Noun,Computer Icon,0,
+print_preview,Noun,Computer Icon,0,
+printer,Noun,Electrical Computer,0,electric
+prism_hexagonal,Noun,Descriptive Shape,0,maths shape
+prism_triangular,Noun,Descriptive Shape,0,maths shape
+puffin,Noun,Animal Birds,0,animal bird
+pull_along_toy,Noun,Leisure Toys,0,
+pumice_stone,Noun,Healthcare Grooming items,0,grooming
+pumpkin,Noun,Food Vegetables and salads,0,food fruit halloween
+pumpkin_lantern,Noun,Celebration Item,0,celebration food
+pumpkin_pie,Noun,Celebration Item,0,celebration food
+pupil,Noun,Healthcare Body parts,0,
+puppet,Noun,Leisure Toys,0,play toys
+Puritans,Noun,Religion Person,0,celebration Christian
+purse,Noun,Clothes Accessories,0,clothes
+"put_in_bin_,_to",VerbComplex,Building Household tasks,0,action
+"put_on_cap_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+"put_on_coat_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+"put_out_rubbish_,_to",VerbComplex,Building Household tasks,0,action
+pyjamas,Noun,Clothes General,0,clothes sleepwear
+pyramid_square_base,Noun,Descriptive Shape,0,maths shape
+pyramid_triangular_base,Noun,Descriptive Shape,0,maths shape
+Q,Noun,Alphabet,0,alphabet letter
+q_-_lower_case,Noun,Alphabet,0,alphabet letter
+quadrilateral,Noun,Descriptive Shape,0,maths shape
+quail,Noun,Animal Birds,0,animal bird
+quarter,Noun,Descriptive Quantity,0,amount fraction
+quiet,Noun,People Descriptive,0,features people
+R,Noun,Alphabet,0,alphabet letter
+r_-_lower_case,Noun,Alphabet,0,alphabet letter
+rabbit,Noun,Animal Mammal,0,animal pet wild
+rabbit_hutch,Noun,Animal Habitat,0,animal
+race_athletics,Noun,Sport,0,games sport
+radish,Noun,Food Vegetables and salads,0,
+rain,Noun,Environment Weather,0,climate forecast weather
+rainbow,Noun,Environment Weather,0,climate forecast weather
+raincoat,Noun,Clothes General,0,clothes
+raisin,Noun,Food Fruit,0,
+raisin_currants,Noun,Food Fruit,0,food fruit
+rake,Noun,Tools Garden,0,gardening
+ram,Noun,Animal Mammal,0,animal farm mammal
+ramp,Noun,Healthcare Medical items,0,clinic health hospital medical
+rash,Noun,Healthcare Medical conditions,0,clinic health hospital medical
+rat,Noun,Animal Mammal,0,animal pet wild
+rattle_snake,Noun,Animal Reptiles and Amphibians,0,animal reptile
+,,Food Pastas and rice,0,
+razor,Noun,Healthcare Grooming items,0,grooming
+razor_electric,Noun,Healthcare Grooming items,0,electric grooming
+ready,Noun,People Descriptive,0,
+ready_2,Noun,People Descriptive,0,
+"receive_email_,_to",VerbComplex,Computer Icon,0,
+recipe,Noun,Food Meals and snacks,0,cooking feeding kitchen
+rectangle,Noun,Descriptive Shape,0,maths shape
+recycle_bin,Noun,Computer Icon,0,
+recycle_logo,Noun,Science Eco,0,cooking kitchen
+recycling_bins,Noun,Building Contents,0,cooking kitchen
+"refridgerate_,_to",Verb,Food Kitchen actions,0,cooking
+refuse_collector_1a,Noun,People Profession,0,job people profession work
+refuse_collector_1b,Noun,People Profession,0,job people profession work
+refuse_collector_2a,Noun,People Profession,0,job people profession work
+refuse_collector_2b,Noun,People Profession,0,job people profession work
+refuse_lorry,Noun,Transport Road,0,transport travel vehicle
+reindeer,Noun,Animal Mammal,0,animal celebration farm food
+"relax_3_,_to",Verb,People Actions,0,
+remote_control,Noun,Electrical Media,0,electric
+"retire_,_to",Verb,People Actions,0,
+retired,Noun,People Descriptive,0,
+rhinoceros,Noun,Animal Mammal,0,animal mammal wild zoo
+rhombus,Noun,Descriptive Shape,0,maths shape
+ribbon,Noun,Celebration Item,0,celebration
+rice,Noun,Food Pastas and rice,0,food meal
+rice_cake,Noun,Food Pastas and rice,0,food snack
+"ride_horse_,_to",VerbComplex,Sport,0,sport
+riding_hat,Noun,Clothes Sport,0,sport
+rifle,Noun,Military,0,equipment
+right,Noun,Descriptive Direction,0,direction position
+left_click,Noun,Electrical Computer,0,
+right_hand,Noun,Healthcare Body parts,0,
+ring,Noun,Clothes Jewellery,0,clothes jewellery
+ring_binder,Noun,Work and School Stationery,0,class office school stationery
+risen,Noun,Religion Festival,0,celebration Christian Easter
+road,Noun,Holiday and travel,0,holiday travel
+robin,Noun,Animal Birds,0,animal bird
+rocket,Noun,Transport Space,0,transport travel
+rocket_2,Noun,Celebration Item,0,celebration
+rocking_chair,Noun,Building Furniture,0,home house
+roll_on_deodorant,Noun,Healthcare Grooming items,0,grooming
+"roll_pastry_,_to",VerbComplex,Food Kitchen actions,0,cooking
+roller_blind,Noun,Building Contents,0,
+roller_coaster,Noun,Holiday and travel,0,holiday
+rolling_pin,Noun,Food Kitchen items,0,cooking kitchen
+roman_blind,Noun,Building Contents,0,
+room,Noun,Building Public,0,class office school
+roots,Noun,Plants and Trees,0,gardening plant
+rose,Noun,Plants and Trees,0,
+rosette,Noun,Sport Accessories,0,
+rotary_washing_line,Noun,Building Contents,0,home house
+rowing_boat,Noun,Transport Water,0,transport travel
+Rudolph,Noun,Celebration Item,0,celebration Christian
+rug,Noun,Building Contents,0,home house
+rugby_ball,Noun,Sport Accessories,0,
+"run_,_to",Verb,Sport,0,class school
+S,Noun,Alphabet,0,alphabet letter
+s_-_lower_case,Noun,Alphabet,0,alphabet letter
+sack,Noun,Celebration Item,0,celebration
+sad_lady,Noun,People Feelings,0,emotion expression face feeling people woman
+sad_man,Noun,People Feelings,0,emotion expression face feeling people
+saddle,Noun,Animal Activity Grooming,0,animal
+saddle_2,Noun,Sport Accessories,0,sport
+safety_goggles,Noun,Tools Workshop,0,DIY tools workshop
+safety_pin,Noun,Healthcare Grooming items,0,grooming
+sailor_1a,Noun,People Profession,0,job people profession work
+sailor_1b,Noun,People Profession,0,job people profession work
+salt,Noun,Food Kitchen items,0,
+"salt_,_to",Verb,Food Feeding and eating,0,
+salty,Noun,Food Feeding and eating,0,
+same,Noun,Descriptive Quantity,0,abstract adjective position
+sand_pit,Noun,Leisure Toys,0,play toys
+sandals,Noun,Clothes General,0,clothes footwear
+sandpaper,Noun,Tools Workshop,0,DIY tools workshop
+sanitary_towel,Noun,Healthcare Grooming items,0,grooming
+satellite,Noun,Science Astronomy,0,astronomy
+,,Food Fruit,0,
+Saturn,Noun,Science Astronomy,0,astronomy planets
+sauce_cranberry,Noun,Food Ingredients,0,
+saucepan,Noun,Food Kitchen items,0,cooking kitchen
+saucer,Noun,Food Kitchen items,0,cooking feeding kitchen
+sausage_roll,Noun,Food Breads and baking,0,celebration food
+sausage_roll_small,Noun,Food Breads and baking,0,celebration food
+sausages,Noun,Food Meat,0,food meat pork
+sausages_2,Noun,Food Meat,0,
+save,Noun,Computer Icon,0,
+saw,Noun,Tools Workshop,0,DIY tools workshop
+scales,Noun,Food Kitchen items,0,cooking kitchen
+scales_2,Noun,Food Kitchen items,0,cooking kitchen
+scales_fish,Noun,Animal Features,0,animal
+scanning,Noun,Computer Icon,0,
+scar,Noun,Healthcare Body parts,0,body
+scarecrow,Noun,Tools Garden,0,gardening
+scarf,Noun,Clothes General,0,clothes
+scary,Noun,People Descriptive,0,
+school,Noun,Building School,0,class school
+school_1,Noun,Building School,0,class school
+school_bag,Noun,Clothes Accessories,0,class school
+science,Noun,Work and School Subjects,0,class school
+science_class,Noun,Work and School Timetable,0,class school
+science_room,Noun,Building School,0,class school
+scissors,Noun,Healthcare Grooming items,0,grooming
+scoop,Noun,Food Kitchen items,0,cooking
+"scoop_,_to",Verb,Food Kitchen actions,0,
+score_goal,Noun,Sport,0,
+screw,Noun,Tools Workshop,0,DIY tools workshop
+screwdriver,Noun,Tools Workshop,0,DIY tools workshop
+scrubbing_brush,Noun,Building Contents,0,home house
+seagull,Noun,Animal Birds,0,animal bird
+seahorse,Noun,Animal Fish and Marine mammals,0,animal fish
+seal,Noun,Animal Fish and Marine mammals,0,animal mammal wild zoo
+seat_belt,Noun,Transport Road,0,transport travel vehicle
+second,Noun,Descriptive Time,0,calendar diary time
+second_3,Noun,Descriptive Position,0,
+secretary_1a,Noun,People Profession,0,job people profession work
+secretary_1b,Noun,People Profession,0,job people profession work
+secretary_2a,Noun,People Profession,0,job people profession work
+secretary_2b,Noun,People Profession,0,job people profession work
+see_saw,Noun,Leisure Playground,0,equipment playground
+seedling,Noun,Plants and Trees,0,gardening plant
+seeds,Noun,Plants and Trees,0,gardening plant
+seizure,Noun,Healthcare Medical conditions,0,clinic health hospital medical
+"send_email_,_to",VerbComplex,Computer Icon,0,
+senses,Noun,Healthcare Body parts,0,body
+sensory_room,Noun,Building School,0,class school
+sensory_tube,Noun,Communication Aid,0,communication
+serene_lady,Noun,People Feelings,0,emotion expression face feeling people woman
+serene_man,Noun,People Feelings,0,emotion expression face feeling people
+"serve_,_to",Verb,Food Kitchen actions,0,cooking
+serviette,Noun,Food Feeding and eating,0,
+"set_the_table_,_to",VerbComplex,Building Household tasks,0,action
+"set_timer_,_to",VerbComplex,Food Kitchen actions,0,cooking
+settee_1,Noun,Building Furniture,0,
+settee_2,Noun,Building Furniture,0,
+seventy_five_percent,Noun,Descriptive Quantity,0,amount percent
+shallow,Noun,Descriptive Quantity,0,abstract adjective position
+shampoo,Noun,Healthcare Grooming items,0,grooming
+"shampoo_animal_,_to",VerbComplex,Animal Activity Grooming,0,action animal
+"shampoo_hair_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+shape_puzzle,Noun,Leisure Toys,0,play toys
+shapesorter,Noun,Leisure Toys,0,play toys
+sharp,Noun,Descriptive Shape,0,abstract adjective
+"shave_,_to",Verb,Healthcare Grooming activities,0,electric grooming
+"shave_underarm_,_to",VerbComplex,Healthcare Grooming activities,0,body
+"shave_with_razor_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+shaving_cream,Noun,Healthcare Grooming items,0,grooming
+sheep,Noun,Animal Mammal,0,animal farm mammal
+shells,Noun,Science Eco,0,
+shepherd_1a,Noun,People Profession,0,celebration Christian farm
+shepherd_1b,Noun,People Profession,0,celebration Christian farm
+shin,Noun,Healthcare Body parts,0,
+shiny,Noun,Descriptive State,0,abstract adjective
+shirt,Noun,Clothes General,0,clothes
+shoe_-_ladies,Noun,Clothes General,0,clothes footwear
+shoe_-_mans,Noun,Clothes General,0,clothes footwear
+shooting_star,Noun,Science,0,
+shop,Noun,Building Shop,0,holiday
+shop_2,Noun,Building Shop,0,holiday
+short,Noun,People Descriptive,0,features people size
+short_2,Noun,Descriptive Quantity,0,abstract adjective position
+short_hair,Noun,People Descriptive,0,
+shorts,Noun,Clothes General,0,clothes
+shoulder,Noun,Healthcare Body parts,0,
+shower,Noun,Healthcare Grooming items,0,grooming
+"shower_1_,_to",Verb,Healthcare Grooming activities,0,grooming
+"shower_2_,_to",Verb,Healthcare Grooming activities,0,grooming
+shower_cap,Noun,Healthcare Grooming items,0,grooming
+shower_gel,Noun,Healthcare Grooming items,0,grooming
+shrew,Noun,Animal Mammal,0,animal wild
+shrimp,Noun,Food Fish and seafood,0,fish food
+Shrove_Tuesday_1,Noun,Religion Festival,0,celebration Christian Easter food
+shuttlecock,Noun,Sport Accessories,0,games sport
+side,Noun,Descriptive Position,0,direction position
+sieve,Noun,Food Kitchen items,0,cooking kitchen
+"sieve_,_to",Verb,Food Kitchen actions,0,cooking
+signpost,Noun,Transport Road,0,transport travel
+signpost_1,Noun,Transport Road,0,transport travel
+silence,Noun,Science,0,
+simnel_cake,Noun,Food Festival,0,celebration food
+singer_1a,Noun,People Profession,0,job people profession work
+singer_1b,Noun,People Profession,0,job people profession work
+singer_2a,Noun,People Profession,0,job people profession work
+singer_2b,Noun,People Profession,0,job people profession work
+single_bed,Noun,Building Furniture,0,
+sink,Noun,Food Kitchen items,0,cooking kitchen
+sink_2,Noun,Building Contents,0,
+sister,Noun,People Relationship,0,family relationship relatives
+"sit_at_computer_,_to",VerbComplex,Electrical Computer,0,
+"sit_at_computer_2_,_to",VerbComplex,Electrical Computer,0,
+skate_park,Noun,Leisure Playground,0,equipment playground
+skateboard,Noun,Transport Road,0,transport travel
+skeleton,Noun,Healthcare Body parts,0,
+"ski_,_to",Verb,Sport,0,games sport
+skin,Noun,Healthcare Body parts,0,
+skirt,Noun,Clothes General,0,clothes
+skis,Noun,Sport Accessories,0,games sport
+skull,Noun,Healthcare Body parts,0,
+skunk,Noun,Animal Mammal,0,animal mammal
+sledge,Noun,Transport Road,0,celebration
+sleep_suit_baby,Noun,Clothes General,0,clothes sleepwear
+sleigh,Noun,Transport Road,0,celebration
+slice,Noun,Descriptive Shape,0,abstract
+slide,Noun,Leisure Playground,0,equipment playground
+sling,Noun,Healthcare Medical items,0,clinic health hospital medical
+slippers,Noun,Clothes General,0,clothes footwear
+slippery,Noun,People Descriptive,0,
+slug,Noun,Animal Crustacean and Molluscs,0,insect
+"smoke_,_to",Verb,Healthcare Medical conditions,0,
+smooth,Noun,Science,0,
+snail,Noun,Animal Crustacean and Molluscs,0,insect
+snake,Noun,Animal Reptiles and Amphibians,0,animal pet reptile wild
+sneering_lady,Noun,People Feelings,0,emotion expression face feeling people woman
+sneering_man,Noun,People Feelings,0,emotion expression face feeling people
+sneeze_cold,Noun,Healthcare Medical conditions,0,clinic health hospital medical
+snow,Noun,Environment Weather,0,climate forecast weather
+soap,Noun,Healthcare Grooming items,0,grooming
+socks,Noun,Clothes General,0,clothes footwear
+soft,Noun,Descriptive State,0,abstract adjective
+soldier_1a,Noun,People Profession,0,job people profession work
+soldier_1b,Noun,People Profession,0,job people profession work
+soldier_2a,Noun,People Profession,0,job people profession work
+soldier_2b,Noun,People Profession,0,job people profession work
+sole,Noun,Healthcare Body parts,0,body
+some,Noun,Descriptive Quantity,0,abstract adjective position
+son,Noun,People Relationship,0,family relationship relatives
+sour,Noun,Food Feeding and eating,0,
+sour_cream,Noun,Food Dairy,0,diary food
+south,Noun,Descriptive Direction,0,direction position
+south_east,Noun,Descriptive Direction,0,abstract adjective adverb direction position
+south_west,Noun,Descriptive Direction,0,abstract adjective adverb direction position
+space_bar,Noun,Computer Icon,0,
+spaceship,Noun,Transport Space,0,transport travel
+spade,Noun,Leisure Toys,0,play toys
+spaghetti,Noun,Food Pastas and rice,0,
+sparkler,Noun,Celebration Item,0,celebration
+spatula,Noun,Food Kitchen items,0,cooking feeding kitchen
+spatula_2,Noun,Food Kitchen items,0,cooking kitchen
+speech_language_therapist_1a,Noun,People Profession,0,job people profession work
+speech_language_therapist_1b,Noun,People Profession,0,job people profession work
+speech_language_therapist_2a,Noun,People Profession,0,job people profession work
+speech_language_therapist_2b,Noun,People Profession,0,job people profession work
+spicy,Noun,Food Feeding and eating,0,
+spider,Noun,Animal Spiders and Insects,0,insect
+spiders_web,Noun,Animal Habitat,0,animal insect
+spinach,Noun,Food Vegetables and salads,0,
+spine,Noun,Healthcare Body parts,0,
+sponge,Noun,Healthcare Grooming items,0,grooming
+spoon,Noun,Food Kitchen items,0,cooking feeding kitchen utensil
+spoon_adapted,Noun,Food Feeding and eating,0,feeding utensil
+spot_light,Noun,Building Contents,0,
+spotty,Noun,Descriptive State,0,abstract adjective
+spotty_2,Noun,People Descriptive,0,
+"spread_,_to",Verb,Food Kitchen actions,0,cooking
+spring,Noun,Descriptive Time,0,calendar diary season time
+spring_onions,Noun,Food Vegetables and salads,0,
+"sprinkle_,_to",Verb,Food Kitchen actions,0,cooking
+square,Noun,Descriptive Shape,0,maths shape
+square_setsquare,Noun,Tools Workshop,0,DIY tools workshop
+squash,Noun,Drink Type,0,drink
+"squash_,_to",Verb,Food Kitchen actions,0,
+"squeak_,_to",Verb,Animal Features,0,animal mammal pet
+squirrel_1a,Noun,Animal Mammal,0,animal wild
+squirrel_1b,Noun,Animal Mammal,0,animal wild
+stable,Noun,Animal Habitat,0,animal
+stable_1,Noun,Animal Habitat,0,celebration farm
+stable_2,Noun,Animal Habitat,0,celebration
+stag,Noun,Animal Mammal,0,animal wild
+stairs,Noun,Building Structure,0,
+standard_lamp,Noun,Building Furniture,0,
+"staple_,_to",Verb,Work and School Stationery,0,
+stapler,Noun,Work and School Stationery,0,
+star,Noun,Science Astronomy,0,astronomy
+,,Descriptive Shape,0,
+star_stacker,Noun,Leisure Toys,0,play toys
+starfish,Noun,Animal Other Invertebrates,0,animal shellfish
+steam_train,Noun,Transport Rail,0,transport travel
+steamer,Noun,Food Kitchen items,0,cooking kitchen
+step_brother,Noun,People Relationship,0,family relationship relatives
+step_by_step,Noun,Communication Aid,0,communication
+step_dad_parent,Noun,People Relationship,0,family relationship relatives
+step_daughter_1,Noun,People Relationship,0,family relationship relatives
+step_daughter_2,Noun,People Relationship,0,family relationship relatives
+step_mum_parent,Noun,People Relationship,0,family relationship relatives
+step_sister,Noun,People Relationship,0,family relationship relatives
+step_son_1,Noun,People Relationship,0,family relationship relatives
+step_son_2,Noun,People Relationship,0,family relationship relatives
+stereo,Noun,Electrical Media,0,electric
+stethoscope,Noun,Healthcare Medical items,0,
+stick,Noun,Plants and Trees,0,gardening
+stickers,Noun,Leisure Toys,0,play toys
+sticky,Noun,Descriptive State,0,
+sting_bee,Noun,Healthcare Medical conditions,0,clinic health hospital medical
+"stir_fry_,_to",VerbComplex,Food Kitchen actions,0,cooking
+"stir_mix_,_to",VerbComplex,Food Kitchen actions,0,cooking
+stirrups,Noun,Sport Accessories,0,sport
+stoat,Noun,Animal Mammal,0,animal wild
+stock_cubes,Noun,Food Ingredients,0,
+stomach,Noun,Healthcare Body parts,0,body
+stomach_1,Noun,Healthcare Body parts,0,body
+stomach_ache,Noun,Healthcare Medical conditions,0,
+stone,Noun,Plants and Trees,0,gardening
+stool,Noun,Building Furniture,0,home house
+straight,Noun,Descriptive Shape,0,abstract adjective direction position
+"strain_,_to",Verb,Food Kitchen actions,0,cooking
+straw,Noun,Food Kitchen items,0,cooking feeding kitchen
+strawberry,Noun,Food Fruit,0,food fruit
+string,Noun,Building Contents,0,class school
+striped,Noun,Descriptive State,0,abstract adjective
+"stroke_,_to",Verb,Animal Activity Grooming,0,action animal
+strong,Noun,People Descriptive,0,
+stubble,Noun,People Descriptive,0,
+stuffing,Noun,Food Breads and baking,0,celebration food
+subsoil,Noun,Science Eco,0,
+sugar_bowl,Noun,Food Kitchen items,0,cooking feeding kitchen
+sugar_brown,Noun,Food Ingredients,0,ingredient
+sugar_white,Noun,Food Ingredients,0,ingredient
+suit_-_ladys,Noun,Clothes General,0,clothes
+suit_-_mans,Noun,Clothes General,0,clothes
+suitcase_1,Noun,Holiday and travel,0,holiday travel
+suitcase_2,Noun,Holiday and travel,0,holiday travel
+summer,Noun,Descriptive Time,0,calendar diary season time
+sun,Noun,Descriptive Time,0,calendar diary season time
+sun_lounger,Noun,Holiday and travel,0,holiday
+sunglasses,Noun,Clothes Accessories,0,clothes
+sunscreen,Noun,Healthcare Grooming items,0,grooming
+surgery_health_centre,Noun,Building Public,0,clinic health hospital medical
+surprised_lady,Noun,People Feelings,0,emotion expression face feeling people woman
+surprised_man,Noun,People Feelings,0,emotion expression face feeling people
+swan,Noun,Animal Birds,0,animal bird wild
+sweatshirt,Noun,Clothes General,0,clothes
+swede,Noun,Food Vegetables and salads,0,
+sweet,Noun,Food Sweets and desserts,0,
+sweet_2,Noun,Food Feeding and eating,0,
+sweet_potato,Noun,Food Vegetables and salads,0,food vegetable
+sweetcorn,Noun,Food Vegetables and salads,0,food vegetable
+"swim_,_to",Verb,Sport,0,class school
+swimming_cap,Noun,Clothes Sport,0,clothes hat swimwear
+swimming_class,Noun,Work and School Timetable,0,class school
+swimming_costume,Noun,Clothes Sport,0,clothes swimwear
+swimming_trunks,Noun,Clothes Sport,0,clothes swimwear
+swing,Noun,Leisure Playground,0,equipment playground
+"swing_,_to",Verb,Leisure Playground,0,
+swiss_roll,Noun,Food Sweets and desserts,0,cake dessert food
+switch_access,Noun,Electrical Computer,0,
+switch_low_profile_1,Noun,Communication Aid,0,AAC electric
+switch_low_profile_2,Noun,Communication Aid,0,AAC electric
+switch_low_profile_3,Noun,Communication Aid,0,AAC electric
+switch_mount,Noun,Communication Aid,0,AAC electric
+television_switch_on,Noun,Electrical TV,0,
+syringe,Noun,Healthcare Medical items,0,clinic health hospital medical
+T,Noun,Alphabet,0,alphabet letter
+t_-_lower_case,Noun,Alphabet,0,alphabet letter
+t-shirt,Noun,Clothes General,0,clothes
+table,Noun,Building Furniture,0,
+table_2,Noun,Building Furniture,0,celebration
+table_cloth,Noun,Food Kitchen items,0,cooking feeding kitchen
+tablecloth,Noun,Food Feeding and eating,0,celebration
+tablet_blister_pack,Noun,Healthcare Medical items,0,clinic health hospital medical
+tablets,Noun,Healthcare Medical items,0,clinic health hospital medical
+"take_a_work_break_,_to",VerbComplex,People Actions,0,
+"take_off_cap_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+tall,Noun,People Descriptive,0,features people size
+tampon,Noun,Healthcare Grooming items,0,grooming
+tap,Noun,Healthcare Grooming items,0,grooming
+tape_measure,Noun,Tools Workshop,0,DIY tools workshop
+tape_recorder,Noun,Electrical General,0,communication
+tartan,Noun,Clothes General,0,
+"taste_,_to",Verb,Food Feeding and eating,0,
+tattoo,Noun,People Descriptive,0,grooming
+taxi,Noun,Transport Road,0,transport travel vehicle
+taxi_driver_1a,Noun,People Profession,0,job people profession work
+taxi_driver_1b,Noun,People Profession,0,job people profession work
+taxi_driver_1c,Noun,People Profession,0,job people profession work
+taxi_driver_1d,Noun,People Profession,0,job people profession work
+taxi_driver_2a,Noun,People Profession,0,job people profession work
+taxi_driver_2b,Noun,People Profession,0,job people profession work
+taxi_driver_2c,Noun,People Profession,0,job people profession work
+taxi_driver_2d,Noun,People Profession,0,job people profession work
+tea,Noun,Drink Type,0,drink
+tea_instant,Noun,Drink Type,0,
+tea_spoon,Noun,Food Kitchen items,0,cooking feeding kitchen utensil
+tea_time,Noun,Descriptive Time,0,calendar diary time
+tea_towel,Noun,Food Kitchen items,0,cooking kitchen
+teacher_1a,Noun,People Profession,0,job people profession work
+teacher_1b,Noun,People Profession,0,job people profession work
+teacher_2a,Noun,People Profession,0,job people profession work
+teacher_2b,Noun,People Profession,0,job people profession work
+teapot,Noun,Food Kitchen items,0,cooking feeding kitchen
+technology,Noun,Electrical General,0,
+teddy_bear,Noun,Leisure Toys,0,play toys
+teeth,Noun,Healthcare Body parts,0,clinic health hospital medical
+teeth_2,Noun,Healthcare Body parts,0,
+telephone_handset,Noun,Electrical Phone,0,electric office
+telephone_toy,Noun,Leisure Toys,0,play toys
+temple,Noun,Healthcare Body parts,0,
+tennis,Noun,Sport,0,games sport
+test,Noun,Work and School Education,0,class school
+test_tube,Noun,Science,0,
+"text_mobile_message_,_to",VerbComplex,Electrical Phone,0,
+text_phone,Noun,Electrical Phone,0,
+theme_park,Noun,Holiday and travel,0,holiday
+thermometer,Noun,Healthcare Medical items,0,clinic health hospital medical
+thermometer_2,Noun,Science,0,
+thick,Noun,Descriptive Quantity,0,abstract adjective
+thigh,Noun,Healthcare Body parts,0,
+thin,Noun,People Descriptive,0,features people size
+thin_2,Noun,Descriptive Quantity,0,abstract adjective
+thirsty,Noun,Food Feeding and eating,0,feeding
+this_month,Noun,Descriptive Time,0,calendar diary season time
+this_week,Noun,Descriptive Time,0,calendar diary season time
+three_quarters,Noun,Descriptive Quantity,0,amount fraction
+three_wise_kings,Noun,Religion Person,0,celebration Christian
+throat,Noun,Healthcare Body parts,0,body
+through,Noun,Descriptive Direction,0,direction position
+thumb,Noun,Healthcare Body parts,0,
+thumbs,Noun,Healthcare Body parts,0,
+thunder_storm,Noun,Environment Weather,0,climate forecast weather
+"tidy_up_,_to",VerbComplex,Building Household tasks,0,action
+tie,Noun,Clothes General,0,clothes
+"tie_2_,_to",Verb,Healthcare Grooming activities,0,grooming
+tiger,Noun,Animal Mammal,0,animal mammal wild zoo
+tights,Noun,Clothes General,0,clothes underwear
+time_out,Noun,Work and School Timetable,0,class office school
+timer_2,Noun,Food Kitchen items,0,cooking kitchen
+tin,Noun,Food Kitchen items,0,cooking kitchen
+tin_foil,Noun,Food Kitchen items,0,cooking
+tinned_plums,Noun,Food Fruit,0,
+tinsel,Noun,Celebration Item,0,celebration Christian
+tippex,Noun,Work and School Stationery,0,class office school stationery
+tissues,Noun,Healthcare Grooming items,0,grooming
+toad,Noun,Animal Reptiles and Amphibians,0,animal wild
+toast,Noun,Food Kitchen items,0,
+toaster,Noun,Food Kitchen items,0,cooking electric kitchen
+today,Noun,Descriptive Time,0,calendar diary season time
+toe_nail,Noun,Healthcare Body parts,0,body
+toilet,Noun,Healthcare Grooming items,0,grooming
+"toilet_,_go_to_the",Noun,Healthcare Grooming items,0,communication
+toilet_roll,Noun,Healthcare Grooming items,0,grooming
+toilets,Noun,Communication Signs,0,communication
+tomato,Noun,Food Vegetables and salads,0,food fruit
+tomato_juice,Noun,Drink Type,0,drink juice
+tomb_1,Noun,Building Public,0,celebration Christian
+tomb_2,Noun,Building Public,0,celebration Christian
+tomorrow,Noun,Descriptive Time,0,calendar diary season time
+tongs,Noun,Food Kitchen items,0,cooking kitchen
+tongue,Noun,Healthcare Body parts,0,
+tooth,Noun,Healthcare Body parts,0,
+toothache,Noun,Healthcare Medical conditions,0,clinic health hospital medical
+toothbrush,Noun,Healthcare Grooming items,0,grooming
+toothbrush_electric,Noun,Healthcare Grooming items,0,electric grooming
+toothpaste,Noun,Healthcare Grooming items,0,grooming
+top,Noun,Descriptive Position,0,direction position
+top_2,Noun,Descriptive Position,0,abstract adjective position
+topsoil,Noun,Science Eco,0,
+torch,Noun,Electrical General,0,
+torch_2,Noun,Sport Accessories,0,
+torch_3,Noun,Sport Accessories,0,
+tortoise,Noun,Animal Reptiles and Amphibians,0,animal pet reptile
+"toss_pancake_,_to",VerbComplex,Food Breads and baking,0,celebration Easter food
+touch_screen,Noun,Electrical Computer,0,
+toupee,Noun,Healthcare Grooming items,0,grooming
+towel,Noun,Healthcare Grooming items,0,grooming
+toy_car,Noun,Leisure Toys,0,
+toy_soldier,Noun,Leisure Toys,0,play toys
+trachea,Noun,Healthcare Body parts,0,body
+tracksuit,Noun,Clothes Sport,0,clothes
+tractor,Noun,Transport Road,0,transport travel vehicle
+traffic_lights,Noun,Transport Road,0,transport travel vehicle
+train,Noun,Transport Rail,0,transport travel
+trainers,Noun,Clothes General,0,clothes footwear
+trampoline,Noun,Sport Accessories,0,games sport
+"trampoline_,_to",Verb,Sport,0,games sport
+transparent,Noun,Science,0,
+trap,Noun,Animal Activity Misc,0,animal
+trapezium,Noun,Descriptive Shape,0,maths shape
+travel,Noun,Holiday and travel,0,holiday travel
+tray,Noun,Food Kitchen items,0,cooking feeding kitchen
+tree,Noun,Plants and Trees,0,gardening plant
+tree_ornament_chocolate,Noun,Celebration Item,0,celebration Christian
+tree_trunk,Noun,Plants and Trees,0,gardening plant
+triangle_acute,Noun,Descriptive Shape,0,maths shape
+triangle_equilateral,Noun,Descriptive Shape,0,maths shape
+triangle_isosceles,Noun,Descriptive Shape,0,maths shape
+triangle_obtuse,Noun,Descriptive Shape,0,maths shape
+triangle_right-angled,Noun,Descriptive Shape,0,maths shape
+triangle_scalene,Noun,Descriptive Shape,0,maths shape
+trick_or_treat,Noun,Celebration Event,0,celebration
+tripod,Noun,Science,0,
+trousers,Noun,Clothes General,0,clothes
+trowel,Noun,Tools Garden,0,gardening
+tulip,Noun,Plants and Trees,0,gardening plant
+tuna,Noun,Food Fish and seafood,0,fish food
+turkey,Noun,Animal Birds,0,animal bird
+,,Food Poultry,0,
+"turn_down_heat_,_to",VerbComplex,Food Kitchen actions,0,cooking
+light_switch_turn_off,Noun,Electrical General,0,
+"turn_on_light_switch_,_to",VerbComplex,Electrical General,0,
+"turn_up_heat_,_to",VerbComplex,Food Kitchen actions,0,cooking
+turnip,Noun,Food Vegetables and salads,0,
+turtle,Noun,Animal Reptiles and Amphibians,0,animal reptile
+tv_drama,Noun,Electrical TV,0,
+twenty_five_percent,Noun,Descriptive Quantity,0,amount percent
+U,Noun,Alphabet,0,alphabet letter
+u_-_lower_case,Noun,Alphabet,0,alphabet letter
+ugly,Noun,People Descriptive,0,
+umbrella,Noun,Clothes Accessories,0,climate forecast weather
+"unbuckle_,_to",Verb,Healthcare Grooming activities,0,grooming
+"unbutton_,_to",Verb,Healthcare Grooming activities,0,grooming
+uncle_maternal,Noun,People Relationship,0,family relationship relatives
+uncle_paternal,Noun,People Relationship,0,family relationship relatives
+under_1,Noun,Descriptive Position,0,direction position
+underarm,Noun,Healthcare Body parts,0,body
+underarm_hair,Noun,Healthcare Body parts,0,body
+underground_sign,Noun,Transport Rail,0,transport travel
+underground_train,Noun,Transport Rail,0,transport travel
+"undress_,_to",Verb,Healthcare Grooming activities,0,grooming
+"untie_,_to",Verb,Healthcare Grooming activities,0,grooming
+up,Noun,Descriptive Direction,0,direction position
+upper_arm,Noun,Healthcare Body parts,0,
+Uranus,Noun,Science Astronomy,0,astronomy planets
+usb_stick,Noun,Electrical Computer,0,
+"use_computer_,_to",VerbComplex,Electrical Computer,0,
+V,Noun,Alphabet,0,alphabet letter
+v_-_lower_case,Noun,Alphabet,0,alphabet letter
+vacuum_cleaner_1,Noun,Building Contents,0,home house
+vacuum_cleaner_2,Noun,Building Contents,0,home house
+vacuum_cleaner_hand_held,Noun,Building Contents,0,home house
+vagina,Noun,Healthcare Body parts,1,
+van,Noun,Transport Road,0,transport travel vehicle
+varnish,Noun,Tools Workshop,0,DIY tools workshop
+vase,Noun,Building Contents,0,
+Venus,Noun,Science Astronomy,0,astronomy planets
+vertical_blinds,Noun,Building Contents,0,
+vest,Noun,Clothes General,0,clothes underwear
+vice,Noun,Tools Workshop,0,DIY tools workshop
+video_camera,Noun,Electrical Media,0,electric
+video_player,Noun,Electrical Media,0,electric
+video_tape,Noun,Electrical Media,0,electric
+vine,Noun,Plants and Trees,0,gardening plant
+visitor_1a,Noun,People Profession,0,job people profession work
+visitor_1b,Noun,People Profession,0,job people profession work
+visor,Noun,Clothes General,0,equipment uniform
+visor_2,Noun,Clothes Sport,0,clothes
+volleyball,Noun,Sport,0,sport
+"vomit_,_to",Verb,Healthcare Medical conditions,0,
+vulture,Noun,Animal Birds,0,animal bird
+W,Noun,Alphabet,0,alphabet letter
+w_-_lower_case,Noun,Alphabet,0,alphabet letter
+"wag_tail_,_to",VerbComplex,Animal Features,0,animal mammal pet
+"wag_tail_2_,_to",VerbComplex,Animal Features,0,animal mammal pet
+waistcoat,Noun,Clothes General,0,clothes
+"walk_dog_,_to",VerbComplex,Animal Activity Grooming,0,action animal
+walking_frame,Noun,Healthcare Medical items,0,clinic health hospital medical
+walking_stick,Noun,Healthcare Medical items,0,clinic health hospital medical
+walkman,Noun,Electrical Media,0,electric
+wall,Noun,Building Structure,0,home house
+wallet,Noun,Clothes Accessories,0,clothes
+walnut,Noun,Food Nuts,0,
+walrus,Noun,Animal Fish and Marine mammals,0,animal mammal
+wardrobe,Noun,Building Furniture,0,
+warm_clothes,Noun,Clothes General,0,medical
+warm_fire,Noun,Descriptive State,0,
+warning_light,Noun,Electrical General,0,
+"wash_clothes_,_to",VerbComplex,Building Household tasks,0,action
+"wash_face_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+"wash_hands_,_to",VerbComplex,Healthcare Grooming activities,0,grooming
+"wash_up_,_to",VerbComplex,Building Household tasks,0,
+"wash_vegetables_,_to",VerbComplex,Food Kitchen actions,0,cooking
+washing_machine,Noun,Building Equipment and devices,0,home house
+washing_powder,Noun,Building Contents,0,home house
+washing_up_bowl,Noun,Building Contents,0,home house
+washing_up_liquid,Noun,Building Contents,0,home house
+wasp,Noun,Animal Spiders and Insects,0,insect
+waste_paper_bin,Noun,Building Contents,0,
+watch,Noun,Clothes Jewellery,0,clothes jewellery
+water,Noun,Drink Type,0,drink
+water_bottle_hamster,Noun,Animal Activity Feeding,0,animal
+water_bowl,Noun,Animal Activity Feeding,0,animal
+water_pistol,Noun,Leisure Toys,0,play toys
+"water_plants_,_to",VerbComplex,Building Household tasks,0,action
+water_table,Noun,Leisure Toys,0,play toys
+watering_can,Noun,Tools Garden,0,gardening
+watermelon,Noun,Food Fruit,0,food fruit
+waterproof,Noun,Science,0,
+wavy,Noun,Descriptive Shape,0,abstract adjective
+weak_link,Noun,Descriptive State,0,abstract
+web_address,Noun,Computer Icon,0,
+webbed_foot,Noun,Animal Features,0,animal bird
+webcam,Noun,Electrical Computer,0,communication
+weeds,Noun,Plants and Trees,0,gardening plant
+week,Noun,Descriptive Time,0,calendar diary season time
+week_1,Noun,Descriptive Time,0,calendar diary season time
+weekend,Noun,Descriptive Time,0,calendar diary season time
+"weigh_,_to",Verb,Descriptive Quantity,0,
+wellington_boots,Noun,Clothes General,0,clothes footwear
+west,Noun,Descriptive Direction,0,direction position
+wet,Noun,Descriptive State,0,
+wet_1,Noun,Descriptive State,0,abstract adjective
+what,Noun,Question,0,ask query question
+wheelbarrow,Noun,Tools Garden,0,gardening
+wheelchair,Noun,Transport Road,0,home house
+wheelchair_and_switch_mount,Noun,Communication Aid,0,communication
+wheelchair_communication_aid,Noun,Communication Aid,0,communication
+wheelie_bin,Noun,Building Contents,0,home house
+wheelie_bin_2,Noun,Building Contents,0,home house
+wheelie_bin_3,Noun,Building Contents,0,home house
+when,Noun,Question,0,ask query question
+where,Noun,Question,0,ask query question
+where_1,Noun,Question,0,ask query question
+which,Noun,Question,0,ask query question
+whisk,Noun,Food Kitchen items,0,cooking kitchen
+"whisk_,_to",Verb,Food Kitchen actions,0,cooking
+whiskers,Noun,Animal Features,0,animal mammal pet
+whiteboard,Noun,Building Equipment and devices,0,class school
+who,Noun,Question,0,ask query question
+whole,Noun,Descriptive Quantity,0,abstract adjective
+why,Noun,Question,0,ask query question
+wife,Noun,People Relationship,0,family relationship relatives
+wig_1,Noun,Healthcare Grooming items,0,grooming
+wig_2,Noun,Healthcare Grooming items,0,grooming
+Wii,Noun,Electrical Media,0,
+Wii_Fit,Noun,Electrical Media,0,
+window,Noun,Building Structure,0,home house
+windpipe,Noun,Healthcare Body parts,0,body
+wine,Noun,Drink Type,0,alcohol drink
+wing,Noun,Animal Features,0,animal bird
+winner,Noun,Sport,0,games sport
+winter,Noun,Descriptive Time,0,calendar diary season time
+"wipe_table_,_to",VerbComplex,Building Household tasks,0,action
+wire_break,Noun,Electrical General,0,
+wishbone,Noun,Food Poultry,0,bird celebration food
+witch,Noun,Celebration Item,0,celebration
+witches_hat,Noun,Celebration Item,0,celebration
+wolf,Noun,Animal Mammal,0,animal mammal wild zoo
+wood,Noun,Tools Workshop,0,DIY tools workshop
+wood_lathe,Noun,Tools Workshop,0,DIY tools workshop
+wooden_spoon,Noun,Food Kitchen items,0,cooking feeding kitchen
+woodstain,Noun,Tools Workshop,0,DIY tools workshop
+wool,Noun,Building Contents,0,class school
+"work_,_to",Verb,Tools Actions,0,job profession work
+work_book,Noun,Work and School Education,0,class office school stationery
+worksheet,Noun,Work and School Education,0,class office school stationery
+world,Noun,Science Astronomy,0,class school
+worried_lady,Noun,People Feelings,0,emotion expression face feeling people woman
+worried_man,Noun,People Feelings,0,emotion expression face feeling people
+"wrap_,_to",Verb,Celebration Event,0,celebration
+wrapping_paper,Noun,Celebration Item,0,celebration
+wrench,Noun,Tools Workshop,0,DIY tools workshop
+wrinkled,Noun,People Descriptive,0,
+wrist,Noun,Healthcare Body parts,0,
+wrong_thought,Noun,People Descriptive,0,
+X,Noun,Alphabet,0,alphabet letter
+x_-_lower_case,Noun,Alphabet,0,alphabet letter
+xray,Noun,Healthcare Medical items,0,clinic health hospital medical
+,,Music Instrument,0,
+Y,Noun,Alphabet,0,alphabet letter
+y_-_lower_case,Noun,Alphabet,0,alphabet letter
+yesterday,Noun,Descriptive Time,0,calendar diary season time
+yo-yo,Noun,Leisure Toys,0,play toys
+yogurt,Noun,Food Dairy,0,diary food
+young,Noun,People Descriptive,0,
+yucky,Noun,Food Feeding and eating,0,
+yule_log,Noun,Celebration Item,0,celebration Christian food
+yummy,Noun,Food Feeding and eating,0,
+Z,Noun,Alphabet,0,alphabet letter
+z_-_lower_case,Noun,Alphabet,0,alphabet letter
+zebra,Noun,Animal Mammal,0,animal mammal wild zoo
+zebra_crossing,Noun,Transport Road,0,transport travel vehicle
+zip,Noun,Clothes Accessories,0,clothes
