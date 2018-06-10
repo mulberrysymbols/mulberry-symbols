@@ -8,7 +8,13 @@ body,
 .btn {
   background-color: rgb(234, 232, 255);
   color: rgb(112, 48, 160);
-  background-image: none;
+  background-image: url(assets/background.png);
+}
+
+.page-header {
+  background-image: url("../background.png");
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 
 .btn {
