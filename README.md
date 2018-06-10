@@ -17,3 +17,12 @@ Garry Paxton originally conceived of and created the symbols and made them avail
 * Adult oriented symbols - most proprietary sets are designed for children
 * Unusual symbols usually missing from proprietary sets
 * Designed by graphics artists, reviewed by SLTs and coloured by people with mental health issues
+
+# Using the symbols
+
+You can use the symbols in any project or product, commercial or otherwise as long as any
+ distribution gives us clear attribution and is shared under the same licence terms. See the README.md file for details
+
+We encourage you to share and modify the symbols so that more people can benefit from them and your enhancements.
+
+Thank you.
