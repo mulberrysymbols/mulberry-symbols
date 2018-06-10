@@ -1,7 +1,9 @@
+
 The Mulberry Symbol set
 =======================
 
-Copyright 2008-2012 Garry Paxton
+Copyright 2008-2017 Garry Paxton
+Copyright 2018 Steve Lee
 
 This work is licensed under the Creative Commons Attribution-Share Alike License. 
 
