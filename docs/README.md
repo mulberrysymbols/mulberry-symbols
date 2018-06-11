@@ -8,7 +8,7 @@ These symbols are provided as a resource for speech and language professionals o
 * Foster innovation by allowing reuse and derivations, including internationalisation
 * Adult oriented symbols - most proprietary sets are designed for children
 * Unusual symbols usually missing from proprietary sets
-* Designed by graphics artists, reviewed by SLTs and coloured by people with mental health issues
+* Designed by graphics artists, community reviewed and coloured by SLTs overseeing volunteers who had mental health issues
 
 # Downloads
 
@@ -27,3 +27,5 @@ We do encourage you to share and modify the symbols so that more people can bene
 You can easily attribute us with a link to this website with a mention of Mulberry Symbols.
 
 # Developers
+
+* [Open in GitHub](https://github.com/straight-street/mulberry-symbols)
