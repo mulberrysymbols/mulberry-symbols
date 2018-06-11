@@ -12,9 +12,9 @@ These symbols are provided as a resource for speech and language professionals o
 
 # Downloads
 
-* A [zip of all the symbols](https://github.com/straight-street/mulberry-symbols/raw/master/mulberry-symbols.zip) in SVG format (large file)
-* A [PDF of the symbols](https://github.com/straight-street/mulberry-symbols/raw/master/categories.pdf) sorted by category
-* A [csv spreadsheet](https://github.com/straight-street/mulberry-symbols/raw/master/symbol-info.csv) with categories, tags and ratings
+* A [zip of all the symbols](https://cdn.rawgit.com/straight-street/mulberry-symbols/0d9d8138/mulberry-symbols.zip) in SVG format (large file)
+* A [PDF of the symbols](https://cdn.rawgit.com/straight-street/mulberry-symbols/0d9d8138/categories.pdf) sorted by category
+* A [csv spreadsheet](https://cdn.rawgit.com/straight-street/mulberry-symbols/0d9d8138/symbol-info.csv) with categories, tags and ratings
 
 # Licence
 
