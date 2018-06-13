@@ -33,7 +33,7 @@ You can easily attribute us with a link to this website with a mention of Mulber
 
 # The Symbols in Use
 
-Here's a list of uses we are aware off. Please let us know of other uses so we can add them.
+Here's a list of uses that we are aware of. Please let us know of others so we can add them.
 
 * [cboard](https://www.cboard.io/) is an open source communication web app using symbols and text to speech.
 * [global symbols](https://globalsymbols.com/en/home/) provides a dictionary of international communications symbols, including ARASAAC and Tawasol.
