@@ -36,7 +36,8 @@ You can easily attribute us with a link to this website with a mention of Mulber
 Here's a list of uses that we are aware of. Please let us know of others so we can add them.
 
 * [cboard](https://www.cboard.io/) is an open source communication web app using symbols and text to speech.
-* [global symbols](https://globalsymbols.com/en/home/) provides a dictionary of international communications symbols, including ARASAAC and Tawasol.
+* [Global Symbols](https://globalsymbols.com/en/home/) provides a dictionary of international communications symbols, including ARASAAC and Tawasol.
+* [AlwaysInMind](https://alwaysinmind.info) is a web app for simplified and managed access to media and communications.
 
 # Contact
 
