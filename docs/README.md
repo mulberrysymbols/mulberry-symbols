@@ -2,7 +2,7 @@
 
 We believe that communication is a fundamental human right. Many people with impaired speech and other language difficulties require symbols to support their communication needs, to enable their desires, wishes and opinions to be expressed.
 
-These symbols are provided as a resource for speech and language professionals or developers to use in communication aids. We also hope new exciting uses will be found.
+These symbols are provided as a "free at the point of use" resource for speech and language professionals (SLTs) or developers to use in communication aids. We also hope new exciting uses will be found.
 
 * Designed to overcome high costs experienced by symbols users - free at point of use
 * Foster innovation by allowing reuse and derivations, including internationalisation
