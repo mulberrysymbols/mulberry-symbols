@@ -2,13 +2,14 @@
 
 We believe that communication is a fundamental human right. Many people with impaired speech and other language difficulties require symbols to support their communication needs, to enable their desires, wishes and opinions to be expressed.
 
-These symbols are provided as a "free at the point of use" resource for speech and language professionals (SLTs) or developers to use in communication aids. We also hope new exciting uses will be found.
+These symbols are provided as a "free at the point of use" resource for speech and language professionals (SLTs) or developers to use in communication aids or to print. We also hope exciting new uses will be created so we have used a liberal Creative Commons licence.
 
 * Designed to overcome high costs experienced by symbols users - free at point of use
-* Foster innovation by allowing reuse and derivations, including internationalisation
+* Foster innovation by allowing reuse and derivations, including internationalisation and use in web apps.
 * Adult oriented symbols - most proprietary sets are designed for children
 * Unusual symbols usually missing from proprietary sets
 * Designed by graphics artists, community reviewed and coloured by SLTs overseeing volunteers who had mental health issues
+* Symbols and design process originated by Garry Paxton who then assigned copyright over to Steve Lee in 2018
 
 # Downloads
 
@@ -29,3 +30,14 @@ You can easily attribute us with a link to this website with a mention of Mulber
 # Developers
 
 * [Open in GitHub](https://github.com/straight-street/mulberry-symbols)
+
+# The Symbols in Use
+
+Here's a list of uses we are aware off. Please let us know of other uses so we can add them.
+
+* [cboard](https://www.cboard.io/) is an open source communication web app using symbols and text to speech.
+* [global symbols](https://globalsymbols.com/en/home/) provides a dictionary of interantional communications symbols, including ARASAAC and Tawasol.
+
+# Contact
+
+If you have any questions or suggestions then drop me a line at "steve@opendirective.com" or raise an issue over on GitHub..
