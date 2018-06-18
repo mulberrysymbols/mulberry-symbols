@@ -5,10 +5,10 @@ We believe that communication is a fundamental human right. Many people with imp
 These symbols are provided as a "free at the point of use" resource for speech and language professionals (SLTs) or developers to use in communication aids or to print. We also hope exciting new uses will be created so we have used a liberal Creative Commons licence.
 
 * Designed to overcome high costs experienced by symbols users - free at point of use
-* Foster innovation by allowing reuse and derivations, including internationalisation and use in web apps.
+* Foster innovation by alowing reuse and derivations, including internationalisation and use in web apps.
 * Adult oriented symbols - most proprietary sets are designed for children
-* Unusual symbols usually missing from proprietary sets
-* Designed by graphics artists, community reviewed and coloured by SLTs overseeing volunteers who had mental health issues
+* Features unusual symbols usually missing from proprietary sets
+* Designed by graphic artists, reviewed by community and coloured by SLTs overseeing volunteers who had mental health issues
 * Symbols and design process originated by Garry Paxton who then assigned copyright over to Steve Lee in 2018
 
 # Downloads
@@ -23,9 +23,9 @@ These symbols are published under the [Creative Commons BY-SA](https://github.co
 
 So, you are free to reproduce these symbols and distribute them or derivatives in printed or electronic form. For example, in a printed communication document or board, a website, app or marketing material. While you may charge for your product or added value, you must not charge for the symbols themselves. They are to remain free of cost and freely available to all.
 
-We do encourage you to share and modify the symbols so that more people can benefit from them and your enhancements.
+We do encourage you to modify and enhance the symbols so that they are even more useful. We'd love you to contribute your changes back to us on GitHub but you are not required to do so. The licence alows us to find and publish your changes anyway but we'd much prefer to work directly with you. 
 
-You can easily attribute us with a link to this website with a mention of Mulberry Symbols.
+You can easily attribute us with a link to this website plus a mention of Mulberry Symbols.
 
 # Developers
 
@@ -33,7 +33,7 @@ You can easily attribute us with a link to this website with a mention of Mulber
 
 # The Symbols in Use
 
-Here's a list of uses that we are aware of. Please let us know of others so we can add them.
+Here's a list of uses that we know about . Please let us know of others so we can add them.
 
 * [cboard](https://www.cboard.io/) is an open source communication web app using symbols and text to speech.
 * [Global Symbols](https://globalsymbols.com/en/home/) provides a dictionary of international communications symbols, including ARASAAC and Tawasol.
@@ -41,4 +41,4 @@ Here's a list of uses that we are aware of. Please let us know of others so we c
 
 # Contact
 
-If you have any questions or suggestions then do drop me a line at "steve@opendirective.com" or raise an issue over on GitHub..
+If you have any questions or suggestions then do drop me a line at "steve@opendirective.com" or raise an issue over on GitHub.
