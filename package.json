@@ -1,0 +1,26 @@
+{
+  "name": "mulberry-symbols",
+  "version": "1.0.0",
+  "description": "The Mulberry open symbol set is designed to be an alternative set for adult AAC users and is freely usable in on-line applications due to a permissive licence.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shayc/mulberry-symbols.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shayc/mulberry-symbols/issues"
+  },
+  "homepage": "https://github.com/shayc/mulberry-symbols#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-svgmin": "^1.2.4"
+  }
+}
