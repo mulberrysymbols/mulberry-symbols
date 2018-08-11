@@ -1,3 +1,5 @@
+// from ShayC - simple Gulp script to optimised the SVGs
+//
 var gulp = require('gulp');
 var svgmin = require('gulp-svgmin');
 
