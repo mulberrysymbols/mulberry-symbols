@@ -1,0 +1,26 @@
+{
+  "name": "straight-street",
+  "version": "1.0.0",
+  "description": "The Mulberry open symbol set is designed to be an alternative set for adult AAC users and is freely usable in on-line applications due to a permissive licence.",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "node scripts/reconcile.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/straight-street/mulberry-symbols.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/straight-street/mulberry-symbols/issues"
+  },
+  "homepage": "https://github.com/straight-street/mulberry-symbols#readme",
+  "devDependencies": {
+    "csv-parse": "^2.5.0"
+  }
+}
