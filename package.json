@@ -7,7 +7,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "node scripts/reconcile.js"
+    "test": "node scripts/reconcile.js",
+    "build": "node scripts/mkzip.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,7 @@
   },
   "homepage": "https://github.com/straight-street/mulberry-symbols#readme",
   "devDependencies": {
+    "archiver": "^2.1.1",
     "csv-parse": "^2.5.0"
   }
 }
