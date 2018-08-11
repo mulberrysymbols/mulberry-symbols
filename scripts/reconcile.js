@@ -1,0 +1,32 @@
+const fs = require("fs");
+const parse = require("csv-parse");
+const path = require("path");
+const util = require('util')
+
+const parser = parse({ from: 2, cast: true }, function(err, data) {
+  if (err) {
+    console.log(err);
+    return;
+  }
+  console.log(data[0])
+  const symbols = data.map(([symbol]) => symbol);
+
+  fs.readdir("EN", (err, files) => {
+    if (err) {
+      console.log(err);
+      return;
+    }
+    const filenames = files.map(filename => path.parse(filename).name);
+    const missingFiles = symbols.filter(
+      symbol => symbol !== '' && !filenames.includes(symbol)
+    );
+    const missingSymbols = filenames.filter(
+      filename => !symbols.includes(filename)
+    );
+
+    console.log("Missing Files", util.inspect(missingFiles, { maxArrayLength: null }));
+    console.log("Missing Symbols", util.inspect(missingSymbols, { maxArrayLength: null }));
+  });
+});
+
+fs.createReadStream("symbol-info.csv").pipe(parser);
