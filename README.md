@@ -1,7 +1,7 @@
 # mulberry-symbols
 The Mulberry open symbol set is designed to be an alternative set for adult AAC users and is freely usable in on-line applications due to a permissive licence.
 
-The SVG format are here with other formats for some symbols available in the supplementary [mulberry-symbols-extra](https://github.com/straight-street/mulberry-symbols-extra) repo.
+The SVG format are here with other formats for some symbols available in the supplementary [mulberry-symbols-extra](https://github.com/mulberrysymbols/mulberry-symbols-extra) repo.
 
 * categories.pdf - a printable copy of the symbols, sorted by category
 * symbol-info.csv - symbols with category, tags and rating
