@@ -13,13 +13,13 @@ These symbols are provided as a "free at the point of use" resource for speech a
 
 # Downloads
 
-* A [zip of all the symbols](https://rawgit.com/straight-street/mulberry-symbols/master/mulberry-symbols.zip?raw=true) in SVG format (large file)
-* A [PDF of the symbols](https://cdn.rawgit.com/straight-street/mulberry-symbols/master/categories.pdf?raw=true) sorted by category
-* A [csv spreadsheet](https://cdn.rawgit.com/straight-street/mulberry-symbols/master/symbol-info.csv?raw=true) with categories, tags and ratings
+* A [zip of all the symbols](https://rawgit.com/mulberrysymbols/mulberry-symbols/master/mulberry-symbols.zip?raw=true) in SVG format (large file)
+* A [PDF of the symbols](https://cdn.rawgit.com/mulberrysymbols/mulberry-symbols/master/categories.pdf?raw=true) sorted by category
+* A [csv spreadsheet](https://cdn.rawgit.com/mulberrysymbols/mulberry-symbols/master/symbol-info.csv?raw=true) with categories, tags and ratings
 
 # Licence
 
-These symbols are published under the [Creative Commons BY-SA](https://github.com/straight-street/mulberry-symbols/blob/master/LICENSE.txt) license. You can use the symbols in any project or product, commercial or otherwise as long as any distribution gives us clear attribution and the symbols are shared under the same licence.
+These symbols are published under the [Creative Commons BY-SA](https://github.com/mulberrysymbols/mulberry-symbols/blob/master/LICENSE.txt) license. You can use the symbols in any project or product, commercial or otherwise as long as any distribution gives us clear attribution and the symbols are shared under the same licence.
 
 So, you are free to reproduce these symbols and distribute them or derivatives in printed or electronic form. For example, in a printed communication document or board, a website, app or marketing material. While you may charge for your product or added value, you must not charge for the symbols themselves. They are to remain free of cost and freely available to all.
 
@@ -29,7 +29,7 @@ You can easily attribute us with a link to this website plus a mention of Mulber
 
 # Developers
 
-* [Open in GitHub](https://github.com/straight-street/mulberry-symbols)
+* [Open in GitHub](https://github.com/mulberrysymbols/mulberry-symbols)
 
 # The Symbols in Use
 
