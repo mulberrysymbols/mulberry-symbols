@@ -2,7 +2,7 @@
 var fs = require('fs');
 var archiver = require('archiver');
  
-VERSION = '3.1'
+VERSION = '3.2'
 
 // create a file to stream archive data to.
 var output = fs.createWriteStream(`mulberry-symbols.zip`);
