@@ -45,8 +45,9 @@ archive.pipe(output);
 // append a file from string
 archive.append(`Mulberry Symbols version: ${VERSION}`, { name: 'VERSION.txt' })
 
-// append a file
+// append a files
 archive.file('LICENSE.txt', { name: 'LICENSE.txt' });
+archive.file('symbol-info.csv', { name: 'symbol-info.csv' });
  
 // append files from a sub-directory and naming it `new-subdir` within the archive
 archive.directory('EN/', 'EN-symbols');
