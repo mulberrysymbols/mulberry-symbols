@@ -1,28 +1,26 @@
 # mulberry-symbols
-The Mulberry open symbol set is designed to be an alternative set for adult AAC users and is freely usable in on-line applications due to a permissive licence.
+The Mulberry Symbols are collection of pictograms / symbols / icons designed for AAC users who rely on graphics symbols for communication with others. They include more unusual symbols, including many suitable for adult AAC users. Thesymbols are freely usable, sharable and modifiable having a liberal Creative Commons licence. Thus they are perfect for using in on-line applications as there are no licence fees to concider.
 
-The SVG format are here with other formats for some symbols available in the supplementary [mulberry-symbols-extra](https://github.com/mulberrysymbols/mulberry-symbols-extra) repo.
+The symbols are provided in Scalable Vector Format (SVG) so they look good at any size. We've always preferred this format and it is now readily usable on the web and other platforms. If you want a fixed size raster image there are various SVG tools that alow you to convert to the ressolution that you require. 
 
-* categories.pdf - a printable copy of the symbols, sorted by category
-* symbol-info.csv - symbols with category, tags and rating
+See https://mulberrysymbols.org for more details
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/uk/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/uk/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/uk/">Creative Commons Attribution-ShareAlike 2.0 UK: England &amp; Wales License</a>.
+## Developing
 
-## Background and vision
+This is a typical npm/node managed package.
 
-Garry Paxton originally conceived of and created the symbols and made them available via his Straight Street website and funded as a charity. In 2018 Garry passed copyright over to Steve Lee.
+Two npm scripts are provided in `package.json`
 
-* Designed to overcome high costs experienced by symbols users - free at point of use
-* Foster innovation by allowing reuse and derivations, including internationalisation
-* Adult oriented symbols - most proprietary sets are designed for children
-* Unusual symbols usually missing from proprietary sets
-* Designed by graphics artists, reviewed by SLTs and coloured by people with mental health issues
+1. test - checks the symbols names against the `symbol-info.csv'
+1. build - generates the .zip for distibution 
 
-# Using the symbols
+## Releases
 
-You can use the symbols in any project or product, commercial or otherwise as long as any
- distribution gives us clear attribution and is shared under the same licence terms. See the README.md file for details
+Currently this is a manual process.
 
-We encourage you to share and modify the symbols so that more people can benefit from them and your enhancements.
-
-Thank you.
+1. Update the RELEASE number in `scripts/mkzip.js`
+1. Commit and push everything so merged to master on GitHub
+1. `npm build` to build the zip
+1. Make a GitHub Release with Tag of `v<Release NUMER>`, adding release notes
+1. Add the zip to the release
+1. Announce the release
