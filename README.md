@@ -24,3 +24,4 @@ Currently this is a manual process.
 1. Make a GitHub Release with Tag of `v<RELEASE NUMBER>`, adding release notes
 1. Add the zip to the release
 1. Announce the release
+1. Perform `git pull` to get the release tag locally
