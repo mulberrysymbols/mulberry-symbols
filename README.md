@@ -11,7 +11,7 @@ This is a typical npm/node managed package.
 
 Two npm scripts are provided in `package.json`
 
-1. test - checks the symbols names against the `symbol-info.csv'
+1. test - checks the symbols names against the `symbol-info.csv`
 1. build - generates the .zip for distibution 
 
 ## Releases
@@ -20,7 +20,7 @@ Currently this is a manual process.
 
 1. Update the RELEASE number in `scripts/mkzip.js`
 1. Commit and push everything so merged to master on GitHub
-1. `npm build` to build the zip
-1. Make a GitHub Release with Tag of `v<Release NUMER>`, adding release notes
+1. Execute `npm run build` to build the zip
+1. Make a GitHub Release with Tag of `v<RELEASE NUMBER>`, adding release notes
 1. Add the zip to the release
 1. Announce the release
