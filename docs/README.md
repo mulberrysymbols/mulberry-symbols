@@ -13,7 +13,7 @@ These symbols are provided as a "free at the point of use" resource for speech a
 
 # Downloads
 
-* A [zip of all the symbols](https://rawgit.com/mulberrysymbols/mulberry-symbols/master/mulberry-symbols.zip?raw=true) in SVG format (large file)
+* A [zip of all the symbols](https://github.com/mulberrysymbols/mulberry-symbols/releases/download/v3.2/mulberry-symbols.zip) in SVG format (large file)
 * A [PDF of the symbols](https://cdn.rawgit.com/mulberrysymbols/mulberry-symbols/master/categories.pdf?raw=true) sorted by category (out of date)
 * A [csv spreadsheet](https://cdn.rawgit.com/mulberrysymbols/mulberry-symbols/master/symbol-info.csv?raw=true) with categories, tags and ratings (also in zip)
 
