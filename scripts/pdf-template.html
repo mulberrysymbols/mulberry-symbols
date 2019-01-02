@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Mulberry Symbol Set - Categories</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      html {
+        padding: 0;
+        margin: 0;
+        font-family: sans-serif;
+      }
+
+      .container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+      }
+
+      .icon {
+        width: 60px;
+        margin: 8px;
+        text-align: center;
+      }
+
+      .icon__svg svg {
+        width: 60px !important;
+        height: 60px !important;
+      }
+
+      .icon__title {
+        font-size: 12px;
+      }
+    </style>
+  </head>
+  <body>
+    {{#each categories}}
+    <h2>{{ @key }}</h2>
+    <div class="container">
+      {{#each this}}
+      <div class="icon">
+        <div class="icon__svg">{{{ this.content }}}</div>
+        <div class="icon__title">{{ this.name }}</div>
+      </div>
+      {{/each}}
+    </div>
+    {{/each}}
+  </body>
+</html>
