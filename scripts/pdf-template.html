@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -24,7 +24,7 @@
         text-align: center;
       }
 
-      .icon__svg svg {
+      .icon__svg {
         width: 60px !important;
         height: 60px !important;
       }
@@ -40,7 +40,11 @@
     <div class="container">
       {{#each this}}
       <div class="icon">
-        <div class="icon__svg">{{{ this.content }}}</div>
+        <img
+          class="icon__svg"
+          src="data:image/svg+xml;utf8,{{{ this.content }}}"
+          alt="{{ this.name }} symbol"
+        />
         <div class="icon__title">{{ this.name }}</div>
       </div>
       {{/each}}
