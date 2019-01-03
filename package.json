@@ -3,14 +3,18 @@
   "version": "1.0.0",
   "description": "The Mulberry open symbol set is designed to be an alternative set for adult AAC users and is freely usable in on-line applications due to a permissive licence.",
   "main": "gulpfile.js",
+  "engines": {
+    "node": ">=8.0"
+  },
+  "engineStrict": true,
   "directories": {
     "doc": "docs"
   },
   "scripts": {
     "test": "node scripts/reconcile.js",
-    "build": "npm run build:zip && npm run build:pdf",
-    "build:zip": "node scripts/mkzip.js",
-    "build:pdf": "node scripts/mkpdf.js"
+    "build": "npm run build:pdf && npm run build:zip",
+    "build:pdf": "node scripts/mkpdf.js",
+    "build:zip": "node scripts/mkzip.js"
   },
   "repository": {
     "type": "git",
@@ -24,8 +28,8 @@
   },
   "homepage": "https://github.com/straight-street/mulberry-symbols#readme",
   "devDependencies": {
-    "archiver": "^2.1.1",
-    "csv-parse": "^2.5.0",
+    "archiver": "^3.0.0",
+    "csv-parse": "^4.3.0",
     "handlebars": "^4.0.12",
     "puppeteer": "^1.11.0"
   },
