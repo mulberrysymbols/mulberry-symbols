@@ -45,7 +45,7 @@ async function asyncGenerateHtmlContent(data) {
 
     const categoryTemplate = {
       name: convertToDisplayString(name),
-      content: iconContent
+      content: encodeURIComponent(iconContent)
     };
 
     if (categories[category] === undefined) {
