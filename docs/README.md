@@ -11,10 +11,73 @@ These symbols are provided as a "free at the point of use" resource for speech a
 - Designed by graphic artists, reviewed by community and coloured by SLTs overseeing volunteers who had mental health issues
 - Symbols and design process originated by Garry Paxton who then assigned copyright over to Steve Lee in 2018
 
+# The Symbols
+
+Below is an example of some of the symbols you will in this collection of symbols. Go to the downloads section to get the full list.
+
+<div class="container">
+  
+  <div class="icon">
+    <img
+      class="icon__svg"
+      src="/assets/examples/dog.svg"
+      alt="dog symbol"
+    />
+    <div class="icon__title">dog</div>
+  </div>
+
+  <div class="icon">
+    <img
+      class="icon__svg"
+      src="/assets/examples/art.svg"
+      alt="art symbol"
+    />
+    <div class="icon__title">art</div>
+  </div>
+
+  <div class="icon">
+    <img
+      class="icon__svg"
+      src="/assets/examples/dress.svg"
+      alt="dress symbol"
+    />
+    <div class="icon__title">dress</div>
+  </div>
+
+  <div class="icon">
+    <img
+      class="icon__svg"
+      src="/assets/examples/bicycle.svg"
+      alt="bicycle symbol"
+    />
+    <div class="icon__title">bicycle</div>
+  </div>
+
+  <div class="icon">
+    <img
+      class="icon__svg"
+      src="/assets/examples/shirt.svg"
+      alt="shirt symbol"
+    />
+    <div class="icon__title">dress</div>
+  </div>
+
+  <div class="icon">
+    <img
+      class="icon__svg"
+      src="/assets/examples/shower.svg"
+      alt="shower symbol"
+    />
+    <div class="icon__title">shower</div>
+  </div>
+
+</div>
+
 # Downloads
 
 - A [zip of all the symbols](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest) in SVG format, including a spreadsheet with categories, tags and rating (large file)
-- A [PDF of the symbols](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest) sorted by category (out of date)
+- A [PDF of the symbols](/assets/categories/categories.pdf) (20.5MB) sorted by category (out of date)
+- A [HTML file of the symbols](/assets/categories/categories.html) (49.6MB) sorted by category
 
 # Licence
 
