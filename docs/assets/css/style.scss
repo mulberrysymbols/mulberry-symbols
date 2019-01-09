@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-body, 
+body,
 .page-header {
   background-color: rgb(234, 232, 255);
   color: rgb(112, 48, 160);
@@ -18,4 +18,25 @@ body,
 
 section#links {
   text-align: center;
+}
+
+.icon {
+  width: 60px;
+  margin: 8px !important;
+  text-align: center;
+}
+
+.icon__svg {
+  width: 60px !important;
+  height: 60px !important;
+}
+
+.icon__title {
+  font-size: 12px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
