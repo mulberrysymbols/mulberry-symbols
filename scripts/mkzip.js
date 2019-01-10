@@ -51,7 +51,6 @@ archive.file("symbol-info.csv", { name: "symbol-info.csv" });
 archive.file("categories/categories.pdf", {
   name: "categories.pdf",
 });
-archive.file("categories/categories.html", { name: "categories.html" });
 
 // append files from a sub-directory and naming it `new-subdir` within the archive
 archive.directory("EN/", "EN-symbols");
