@@ -13,7 +13,7 @@ These symbols are provided as a "free at the point of use" resource for speech a
 
 # The Symbols
 
-Below is an example of some of the symbols you will in this collection of symbols. Go to the downloads section to get the full list.
+Below is a sample of the Mulberry Symbols. You can view the entire collection of symbols](/assets/categories/categories.html) (very large file) or download a pdf as described below.
 
 <div class="container">
   
@@ -77,7 +77,6 @@ Below is an example of some of the symbols you will in this collection of symbol
 
 - A [zip of all the symbols](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest) in SVG format, including a spreadsheet with categories, tags and rating (large file)
 - A [PDF of the symbols](/assets/categories/categories.pdf) (20.5MB) sorted by category (out of date)
-- A [HTML file of the symbols](/assets/categories/categories.html) (49.6MB) sorted by category
 
 # Licence
 
