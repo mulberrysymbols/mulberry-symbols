@@ -13,7 +13,7 @@ These symbols are provided as a "free at the point of use" resource for speech a
 
 # The Symbols
 
-Below is a sample of the Mulberry Symbols. You can view the entire collection of symbols](/assets/categories/categories.html) (very large file) or download a pdf as described below.
+Below is a sample of the Mulberry Symbols. You can view the entire [collection of symbols](/assets/categories/categories.html) (very large file) or download a pdf as described below.
 
 <div class="container">
   
