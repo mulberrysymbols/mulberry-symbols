@@ -2,7 +2,7 @@
 var fs = require("fs");
 var archiver = require("archiver");
 
-VERSION = "3.3";
+VERSION = "3.4";
 
 // create a file to stream archive data to.
 var output = fs.createWriteStream(`mulberry-symbols.zip`);
@@ -48,7 +48,9 @@ archive.append(`Mulberry Symbols version: ${VERSION}`, { name: "VERSION.txt" });
 // append a files
 archive.file("LICENSE.txt", { name: "LICENSE.txt" });
 archive.file("symbol-info.csv", { name: "symbol-info.csv" });
-archive.file("categories.pdf", { name: "categories.pdf" });
+archive.file("categories/categories.pdf", {
+  name: "categories.pdf"
+});
 
 // append files from a sub-directory and naming it `new-subdir` within the archive
 archive.directory("EN/", "EN-symbols");
