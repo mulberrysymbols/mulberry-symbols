@@ -13,7 +13,9 @@ This is a typical npm/node managed package.
 Two npm scripts are provided in `package.json`
 
 1. test - checks the symbols names against the `symbol-info.csv`
-1. build - generates the .zip for distribution
+1. build - build everyhting
+1. build:zip - generates the .zip for distribution
+1. build:categories - generate categories.pdf and catagories.html
 
 ## Releases
 
@@ -27,3 +29,11 @@ Currently this is a manual process.
 1. Add the Categories PDF to the release
 1. Announce the release
 1. Perform `git pull` to get the release tag locally
+
+# Contributors
+
+Thanks to the following people for helping to improve the Mulberry Symbols
+
+* @austin94
+* @gavinhenderson
+* @shayc
