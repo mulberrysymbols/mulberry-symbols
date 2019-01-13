@@ -20,6 +20,15 @@ Below is a sample of the Mulberry Symbols. You can view the entire [collection o
   <div class="icon">
     <img
       class="icon__svg"
+      src="/assets/examples/hello.svg"
+      alt="person waiving hello"
+    />
+    <div class="icon__title">hello</div>
+  </div>
+
+  <div class="icon">
+    <img
+      class="icon__svg"
       src="/assets/examples/dog.svg"
       alt="dog symbol"
     />
