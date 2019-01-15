@@ -3,8 +3,8 @@ The Mulberry Symbol set
 =======================
 
 Copyright 2008-2017 Garry Paxton
-Copyright 2018 Steve Lee
+Copyright 2018-2019 Steve Lee
 
 This work is licensed under the Creative Commons Attribution-Share Alike License. 
 
-To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/2.0/uk/
+To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
