@@ -1,6 +1,6 @@
 # The Symbols
 
-The Mulberry Symbols, or Pictograms, are a set of scalable SVG graphic images designed for communications use. They are ideal for adults using AAC software or devices or any online use where their liberal licence ensures unrestricted use, copying or distribution.
+The Mulberry Symbols, or Pictograms, are a set of scalable SVG graphic images designed for communications use. They are ideal for adults using AAC software or devices or any online accessibility use where their liberal licence ensures unrestricted use, copying and distribution.
 
 Below is a sample of the Mulberry Symbols. You can view the entire [collection of symbols](/assets/categories/categories.html) (very large file) or download a pdf as described below.
 
