@@ -17,6 +17,8 @@ Two npm scripts are provided in `package.json`
 1. build:zip - generates the .zip for distribution
 1. build:categories - generate categories.pdf and catagories.html
 
+If you want to develop the website locally follow the instructions on [Githubs docs](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+
 ## Releases
 
 Currently this is a manual process.
@@ -34,6 +36,6 @@ Currently this is a manual process.
 
 Thanks to the following people for helping to improve the Mulberry Symbols
 
-* @austin94
-* @gavinhenderson
-* @shayc
+- @austin94
+- @gavinhenderson
+- @shayc
