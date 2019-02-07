@@ -1,0 +1,45 @@
+<style>
+  html {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .icon {
+    width: 60px;
+    margin: 8px;
+    text-align: center;
+  }
+
+  .icon__svg {
+    width: 60px !important;
+    height: 60px !important;
+  }
+
+  .icon__title {
+    font-size: 12px;
+  }
+</style>
+<div>
+  {{#each categories}}
+  <h2>{{ @key }}</h2>
+  <div class="container">
+    {{#each this}}
+    <div class="icon">
+      <img
+        class="icon__svg"
+        src="data:image/svg+xml;utf8,{{{ this.content }}}"
+        alt="{{ this.name }} symbol"
+      />
+      <div class="icon__title">{{ this.name }}</div>
+    </div>
+    {{/each}}
+  </div>
+  {{/each}}
+</div>
