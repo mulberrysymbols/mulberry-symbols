@@ -23,6 +23,8 @@ const asyncWriteFile = util.promisify(fs.writeFile);
 const asyncMkDir = util.promisify(fs.mkdir);
 const CATEGORIES_HTML_FILE_NAME = 'categories/categories.html';
 
+const slugify = (unslugged) => unslugged.toLowerCase().replace(/\s/g, '-');
+
 /**
  * Convert an icon name to a human-readable string
  *
@@ -78,6 +80,14 @@ async function asyncGenerateHtmlContent(data) {
   const contentTemplate = handlebars.compile(contentFile);
   const pdfTemplate = handlebars.compile(pdfFile);
   const htmlTemplate = handlebars.compile(htmlFile);
+
+  Object.keys(sortedCategories).forEach((currentKey) => {
+    const symbolsArr = sortedCategories[currentKey];
+    sortedCategories[currentKey] = {
+      anchor: slugify(currentKey),
+      symbols: symbolsArr,
+    };
+  });
 
   const content = contentTemplate({
     categories: sortedCategories,
