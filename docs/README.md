@@ -2,7 +2,7 @@
 
 The Mulberry Symbols, or Pictograms, are a set of scalable SVG graphic images designed for communications use. They are ideal for adults using AAC software or devices or any online accessibility use where their liberal licence ensures unrestricted use, copying and distribution.
 
-Below is a sample of the Mulberry Symbols. You can view the entire [collection of symbols](/assets/categories/categories.html) (very large file) or download a pdf as described below.
+Below is a sample of the Mulberry Symbols. You can view the entire [collection of symbols](/assets/categories/categories.html) (very large web page) or download a pdf as described below.
 
 <div class="container">
   
@@ -87,7 +87,7 @@ These symbols are provided as a "free at the point of use" resource for speech a
 # Downloads
 
 - A [zip of all the symbols](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest) in SVG format, including a spreadsheet with categories, tags and rating (large file)
-- A [PDF of the symbols](/assets/categories/categories.pdf) (20.5MB) sorted by category (out of date)
+- A [PDF of the symbols](/assets/categories/categories.pdf) (20.5MB) sorted by category (large file)
 
 # Licence
 
