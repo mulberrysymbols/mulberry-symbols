@@ -28,9 +28,9 @@
 </style>
 <div>
   {{#each categories}}
-  <h2>{{ @key }}</h2>
+  <h2 id="{{ this.anchor }}">{{ @key }}</h2>
   <div class="container">
-    {{#each this}}
+    {{#each this.symbols}}
     <div class="icon">
       <img
         class="icon__svg"
