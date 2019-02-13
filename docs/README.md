@@ -88,6 +88,7 @@ These symbols are provided as a "free at the point of use" resource for speech a
 
 - A [zip of all the symbols](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest) in SVG format, including a spreadsheet with categories, tags and rating (large file)
 - A [PDF of the symbols](/assets/categories/categories.pdf) (20.5MB) sorted by category (large file)
+- A partial [Finnish translation](https://github.com/mulberrysymbols/mulberry-symbols/blob/master/FinnishSymbolNames.csv) of symbol names
 
 # Licence
 
@@ -99,7 +100,10 @@ We do encourage you to modify and enhance the symbols so that they are even more
 
 You can easily use the text "Copyright 2018/19 Steve Lee - This work is licensed under the Creative Commons Attribution-ShareAlike 2.0 UK: England & Wales License." and also attribute us with a link to this website plus a mention of Mulberry Symbols.
 
-# Developers
+# Contributions
+
+We'd love to work with you to help improve the symbols or this website. For example, new symbols and translations are currently needed. 
+We use the GitHub collaboration platform to discuss and track work - see you there.
 
 - [Open in GitHub](https://github.com/mulberrysymbols/mulberry-symbols)
 
@@ -113,4 +117,4 @@ Here's a list of uses that we know about. Please let us know of others so we can
 
 # Contact
 
-If you have any questions or suggestions then do drop me a line at "steve@opendirective.com" or raise an issue over on GitHub.
+If you have any questions or suggestions then do drop me a line at "steve@opendirective.com" or raise an issue over on [GitHub](https://github.com/mulberrysymbols/mulberry-symbols).
