@@ -25,12 +25,29 @@
   .icon__title {
     font-size: 12px;
   }
+
+  .permalink {
+    font-size: 10pt;
+    margin-left: 4px;
+    color: #666;
+    font-weight: bold;
+    vertical-align: middle;
+  }
 </style>
 <div>
   {{#each categories}}
-  <h2>{{ @key }}</h2>
+  <h2 id="{{ this.anchor }}">
+    {{ @key }}
+    <a
+      href="#{{ this.anchor }}"
+      aria-label="Permalink for {{ @key }} category of mulberry symbols"
+      title="Permalink for {{ @key }} category of mulberry symbols"
+    >
+      <span class="permalink">§</span>
+    </a>
+  </h2>
   <div class="container">
-    {{#each this}}
+    {{#each this.symbols}}
     <div class="icon">
       <img
         class="icon__svg"
