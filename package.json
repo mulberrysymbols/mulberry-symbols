@@ -1,6 +1,6 @@
 {
   "name": "straight-street",
-  "version": "1.0.0",
+  "version": "3.4.0",
   "description": "The Mulberry open symbol set is designed to be an alternative set for adult AAC users and is freely usable in on-line applications due to a permissive licence.",
   "main": "gulpfile.js",
   "engines": {
