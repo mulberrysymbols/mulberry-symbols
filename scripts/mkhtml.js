@@ -81,16 +81,18 @@ async function asyncGenerateHtmlContent(data) {
   const pdfTemplate = handlebars.compile(pdfFile);
   const htmlTemplate = handlebars.compile(htmlFile);
 
-  Object.keys(sortedCategories).forEach((currentKey) => {
-    const symbolsArr = sortedCategories[currentKey];
-    sortedCategories[currentKey] = {
-      anchor: slugify(currentKey),
-      symbols: symbolsArr,
-    };
-  });
+  const anchoredCategories = {};
+  Object.keys(sortedCategories)
+    .sort()
+    .forEach((currentKey) => {
+      anchoredCategories[currentKey] = {
+        anchor: slugify(currentKey),
+        symbols: sortedCategories[currentKey],
+      };
+    });
 
   const content = contentTemplate({
-    categories: sortedCategories,
+    categories: anchoredCategories,
   });
 
   const html = htmlTemplate({ content });
