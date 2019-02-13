@@ -28,7 +28,16 @@
 </style>
 <div>
   {{#each categories}}
-  <h2 id="{{ this.anchor }}">{{ @key }}</h2>
+  <h2 id="{{ this.anchor }}">
+    {{ @key }}
+    <a
+      href="#{{ this.anchor }}"
+      aria-label="Permalink for {{ @key }} category of mulberry symbols"
+      title="Permalink for {{ @key }} category of mulberry symbols"
+    >
+      <span>§</span>
+    </a>
+  </h2>
   <div class="container">
     {{#each this.symbols}}
     <div class="icon">
