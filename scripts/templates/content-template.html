@@ -25,6 +25,13 @@
   .icon__title {
     font-size: 12px;
   }
+
+  .permalink {
+    font-size: 10pt;
+    margin-left: 4px;
+    color: black;
+    font-weight: bold;
+  }
 </style>
 <div>
   {{#each categories}}
@@ -35,7 +42,7 @@
       aria-label="Permalink for {{ @key }} category of mulberry symbols"
       title="Permalink for {{ @key }} category of mulberry symbols"
     >
-      <span>§</span>
+      <span class="permalink">§</span>
     </a>
   </h2>
   <div class="container">
