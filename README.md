@@ -8,7 +8,7 @@ See https://mulberrysymbols.org for more details
 
 ## Developing
 
-This is a typical npm/node managed package.
+This is a typical npm/node managed package. A source of complexity, especially in releases, is due to the symbols and the website being in the same repo.
 
 Two npm scripts are provided in `package.json`
 
