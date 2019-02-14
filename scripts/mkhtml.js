@@ -96,7 +96,10 @@ async function asyncGenerateHtmlContent(data) {
   });
 
   const html = htmlTemplate({ content });
-  const pdf = pdfTemplate({ content });
+  const pdf = pdfTemplate({
+    content,
+    version: require('../package.json').version,
+  });
 
   await asyncWriteFile(CATEGORIES_HTML_FILE_NAME, html);
 

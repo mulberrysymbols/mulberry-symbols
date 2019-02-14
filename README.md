@@ -21,9 +21,9 @@ If you want to develop the website locally follow the instructions on [Githubs d
 
 ## Releases
 
-Currently this is a manual process. The following updates the zip and category files ready for the release 
+Currently this is a manual process. The following updates the zip and category files ready for the release
 
-1. Update the RELEASE number in `scripts/mkzip.js`
+1. Update the version number in `package.json`
 1. Commit and push everything so merged to master on GitHub
 1. Execute `npm run build` to build the zip and categories files
 1. Make a GitHub Release with Tag of `v<RELEASE NUMBER>`, adding release notes
