@@ -13,7 +13,9 @@
   "scripts": {
     "test": "node scripts/reconcile.js",
     "build": "npm run build:categories && npm run build:zip",
-    "build:categories": "node scripts/mkcategories.js",
+    "build:html": "node scripts/mkhtml.js",
+    "build:pdf": "node scripts/mkpdf.js",
+    "build:categories": "npm run build:html && npm run build:pdf",
     "build:zip": "node scripts/mkzip.js"
   },
   "repository": {
