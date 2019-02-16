@@ -3,19 +3,12 @@ const handlebars = require('handlebars');
 const util = require('util');
 const fs = require('fs');
 
-const PDF_TEMPLATE_PATH = path.resolve(
-  __dirname,
-  'templates/pdf-template.html',
-);
 const CONTENT_TEMPLATE_PATH = path.resolve(
   __dirname,
   'templates/content-partial.html',
 );
-const DIRECTORY_NAME = 'categories';
 
 const asyncReadFile = util.promisify(fs.readFile);
-const asyncWriteFile = util.promisify(fs.writeFile);
-const CATEGORIES_HTML_FILE_NAME = 'categories/categories.html';
 
 /**
  * Generate HTML content of the PDF report

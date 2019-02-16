@@ -9,6 +9,7 @@ const CATEGORY_INDEX = 3;
 const SVG_BASE_PATH = path.resolve(__dirname, '..', 'EN');
 
 const slugify = (unslugged) => unslugged.toLowerCase().replace(/\s/g, '-');
+const convertToDisplayString = (original) => original.replace(/_/g, ' ');
 
 async function asyncParseCSV(pathToCSV) {
   const CSV_PATH = pathToCSV || path.resolve(__dirname, '../symbol-info.csv');
@@ -19,19 +20,9 @@ async function asyncParseCSV(pathToCSV) {
       if (err) {
         reject(err);
       }
-
       resolve(data);
     });
   });
-}
-
-/**
- * Convert an icon name to a human-readable string
- *
- * @param {string} originalString
- */
-function convertToDisplayString(originalString) {
-  return originalString.replace(/_/g, ' ');
 }
 
 module.exports = async function() {
@@ -66,18 +57,11 @@ module.exports = async function() {
   const sortedCategories = {};
 
   for (const category of Object.keys(categories).sort()) {
-    sortedCategories[category] = categories[category];
+    sortedCategories[category] = {
+      symbols: categories[category],
+      anchor: slugify(category),
+    };
   }
 
-  const anchoredCategories = {};
-  Object.keys(sortedCategories)
-    .sort()
-    .forEach((currentKey) => {
-      anchoredCategories[currentKey] = {
-        anchor: slugify(currentKey),
-        symbols: sortedCategories[currentKey],
-      };
-    });
-
-  return anchoredCategories;
+  return sortedCategories;
 };
