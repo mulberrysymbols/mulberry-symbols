@@ -3,6 +3,7 @@
   const fs = require('fs');
   const path = require('path');
   const getContent = require('./mk-template');
+  const fs = require('fs');
 
   const CATEGORIES_PDF_FILE_NAME = path.resolve(
     __dirname,
