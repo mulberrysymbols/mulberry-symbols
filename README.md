@@ -4,7 +4,7 @@ The Mulberry Symbols are collection of pictograms / symbols / icons designed for
 
 The symbols are provided in Scalable Vector Format (SVG) so they look good at any size. We've always preferred this format and it is now readily usable on the web and other platforms. If you want a fixed size raster image there are various SVG tools that allow you to convert to the resolution that you require.
 
-See https://mulberrysymbols.org for more details
+See [mulberrysymbols.org](https://mulberrysymbols.org) for more details
 
 ## Developing
 
@@ -38,7 +38,7 @@ The website files are found in the `docs` folder and the `README` becomes the ho
 The categories pdf and HTML file are found in `docs/assets/categories`. Execute `npm run build:categories` to regenerate them.
 Any changes pushed to `master` cause the website to be regenerated and published.
 
-# Contributors
+## Contributors
 
 Thanks to the following people for helping to improve the Mulberry Symbols
 
