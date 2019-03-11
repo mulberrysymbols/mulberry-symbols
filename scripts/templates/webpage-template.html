@@ -27,7 +27,9 @@
     <div class="sidebar">
       <ul>
         {{#each categories}}
-        <li>{{ @key }}</li>
+        <li>
+          <a href="#{{ this.anchor }}">{{ @key }}</a>
+        </li>
         {{/each}}
       </ul>
     </div>
