@@ -8,6 +8,29 @@
     <link rel="stylesheet" href="/assets/css/style.css" />
   </head>
   <body>
+    <style>
+      body {
+        display: flex;
+        flex-direction: row;
+      }
+
+      @media (max-width: 600px) {
+        .sidebar {
+          display: none;
+        }
+      }
+
+      .main-content {
+        flex-grow: 1;
+      }
+    </style>
+    <div class="sidebar">
+      <ul>
+        {{#each categories}}
+        <li>{{ @key }}</li>
+        {{/each}}
+      </ul>
+    </div>
     <section class="main-content">
       <a href="/">Back to Home</a>
       {{> symbols}}
