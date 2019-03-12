@@ -9,9 +9,22 @@
   </head>
   <body>
     <style>
-      body {
+      .flex-area {
+        position: fixed;
+        width: 100vw;
+        height: 100vh;
         display: flex;
         flex-direction: row;
+      }
+
+      .sidebar {
+        overflow: auto;
+      }
+
+      .main-content {
+        overflow: auto;
+        width: 80%;
+        padding-left: 8px;
       }
 
       @media (max-width: 600px) {
@@ -19,23 +32,21 @@
           display: none;
         }
       }
-
-      .main-content {
-        flex-grow: 1;
-      }
     </style>
-    <div class="sidebar">
-      <ul>
-        {{#each categories}}
-        <li>
-          <a href="#{{ this.anchor }}">{{ @key }}</a>
-        </li>
-        {{/each}}
-      </ul>
+    <div class="flex-area">
+      <div class="sidebar">
+        <ul>
+          {{#each categories}}
+          <li>
+            <a href="#{{ this.anchor }}">{{ @key }}</a>
+          </li>
+          {{/each}}
+        </ul>
+      </div>
+      <div class="main-content">
+        <a href="/">Back to Home</a>
+        {{> symbols}}
+      </div>
     </div>
-    <section class="main-content">
-      <a href="/">Back to Home</a>
-      {{> symbols}}
-    </section>
   </body>
 </html>
