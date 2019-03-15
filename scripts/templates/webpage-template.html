@@ -1,16 +1,70 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Mulberry Symbol Set - Categories</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="/assets/css/style.css" />
-  </head>
-  <body>
-    <section class="main-content">
-      <a href="/">Back to Home</a>
-      {{> symbols}}
-    </section>
-  </body>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Mulberry Symbol Set - Categories</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="/assets/css/style.css" />
+</head>
+
+<body>
+  <section class="main-content">
+    <a href="/">Back to Home</a>
+    {{> symbols}}
+  </section>
+
+  <div class="menu">
+    <ul class="menu-options">
+      <li class="menu-option">Load</li>
+    </ul>
+  </div>
+
+  <script>
+    // FIXME warning ES6 requires newer browser
+    const menu = document.querySelector(".menu");
+    let menuVisible = false;
+
+    const toggleMenu = command => {
+      menu.style.display = command === "show" ? "block" : "none";
+      menuVisible = !menuVisible;
+    };
+
+    const setContextMenu = ({ top, left }, name) => {
+      menu.style.left = `${left}px`;
+      menu.style.top = `${top}px`;
+      menu.childNodes[0].innerText = name
+      console.info(name)
+      toggleMenu("show");
+    };
+
+    window.addEventListener("click", e => {
+      if (menuVisible) toggleMenu("hide");
+    });
+
+    function getIconName(node) {
+      const className = node.className
+      const nodeName = (className == 'icon__svg') ?  node.nextElementSibling : (className == 'icon') ? node.children[1] : node
+      const name = nodeName.innerText
+      return name
+    }
+
+    window.addEventListener("contextmenu", e => {
+      e.preventDefault();
+      console.info(e)
+      if (['icon','icon__svg','icon__title'].includes( e.target.className )) {
+        const origin = {
+          left: e.pageX,
+          top: e.pageY
+        };
+        const name = getIconName(e.target) 
+        setContextMenu(origin, name);
+      }
+      return false;
+    });
+
+  </script>
+</body>
+
 </html>
