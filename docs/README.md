@@ -87,8 +87,20 @@ These symbols are provided as a "free at the point of use" resource for speech a
 # Downloads
 
 - A [zip of all the symbols](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest) in SVG format, including a spreadsheet with categories, tags and rating (large file)
-- A [PDF of the symbols](/assets/categories/categories.pdf) (20.5MB) sorted by category (large file)
+- A [PDF of the symbols](/assets/categories/categories.pdf) sorted by category (large file)
+  - this is also available as a [web page](/assets/categories/categories.html) sorted by category (large file)
 - A partial [Finnish translation](https://github.com/mulberrysymbols/mulberry-symbols/blob/master/FinnishSymbolNames.csv) of symbol names
+
+## Downloading individual symbols
+
+We plan to add an interactive facility to [select and download symbols](https://github.com/mulberrysymbols/mulberry-symbols/issues/31) but until then it is possible, though you need to specify the symbol name yourself.
+
+
+- Open https://mulberrysymbols.org/assets/categories/categories.html - it's big so a slow download
+- Right click on a symbol and select "Save Image" or equivalent depending on your web browser
+- Change the filename from index.svg to whatever you want and save
+
+We'd love to know [how you plan to use the symbols](https://github.com/mulberrysymbols/mulberry-symbols/issues/36) so we can provide the best possible access.
 
 # Licence
 
