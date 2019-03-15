@@ -40,32 +40,3 @@ section#links {
   flex-direction: row;
   flex-wrap: wrap;
 }
-
-/* context menu */
-.menu {
-  width: 120px;
-  z-index: 1;
-  box-shadow: 0 4px 5px 3px rgba(0, 0, 0, 0.2);
-  position: fixed;
-  display: none;
-  transition: 0.2s display ease-in;
-
-  .menu-options {
-    list-style: none;
-    padding: 10px 0;
-    z-index: 1;
-    
-    .menu-option {
-      font-weight: 500;
-      z-index: 1;
-      font-size: 14px;
-      padding: 10px 40px 10px 20px;
-      // border-bottom: 1.5px solid rgba(0, 0, 0, 0.2);
-      cursor: pointer;
-
-      &:hover {
-        background: rgba(0, 0, 0, 0.2);
-      }
-    }
-  }
-}
