@@ -1,4 +1,4 @@
-# The Symbols
+# Mulberry Symbols
 
 The Mulberry Symbols, or Pictograms, are a set of scalable SVG graphic images designed for communications use. They are ideal for adults using AAC software or devices or any online accessibility use where their liberal licence ensures unrestricted use, copying and distribution.
 
@@ -71,7 +71,7 @@ Below is a sample of the Mulberry Symbols. You can view the entire [collection o
 
 </div>
 
-# Our Vision
+## Our Vision
 
 We believe that communication is a fundamental human right. Many people with impaired speech and other language difficulties require symbols to support their communication needs, to enable their desires, wishes and opinions to be expressed.
 
@@ -84,13 +84,24 @@ These symbols are provided as a "free at the point of use" resource for speech a
 - Designed by graphic artists, reviewed by community and coloured by SLTs overseeing volunteers who had mental health issues
 - Symbols and design process originated by Garry Paxton who then assigned copyright over to Steve Lee in 2018
 
-# Downloads
+## Downloads
 
 - A [zip of all the symbols](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest) in SVG format, including a spreadsheet with categories, tags and rating (large file)
-- A [PDF of the symbols](/assets/categories/categories.pdf) (20.5MB) sorted by category (large file)
+- A [PDF of the symbols](/assets/categories/categories.pdf) sorted by category (large file)
+  - this is also available as a [web page](/assets/categories/categories.html) sorted by category (large file)
 - A partial [Finnish translation](https://github.com/mulberrysymbols/mulberry-symbols/blob/master/FinnishSymbolNames.csv) of symbol names
 
-# Licence
+### Downloading individual symbols
+
+We plan to add an interactive facility to [select and download symbols](https://github.com/mulberrysymbols/mulberry-symbols/issues/31) but until then it is possible, though you need to specify the symbol name yourself.
+
+- Open https://mulberrysymbols.org/assets/categories/categories.html - it's big so a slow download
+- Right click on a symbol and select "Save Image" or equivalent depending on your web browser
+- Change the filename from index.svg to whatever you want and save
+
+We'd love to know [how you plan to use the symbols](https://github.com/mulberrysymbols/mulberry-symbols/issues/36) so we can provide the best possible access.
+
+## Licence
 
 These symbols are published under the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) licence. You can use the symbols in any project or product, commercial or otherwise as long as any distribution gives us clear attribution and all symbols are shared under the same licence.
 
@@ -100,14 +111,14 @@ We do encourage you to modify and enhance the symbols so that they are even more
 
 You can easily use the text "Copyright 2018/19 Steve Lee - This work is licensed under the Creative Commons Attribution-ShareAlike 2.0 UK: England & Wales License." and also attribute us with a link to this website plus a mention of Mulberry Symbols.
 
-# Contributions
+## Contributions
 
 We'd love to work with you to help improve the symbols or this website. For example, new symbols and translations are currently needed. 
 We use the GitHub collaboration platform to discuss and track work - see you there.
 
 - [Open in GitHub](https://github.com/mulberrysymbols/mulberry-symbols)
 
-# The Symbols in Use
+## The Symbols in Use
 
 Here's a list of uses that we know about. Please let us know of others so we can add them.
 
@@ -115,6 +126,6 @@ Here's a list of uses that we know about. Please let us know of others so we can
 - [Global Symbols](https://globalsymbols.com) provides a dictionary of international communications symbols, including ARASAAC and Tawasol.
 - [AlwaysInMind](https://alwaysinmind.info) is a web app for simplified and managed access to media and communications.
 
-# Contact
+## Contact
 
 If you have any questions or suggestions then do drop me a line at "steve@opendirective.com" or raise an issue over on [GitHub](https://github.com/mulberrysymbols/mulberry-symbols).
