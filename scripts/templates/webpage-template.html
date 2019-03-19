@@ -8,9 +8,68 @@
     <link rel="stylesheet" href="/assets/css/style.css" />
   </head>
   <body>
-    <section class="main-content">
-      <a href="/">Back to Home</a>
-      {{> symbols}}
-    </section>
+    <style>
+      .contents-list {
+        padding-left: 48px;
+      }
+
+      .contents-link {
+        color: black;
+        text-decoration: none;
+      }
+
+      .contents-link:hover {
+        text-decoration: underline;
+        background: rgba(75%, 75%, 75%, 0.25);
+      }
+
+      .flex-area {
+        position: fixed;
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: row;
+      }
+
+      .sidebar {
+        width: 20%;
+        overflow: auto;
+      }
+
+      .symbols-content {
+        overflow: auto;
+        width: 80%;
+        padding-left: 8px;
+      }
+
+      .list-element {
+        margin: 8px 0;
+      }
+
+      @media (max-width: 600px) {
+        .symbols-content {
+          width: 100%;
+        }
+
+        .sidebar {
+          display: none;
+        }
+      }
+    </style>
+    <div class="flex-area">
+      <div class="sidebar">
+        <ol class="contents-list">
+          {{#each categories}}
+          <li class="list-element">
+            <a class="contents-link" href="#{{ this.anchor }}">{{ @key }}</a>
+          </li>
+          {{/each}}
+        </ol>
+      </div>
+      <div class="symbols-content">
+        <a href="/">Back to Home</a>
+        {{> symbols}}
+      </div>
+    </div>
   </body>
 </html>
