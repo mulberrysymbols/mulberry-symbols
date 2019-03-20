@@ -2,7 +2,7 @@
 var fs = require('fs');
 var archiver = require('archiver');
 
-VERSION = require('../package.json').version;
+const VERSION = require('../package.json').version;
 
 // create a file to stream archive data to.
 var output = fs.createWriteStream(`mulberry-symbols.zip`);

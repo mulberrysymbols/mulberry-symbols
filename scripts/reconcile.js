@@ -5,7 +5,7 @@ const util = require("util");
 
 const parser = parse({ from: 2, cast: true }, function(err, data) {
   if (err) {
-    `console`.log(err);
+    console.log(err);
     return;
   }
   const symbols = data.map(([id, symbol]) => symbol);

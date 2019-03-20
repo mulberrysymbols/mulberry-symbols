@@ -13,7 +13,7 @@ const asyncReadFile = util.promisify(fs.readFile);
 /**
  * Generate HTML content of the PDF report
  *
- * @param {*} data
+ * @param {*} templatePath
  */
 module.exports = async function(templatePath) {
   const contentFile = await asyncReadFile(CONTENT_TEMPLATE_PATH, 'utf8');
