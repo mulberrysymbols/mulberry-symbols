@@ -4,6 +4,7 @@ The Mulberry Symbols, or Pictograms, are a set of scalable SVG graphic images de
 
 Below is a sample of the Mulberry Symbols. You can view the entire [collection of symbols](/assets/categories/categories.html) (very large web page) or download a pdf as described below.
 
+<!-- markdownlint-disable MD033 -->
 <div class="container">
   
   <div class="icon">
@@ -70,6 +71,7 @@ Below is a sample of the Mulberry Symbols. You can view the entire [collection o
   </div>
 
 </div>
+<!-- markdownlint-enable MD033 -->
 
 ## Our Vision
 
@@ -95,7 +97,7 @@ These symbols are provided as a "free at the point of use" resource for speech a
 
 We plan to add an interactive facility to [select and download symbols](https://github.com/mulberrysymbols/mulberry-symbols/issues/31) but until then it is possible, though you need to specify the symbol name yourself.
 
-- Open https://mulberrysymbols.org/assets/categories/categories.html - it's big so a slow download
+- Open [categories.html](https://mulberrysymbols.org/assets/categories/categories.html) - it's big so a slow download
 - Right click on a symbol and select "Save Image" or equivalent depending on your web browser
 - Change the filename from index.svg to whatever you want and save
 
