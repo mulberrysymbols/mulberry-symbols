@@ -138,4 +138,4 @@ Here's a list of places we know about that use Mulberry Symbols. Please let us k
 
 ## Contact
 
-If you have any questions or suggestions then do drop me a line at "steve@opendirective.com" or raise an issue over on [GitHub](https://github.com/mulberrysymbols/mulberry-symbols).
+If you have any questions or suggestions then do raise an issue over on [GitHub](https://github.com/mulberrysymbols/mulberry-symbols) or drop me a line at "steve @ opendirective . com".
