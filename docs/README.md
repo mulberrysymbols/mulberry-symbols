@@ -122,11 +122,19 @@ We use the GitHub collaboration platform to discuss and track work - see you the
 
 ## The Symbols in Use
 
-Here's a list of uses that we know about. Please let us know of others so we can add them.
+Here's a list of places we know about that use Mulberry Symbols. Please let us know of others so we can add them.
 
 - [cboard](https://www.cboard.io/) is an open source communication web app using symbols and text to speech.
 - [Global Symbols](https://globalsymbols.com) provides a dictionary of international communications symbols, including ARASAAC and Tawasol.
 - [AlwaysInMind](https://alwaysinmind.info) is a web app for simplified and managed access to media and communications.
+
+## Thanks and Acknowledgements
+
+- Garry Paxton, Project manager - for the vision of free, web-friendly, disruptive, community reviewed symbols
+- Claire Barge, Graphics Designer - for the symbols with their adult-friendly, clear, inclusive style
+- Sarah and Others - for their work in symbol colouring
+- EA Drafan and other therapists for suggesting and reviewing symbols
+- Our techie [GitHub contributors](https://github.com/gavinhenderson/mulberry-symbols/graphs/contributors)
 
 ## Contact
 
