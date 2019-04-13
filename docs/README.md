@@ -132,7 +132,7 @@ Here's a list of places we know about that use Mulberry Symbols. Please let us k
 
 - Garry Paxton, Project manager - for the vision of free, web-friendly, disruptive, community reviewed symbols
 - Claire Barge, Graphics Designer - for the symbols with their adult-friendly, clear, inclusive style
-- Sarah and Others - for their work in symbol colouring
+- Sandra and others - for their work in symbol colouring
 - EA Drafan and other therapists for suggesting and reviewing symbols
 - Our techie [GitHub contributors](https://github.com/gavinhenderson/mulberry-symbols/graphs/contributors)
 
