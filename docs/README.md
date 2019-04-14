@@ -20,7 +20,7 @@ Below is a sample of the Mulberry Symbols. You can view the entire [collection o
     <img
       class="icon__svg"
       src="/assets/examples/dog.svg"
-      alt="dog symbol"
+      alt="a brown dog"
     />
     <div class="icon__title">dog</div>
   </div>
@@ -29,7 +29,7 @@ Below is a sample of the Mulberry Symbols. You can view the entire [collection o
     <img
       class="icon__svg"
       src="/assets/examples/art.svg"
-      alt="art symbol"
+      alt="art paints and brush"
     />
     <div class="icon__title">art</div>
   </div>
@@ -37,19 +37,28 @@ Below is a sample of the Mulberry Symbols. You can view the entire [collection o
   <div class="icon">
     <img
       class="icon__svg"
-      src="/assets/examples/dress.svg"
-      alt="dress symbol"
+      src="/assets/examples/coffee.svg"
+      alt="cup of coffee"
     />
-    <div class="icon__title">dress</div>
+    <div class="icon__title">coffee</div>
   </div>
 
   <div class="icon">
     <img
       class="icon__svg"
       src="/assets/examples/bicycle.svg"
-      alt="bicycle symbol"
+      alt="bicycle"
     />
     <div class="icon__title">bicycle</div>
+  </div>
+
+  <div class="icon">
+    <img
+      class="icon__svg"
+      src="/assets/examples/iPhone.svg"
+      alt="smartphone"
+    />
+    <div class="icon__title">smartphone</div>
   </div>
 
   <div class="icon">
@@ -58,7 +67,7 @@ Below is a sample of the Mulberry Symbols. You can view the entire [collection o
       src="/assets/examples/shirt.svg"
       alt="shirt symbol"
     />
-    <div class="icon__title">dress</div>
+    <div class="icon__title">shirt</div>
   </div>
 
   <div class="icon">
