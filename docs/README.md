@@ -58,7 +58,7 @@ Below is a sample of the Mulberry Symbols. You can view the entire [collection o
       src="/assets/examples/iPhone.svg"
       alt="smartphone"
     />
-    <div class="icon__title">smartphone</div>
+    <div class="icon__title">mobile</div>
   </div>
 
   <div class="icon">
