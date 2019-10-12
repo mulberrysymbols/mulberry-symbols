@@ -32,7 +32,7 @@
   "devDependencies": {
     "archiver": "^3.0.0",
     "csv-parse": "^4.3.4",
-    "handlebars": "^4.1.0",
+    "handlebars": "^4.1.2",
     "puppeteer": "^1.13.0"
   },
   "dependencies": {}
