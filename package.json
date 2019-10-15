@@ -31,7 +31,7 @@
   "homepage": "https://github.com/straight-street/mulberry-symbols#readme",
   "devDependencies": {
     "archiver": "^3.0.0",
-    "csv-parse": "^4.3.4",
+    "csv-parse": "^4.4.6",
     "handlebars": "^4.1.2",
     "puppeteer": "^1.13.0"
   },
