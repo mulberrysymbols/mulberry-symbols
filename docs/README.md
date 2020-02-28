@@ -134,7 +134,7 @@ We use the GitHub collaboration platform to discuss and track work - see you the
 Here's a list of places we know about that use Mulberry Symbols. Please let us know of others so we can add them.
 
 - [AlwaysInMind](https://alwaysinmind.info) is a web app for simplified and managed access to media and communications.
-- [babnoor](https://babnoor.com) is an Arabic language AAC iOS app.
+- [BabNoor](https://babnoor.com) is an Arabic language AAC iOS app.
 - [cboard](https://www.cboard.io/) is an open source communication web app using symbols and text to speech.
 - [Commtap Symboliser for PowerPoint](https://symboliser.commtap.org/) is a commercial tool making it easy to add symbols to text.
 - [Global Symbols](https://globalsymbols.com) provides a dictionary of international communications symbols, including ARASAAC and Tawasol.
