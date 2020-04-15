@@ -322,7 +322,7 @@ pilot 2b,lent�j�
 polar bear,j��karhu
 police 1a,poliisi
 police 1b,poliisi
-police helmet,poliisin kyp�r�,,,irrelevant
+police helmet,poliisin kyp�r�
 police radio,poliisiradio
 pool snooker,biljardi
 porcupine,piikkisika
@@ -450,13 +450,13 @@ blood pressure,verenpaine
 both,molemmat
 bottom 2,alla
 bottom 2,pohja
-"break , to",rikkoa,,,w
+"break , to",rikkoa
 bright room,valoisa huone
 broken,rikki
 bumpy,t�yssyj�
 bumpy,pomppuinen
-clean dishes,tiskata,,,w
-clean room,puhdas huone,,,w
+clean dishes,tiskata
+clean room,puhdas huone
 close to,vieress�
 close to,l�hell�
 coated spoon,lusikka
@@ -473,7 +473,7 @@ curly,kiharainen
 cut,leikata
 deep,syv�
 dish partitioned,osioitu lautanen
-dish partitioned,lautanen,,,w
+dish partitioned,lautanen
 doidy cup,muki
 donkey,aasi
 drink consistency firm spoon,juoma lusikka
@@ -648,7 +648,7 @@ flag Venezuela,Venezuelan lippu
 flag Viet Nam,Vietnamin lippu
 flag Western Sahara,L�nsi-Saharan lippu
 flag Yemen, Jemenin lippu
-flat,tasainen,,,a
+flat,tasainen
 fuzzy,p�rr�inen
 half,puolikas
 hard,vaikea
