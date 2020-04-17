@@ -139,7 +139,7 @@ Here's a list of places we know about that use Mulberry Symbols. Please let us k
 - [cboard](https://www.cboard.io/) is an open source communication web app using symbols and text to speech.
 - [Commtap Symboliser for PowerPoint](https://symboliser.commtap.org/) is a commercial tool making it easy to add symbols to text.
 - [CommuniKate](http://communikate.equalitytime.co.uk/) is an AAC and set of Powerpoint/Impress board templates.
-- [Global Symbols](https://globalsymbols.com) provides a dictionary of international communications symbols, including ARASAAC and Tawasol.
+- [Global Symbols](https://globalsymbols.com) provides a dictionary of international communications symbols, apps and training.
 - [Open AAC](https://www.openaac.org/) is an initiative to create and encourage open-licensed resources and tools to support AAC users.
 - [Symbol-It](https://symbolspeak.co/) is a mobile app that allows you to easily immerse a symbol speaker in their symbol system by facilitating real-time speech to AAC symbol conversion.
 
