@@ -133,7 +133,7 @@ We use the GitHub collaboration platform to discuss and track work - see you the
 
 Here's a list uses of the Mulberry Symbols that we know about. Please let us know of others so we can add them.
 
-- Resource for COVID19 patients by Eliada Pampoulou &amp; Maria Constanta of Cyprus University of Technology in [English](/assets/COVID19/Covid-19_AAC-EN.pdf) and [Greek](/assets/COVID19/Covid-19_AAC-EN.pdf) (pdf).
+- Resource for COVID19 patients by Eliada Pampoulou &amp; Maria Constanta of Cyprus University of Technology in [English](/assets/COVID19/Covid-19_AAC-EN.pdf) and [Greek](/assets/COVID19/Covid-19_AAC-EL.pdf) (pdf).
 - [AlwaysInMind](https://alwaysinmind.info) is a web app for simplified and managed access to media and communications.
 - [BabNoor](https://babnoor.com) is an Arabic language AAC iOS app.
 - [BoardBuilder](https://globalsymbols.com/boardbuilde) is a web app for designing communication boards which can be exported as PDF or to AACs.
