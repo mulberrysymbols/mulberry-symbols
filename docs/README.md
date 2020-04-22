@@ -95,6 +95,10 @@ These symbols are provided as a "free at the point of use" resource for speech a
 - Designed by graphic artists, reviewed by community and coloured by SLTs overseeing volunteers who had mental health issues
 - Symbols and design process originated by Garry Paxton who then assigned copyright over to Steve Lee in 2018
 
+## The Open AAC ecosystem
+
+Mulberry is proud to be part of the growing number of tools and services providing fee open access to symbols and AAC. Steve Lee wrote a [blog post summarising](https://opendirective.net/2020/04/17/the-open-communication-symbols-ecosystem/) the state of play in April 2020.
+
 ## Downloads
 
 - A [zip of all the symbols](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest) in SVG format, including a spreadsheet with categories, tags and rating (large file)
