@@ -140,7 +140,7 @@ Here's a list of uses of the Mulberry Symbols that we know about. Please let us 
 - Printable Resource for COVID19 patients by Eliada Pampoulou &amp; Maria Constanta of Cyprus University of Technology in [English](/assets/COVID19/Covid-19_AAC-EN.pdf) and [Greek](/assets/COVID19/Covid-19_AAC-EL.pdf) (pdf).
 - [AlwaysInMind](https://alwaysinmind.info) is a web app for simplified and managed access to media and communications.
 - [BabNoor](https://babnoor.com) is an Arabic language AAC iOS app.
-- [BoardBuilder](https://globalsymbols.com/boardbuilde) is a web app for designing communication boards which can be exported as PDF or to AACs.
+- [BoardBuilder](https://globalsymbols.com/boardbuilder) is a web app for designing communication boards which can be exported as PDF or to AACs.
 - [cboard](https://www.cboard.io/) is an open source communication web app using symbols and text to speech.
 - [Commtap Symboliser for PowerPoint](https://symboliser.commtap.org/) is a commercial tool making it easy to add symbols to text.
 - [CommuniKate](http://communikate.equalitytime.co.uk/) is an AAC and set of Powerpoint/Impress board templates.
