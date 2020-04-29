@@ -2,7 +2,7 @@
 
 The Mulberry Symbols, or Pictograms, are a set of scalable SVG graphic images designed for communications use. They are ideal for adults using AAC software or devices or any online accessibility use where their liberal licence ensures unrestricted use, copying and distribution.
 
-Below is a sample of the Mulberry Symbols. You can view the entire [collection of symbols](/assets/categories/categories.html) (very large web page) or download a pdf as described below.
+Below is a sample of the Mulberry Symbols. You can view the entire [collection of symbols](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest/download/categories.html) (very large web page) or download a pdf as described below.
 
 <!-- markdownlint-disable MD033 -->
 <div class="container">
@@ -101,16 +101,22 @@ Mulberry is proud to be part of the growing number of tools and services providi
 
 ## Downloads
 
+The [Latest Release](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest) contains:
+
 - A [zip of all the symbols](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest) in SVG format, including a spreadsheet with categories, tags and rating (large file)
-- A [PDF of the symbols](/assets/categories/categories.pdf) sorted by category (large file)
-  - this is also available as a [web page](/assets/categories/categories.html) sorted by category (large file)
+- A [PDF of the symbols](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest/download/categories.pdf) sorted by category (large file)
+  - this is also available as a [web page](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest/download/categories.html) sorted by category (large file)
+- A [CSV of information](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest/download/symbol-info.csv) for all the symbols (e.g. name and category)
+
+We also have:
+
 - A partial [Finnish translation](https://github.com/mulberrysymbols/mulberry-symbols/blob/master/FinnishSymbolNames.csv) of symbol names
 
 ### Downloading individual symbols
 
 We plan to add an interactive facility to [select and download symbols](https://github.com/mulberrysymbols/mulberry-symbols/issues/31) but until then it is possible, though you need to specify the symbol name yourself.
 
-- Open [categories.html](https://mulberrysymbols.org/assets/categories/categories.html) - it's big so a slow download
+- Open [categories.html](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest/download/categories.html) - it's big so a slow download
 - Right click on a symbol and select "Save Image" or equivalent depending on your web browser
 - Change the filename from index.svg to whatever you want and save
 
