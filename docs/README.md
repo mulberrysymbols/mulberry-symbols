@@ -110,7 +110,7 @@ The [Latest Release](https://github.com/mulberrysymbols/mulberry-symbols/release
 
 We also have:
 
-- A partial <a href="https://raw.githubusercontent.com/mulberrysymbols/mulberry-symbols/master/FinnishSymbolNames.csv" download>Finnish translation</a> of symbol names
+- A partial [Finnish translation](https://github.com/mulberrysymbols/mulberry-symbols/blob/master/FinnishSymbolNames.csv) of symbol names (select "raw" to download)
 
 ### Downloading individual symbols
 
