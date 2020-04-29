@@ -28,14 +28,16 @@ Currently this is a manual process. The following updates the zip and category f
 1. Execute `npm run build` to build the zip and categories files
 1. Make a GitHub Release with Tag of `v<RELEASE NUMBER>`, adding release notes
 1. Add the zip to the release
-1. Add the Categories PDF to the release
+1. Add `categories.pdf` to the release
+1. Add `categories.html` to the release
+1. Add `symbol-info.csv` to the release
 1. Announce the release
 1. Perform `git pull` to get the release tag locally
 
 ### Updating the website assets
 
+The website references files in the latest release so this may need to be built first.
 The website files are found in the `docs` folder and the `README` becomes the home page.
-The categories pdf and HTML file are found in `docs/assets/categories`. Execute `npm run build:categories` to regenerate them.
 Any changes pushed to `master` cause the website to be regenerated and published.
 
 ## Contributors
