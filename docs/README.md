@@ -103,14 +103,14 @@ Mulberry is proud to be part of the growing number of tools and services providi
 
 The [Latest Release](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest) contains:
 
-- A [zip of all the symbols](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest) in SVG format, including a spreadsheet with categories, tags and rating (large file)
+- A [zip of all the symbols](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest/mulberry-symbols.zip) in SVG format, including a spreadsheet with categories, tags and rating (large file)
 - A [PDF of the symbols](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest/download/categories.pdf) sorted by category (large file)
   - this is also available as a [web page](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest/download/categories.html) sorted by category (large file)
 - A [CSV of information](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest/download/symbol-info.csv) for all the symbols (e.g. name and category)
 
 We also have:
 
-- A partial [Finnish translation](https://github.com/mulberrysymbols/mulberry-symbols/blob/master/FinnishSymbolNames.csv) of symbol names
+- A partial <a href="https://github.com/mulberrysymbols/mulberry-symbols/blob/master/FinnishSymbolNames.csv" download>Finnish translation</a> of symbol names
 
 ### Downloading individual symbols
 
