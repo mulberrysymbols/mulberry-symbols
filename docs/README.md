@@ -148,7 +148,7 @@ Here's a list of uses of the Mulberry Symbols that we know about. Please let us 
 - [BabNoor](https://babnoor.com) is an Arabic language AAC iOS app.
 - [BoardBuilder](https://globalsymbols.com/boardbuilder) is a web app for designing communication boards which can be exported as PDF or to AACs.
 - [cboard](https://www.cboard.io/) is an open source communication web app using symbols and text to speech.
-- [Commtap Symboliser for PowerPoint](https://symboliser.commtap.org/) is a commercial tool making it easy to add symbols to text in Presentations. Also [Eye Gaze Communication Book Maker](https://symboliser.commtap.org/eye-gaze-communication-book-maker-powerpoint/) and open source [symbol server](https://symboliser.commtap.org/commtap-symbols-server-api/). 
+- Commtap use the symbols in their [Symboliser](https://symboliser.commtap.org/) product for adding symbols to text and [Eye Gaze Communication Book Maker](https://symboliser.commtap.org/eye-gaze-communication-book-maker-powerpoint/) which use the open source [symbol server](https://symboliser.commtap.org/commtap-symbols-server-api/). 
 - [CommuniKate](http://communikate.equalitytime.co.uk/) is an AAC and set of Powerpoint/Impress board templates.
 - [Global Symbols](https://globalsymbols.com) provides a dictionary of international communications symbols, apps and training.
 - [Open AAC](https://www.openaac.org/) is an initiative to create and encourage open-licensed resources and tools to support AAC users.
