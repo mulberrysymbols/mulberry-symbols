@@ -20,7 +20,7 @@ jobs:
         uses: svenstaro/upload-release-action@1.1.0
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
-          file: "*build/*"
+          file: "*(symbol-info.csv|mulberry-symbols.zip)"
           file_glob: true
           asset_name: files
           tag: ${{ github.ref }}
