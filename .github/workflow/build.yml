@@ -1,0 +1,28 @@
+name: Build Project
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.1.1
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v1.4.2
+      - name: Install packages
+        run: npm i
+      - name: Run build
+        run: npm run build
+      - name: Upload zip
+        uses: svenstaro/upload-release-action@1.1.0
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          file: "*build/*"
+          file_glob: true
+          asset_name: files
+          tag: ${{ github.ref }}
+        
+        
