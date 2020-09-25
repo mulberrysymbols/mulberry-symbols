@@ -3,7 +3,7 @@ The Mulberry Symbol set
 =======================
 
 Copyright 2008-2017 Garry Paxton
-Copyright 2018-2019 Steve Lee
+Copyright 2018-2020 Steve Lee
 
 This work is licensed under the Creative Commons Attribution-Share Alike License. 
 
