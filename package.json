@@ -30,10 +30,10 @@
   },
   "homepage": "https://github.com/straight-street/mulberry-symbols#readme",
   "devDependencies": {
-    "archiver": "^4.0.1",
-    "csv-parse": "^4.8.8",
-    "handlebars": "^4.7.6",
-    "puppeteer": "^2.1.1"
+    "archiver": "4.0.2",
+    "csv-parse": "4.12.0",
+    "handlebars": "4.7.6",
+    "puppeteer": "5.3.1"
   },
   "dependencies": {}
 }
