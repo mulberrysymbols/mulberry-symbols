@@ -22,9 +22,12 @@
   const page = await browser.newPage();
 
   await page.setContent(htmlContent);
+  //page.emulateMediaType('screen') // use default CSS rather than print media CSS
   await page.pdf({
     path: CATEGORIES_PDF_FILE_NAME,
     margin: { top: 24, right: 24, bottom: 24, left: 24 },
+    format: 'A4',
+    scale: 1.36
   });
   await browser.close();
 })();

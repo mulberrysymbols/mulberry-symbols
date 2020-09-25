@@ -11,19 +11,30 @@
     flex-wrap: wrap;
   }
 
+  .category {
+    page-break-before: always;
+    break-before: always;
+  }
+
   .icon {
     width: 60px;
-    margin: 8px;
+    margin: 9px;
     text-align: center;
+    page-break-inside: avoid;
+    break-inside: avoid;
   }
 
   .icon__svg {
-    width: 60px !important;
-    height: 60px !important;
+    width: 60px ;
+    height: 60px;
+    page-break-inside: inherit;
+    break-inside: inherit;
   }
 
   .icon__title {
-    font-size: 12px;
+    font-size: 15px;
+    page-break-inside: inherit;
+    break-inside: inherit;
   }
 
   .permalink {
@@ -36,7 +47,7 @@
 </style>
 <div>
   {{#each categories}}
-  <h2 id="{{ this.anchor }}">
+  <h2 id="{{ this.anchor }}" class="category">
     {{ @key }}
     <a
       href="#{{ this.anchor }}"
