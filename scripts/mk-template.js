@@ -15,7 +15,7 @@ const asyncReadFile = util.promisify(fs.readFile);
  *
  * @param {*} templatePath
  */
-module.exports = async function(templatePath) {
+module.exports = async function(templatePath, lang='en') {
   const contentFile = await asyncReadFile(CONTENT_TEMPLATE_PATH, 'utf8');
   const htmlFile = await asyncReadFile(templatePath, 'utf8');
 
@@ -23,9 +23,10 @@ module.exports = async function(templatePath) {
   handlebars.registerPartial('symbols', contentTemplate);
   const htmlTemplate = handlebars.compile(htmlFile);
 
-  const categories = await require('./parse-symbols')();
+  const categories = await require('./parse-symbols')(lang);
 
   const html = await htmlTemplate({
+    language: lang,
     categories,
     version: require('../package.json').version,
   });
