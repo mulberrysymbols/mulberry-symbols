@@ -7,7 +7,7 @@
   const CATEGORIES_HTML_FILE_NAME = path.resolve(
     __dirname,
     '..',
-    'categories/categories.html',
+    'categories/categories-en.html',
   );
   const DIRECTORY_NAME = path.resolve(__dirname, '..', 'categories');
   const WEBPAGE_TEMPLATE_PATH = path.resolve(
@@ -16,7 +16,7 @@
   );
 
   const asyncWriteFile = util.promisify(fs.writeFile);
-  const htmlContent = await getContent(WEBPAGE_TEMPLATE_PATH);
+  const htmlContent = await getContent(WEBPAGE_TEMPLATE_PATH, 'en');
 
   if (!fs.existsSync(DIRECTORY_NAME)) {
     fs.mkdirSync(DIRECTORY_NAME);

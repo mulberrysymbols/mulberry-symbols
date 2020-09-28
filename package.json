@@ -14,8 +14,8 @@
     "test": "node scripts/reconcile.js",
     "build": "npm run build:categories && npm run build:zip",
     "build:html": "node scripts/mkhtml.js",
-    "build:pdf": "node scripts/mkpdf.js",
-    "build:categories": "npm run build:html && npm run build:pdf",
+    "build:pdfs": "node scripts/mkpdfs.js",
+    "build:categories": "npm run build:html && npm run build:pdfs",
     "build:zip": "node scripts/mkzip.js"
   },
   "repository": {
@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/straight-street/mulberry-symbols#readme",
   "devDependencies": {
-    "archiver": "4.0.2",
+    "archiver": "5.0.2",
     "csv-parse": "4.12.0",
     "handlebars": "4.7.6",
     "puppeteer": "5.3.1"

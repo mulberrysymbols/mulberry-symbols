@@ -4,15 +4,14 @@ const util = require('util');
 const parse = require('csv-parse');
 const asyncReadFile = util.promisify(fs.readFile);
 
-const NAME_INDEX = 1;
-const CATEGORY_INDEX = 3;
+
 const SVG_BASE_PATH = path.resolve(__dirname, '..', 'EN');
 
 const slugify = (unslugged) => unslugged.toLowerCase().replace(/\s/g, '-');
 const convertToDisplayString = (original) => original.replace(/_/g, ' ');
 
 async function asyncParseCSV(pathToCSV) {
-  const CSV_PATH = pathToCSV || path.resolve(__dirname, '../symbol-info.csv');
+  const CSV_PATH = pathToCSV;
   const csvContents = await asyncReadFile(CSV_PATH, 'utf8');
 
   return new Promise((resolve, reject) => {
@@ -25,29 +24,28 @@ async function asyncParseCSV(pathToCSV) {
   });
 }
 
-module.exports = async function() {
+module.exports = async function(lang) {
+  const NAME_INDEX = (lang) => ({'en':5, 'fr':7})[lang];
+  const CATEGORY_INDEX = (lang) => NAME_INDEX(lang) + 1;
   const categories = {};
-  const data = await asyncParseCSV();
 
+  const csv = path.resolve(__dirname, `./data/symbol-info.csv`)
+  const data = await asyncParseCSV(csv);
   for (const row of data) {
-    let category = row[CATEGORY_INDEX];
-
-    if (category === '') {
-      category = 'Uncatagorized';
-    }
-
-    const name = row[NAME_INDEX];
+    const filename = row[NAME_INDEX('en')];
     const iconContent = await asyncReadFile(
-      path.resolve(SVG_BASE_PATH, `${name}.svg`),
+      path.resolve(SVG_BASE_PATH, `${filename}.svg`),
       'utf8',
     );
 
+    const name = row[NAME_INDEX(lang)];
     const categoryTemplate = {
       name: convertToDisplayString(name),
       content: encodeURIComponent(iconContent),
     };
 
-    if (categories[category] === undefined) {
+    const category = row[CATEGORY_INDEX(lang)];
+    if (categories[category] === undefined) { // TODO should be an error now
       categories[category] = [categoryTemplate];
     } else {
       categories[category].push(categoryTemplate);
