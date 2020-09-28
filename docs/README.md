@@ -124,7 +124,7 @@ We'd love to know [how you plan to use the symbols](https://github.com/mulberrys
 
 ## Licence
 
-These symbols are published under the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) licence. You can use the symbols in any project or product, commercial or otherwise as long as any distribution gives us clear attribution and all symbols are shared under the same licence.
+These symbols are published under the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) licence. You can use the symbols in any project or product, commercial or otherwise as long as any distribution gives us clear attribution and any new or derived symbols are shared under the same licence.
 
 So, you are free to reproduce these symbols and distribute them or derivatives in printed or electronic form. For example, in a printed communication document or board, a website, app or marketing material. While you may charge for your product or added value, you must not charge for the symbols themselves. They are to remain free of cost and freely available to all.
 
@@ -161,7 +161,7 @@ Here's a list of uses of the Mulberry Symbols that we know about. Please let us 
 - Claire Barge, Graphics Designer - for the symbols with their adult-friendly, clear, inclusive style
 - Sandra and others - for their work in symbol colouring
 - E.A. Draffan and several Speech and Language Therapists for suggesting and reviewing symbols
-- Our techie [GitHub contributors](https://github.com/gavinhenderson/mulberry-symbols/graphs/contributors)
+- Our techie [GitHub contributors](https://github.com/mulberrysymbols/mulberry-symbols/graphs/contributors)
 
 ## Contact
 
