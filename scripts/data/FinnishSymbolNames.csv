@@ -1,21 +1,21 @@
-English name,Finnish name
+﻿English name,Finnish name
 activity centre,toimintakeskus
 aerobics dance,aerobic
-air person 1a,lent�j� 1a
-air person 1b,lent�j� 1b
-air person 2a,Lent�j� 2a
-air person 2b,lent�j� 2b
-air steward 1a,lentoem�nt� 1a
-air steward 1b,lentoem�nt� 1b
-air steward 2a,lentoem�nt� 2a
-air steward 2b,lentoem�nt� 2b
+air person 1a,lentäjä 1a
+air person 1b,lentäjä 1b
+air person 2a,Lentäjä 2a
+air person 2b,lentäjä 2b
+air steward 1a,lentoemäntä 1a
+air steward 1b,lentoemäntä 1b
+air steward 2a,lentoemäntä 2a
+air steward 2b,lentoemäntä 2b
 ant,muurahainen
 ant eater,muurahaiskarhu
 antelope,antilooppi
 archery,jousiammunta
 archery target,Jousiammunta maali
-badger,m�yr�
-badger 2,M�yr� 2
+badger,mäyrä
+badger 2,Mäyrä 2
 badminton,sulkapallo
 badminton racket,tennismaila
 baker 1a,leipuri 1a
@@ -33,12 +33,12 @@ bear,karhu
 bee bumble,kimalainen
 bee honey,ampiainen
 beetle,koppa kuoriainen
-big wheel,maailmanpy�r�
-blinds,s�lekaihtimet
+big wheel,maailmanpyörä
+blinds,sälekaihtimet
 bow and arrow,jousi ja nuoli
 bowling,keilailu
-bread,leip�
-bunk beds,kerross�nky
+bread,leipä
+bunk beds,kerrossänky
 butterfly,perhonen
 camel,kameli
 car,auto
@@ -62,10 +62,10 @@ caretaker 1a,ohjaaja
 caretaker 1b,ohjaaja
 caretaker 2a,ohjaaja
 caretaker 2b,ohjaaja
-carpenter 1a,puusepp�
-carpenter 1b,puusepp�
-carpenter 2a,puusepp�
-carpenter 2b,puusepp�
+carpenter 1a,puuseppä
+carpenter 1b,puuseppä
+carpenter 2a,puuseppä
+carpenter 2b,puuseppä
 cash point,Raha-automaatti
 caterpillar,toukka
 ceiling,katto
@@ -77,15 +77,15 @@ cheque book,sekkivihko
 chest of drawers,lipasto
 chewy tube,purulelu
 chimpanzee,simpanssi
-chip and pin device,maksup��te
+chip and pin device,maksupääte
 cleaner 1a,siivooja
 cleaner 1b,siivooja
 cleaner 2a,siivooja
 cleaner 2b,siivooja
-climbing rock,vuorikiipeilij�
+climbing rock,vuorikiipeilijä
 climbing rock,vuorikiipeily
-climbing wall,sein�kiipeilij�
-climbing wall,kiipeilysein�
+climbing wall,seinäkiipeilijä
+climbing wall,kiipeilyseinä
 cloudy,pilvinen
 communication aid,kommunikointilaite
 communication aid 2,kommunikointilaite
@@ -101,60 +101,60 @@ cook chef 2a,kokki
 cook chef 2b,kokki
 cook school 1a,koulun kokki
 cook school 1b,koulun kokki
-cot,pinnas�nky
+cot,pinnasänky
 crab,rapu
 crane fly,vaaksiainen
 crane fly,hyttynen
-cricket,hein�sirkka
+cricket,heinäsirkka
 crocodile,krokotiili
 crocodile 2,krokotiili
 cruiser,vene
 cup non spill,nokkamuki
 cupboard,kaappi
 curtains,verhot
-cycle helmet,py�r�ilykyp�r�
-"cycling cycle , to",py�r�ill�
+cycle helmet,pyöräilykypärä
+"cycling cycle , to",pyöräillä
 darts,tikat
 deer,peura
 delivery person 1a,postin jakaja
 delivery person 1b,varastomies
 delivery person 2a,varastomies
 delivery person 2b,varastomies
-delivery trolley,nokkak�rryt
-dentist 1a,hammasl��k�ri
-dentist 1b,hammasl��k�ri
-dentist 2a,hammasl��k�ri
-dentist 2b,hammasl��k�ri
-desk,p�yt�
-dinner lady 1a,keitt�j�
-dinner lady 1b,keitt�j�
+delivery trolley,nokkakärryt
+dentist 1a,hammaslääkäri
+dentist 1b,hammaslääkäri
+dentist 2a,hammaslääkäri
+dentist 2b,hammaslääkäri
+desk,pöytä
+dinner lady 1a,keittäjä
+dinner lady 1b,keittäjä
 disabled sign,Invalidi-merkki
 disabled toilet,Inva-vessa
 "diving 2 dive , to",sukeltaa
-doctor 1a,l��k�ri
-doctor 1b,l��k�ri
-doctor 2a,l��k�ri
-doctor 2b,l��k�ri
+doctor 1a,lääkäri
+doctor 1b,lääkäri
+doctor 2a,lääkäri
+doctor 2b,lääkäri
 dolphin,delfiini
 door,ovi
 dragonfly,sudenkorento
 drawer,lipasto
 dresser,lipasto
-dressing table,kampausp�yt�
+dressing table,kampauspöytä
 dysphagia cup,dysfagia-muki
 dysphagia cup 2,dysfagia-muki
 dysphagia cup 3,dysfagia-muki
 earthworm,kastemato
-earwig,pihtih�nt�inen
+earwig,pihtihäntäinen
 elephant,elefantti
 escalator,liukuportaat
-farmer 1a,viljelij�
-farmer 1b,viljelij�
-farmer 2a,viljelij�
-farmer 2b,viljelij�
+farmer 1a,viljelijä
+farmer 1b,viljelijä
+farmer 2a,viljelijä
+farmer 2b,viljelijä
 fat,lihava
 fibre optic lamp,valokuitulamppu
-fire helmet,palokyp�r�
+fire helmet,palokypärä
 fire hose,vesiletku
 fireplace,takka
 "fishing fish , to",kalastaa
@@ -164,7 +164,7 @@ florist 1a,floristi
 florist 1b,floristi
 florist 2a,floristi
 florist 2b,floristi
-fly,k�rp�nen
+fly,kärpänen
 football kit Arsenal,peliasu Arsenal
 football kit Aston Villa,peliasu Aston Villa
 football kit Barnsley,peliasu Barnsley
@@ -223,14 +223,14 @@ gardener 2a,puutarhuri
 gardener 2b,puutarhuri
 giraffe,kirahvi
 gnat,hyttynen
-gnat,s��ski
+gnat,sääski
 golf,golf
 gorilla,gorilla
 greengrocer 1a,vihanneskauppias
 greengrocer 1b,vihanneskauppias
 greengrocer 2a,vihanneskauppias
 greengrocer 2b,vihanneskauppias
-handcuffs,k�siraudat
+handcuffs,käsiraudat
 hangar,lentokonehalli
 hare,rusakko
 head teacher 1a,rehtori
@@ -239,23 +239,23 @@ head teacher 2a,rehtori
 head teacher 2b,rehtori
 hedgehog,siili
 hello,hei
-helmet,kyp�r�
-helmet pilot,lent�j�n kyp�r�
-high chair,sy�tt�tuoli
+helmet,kypärä
+helmet pilot,lentäjän kypärä
+high chair,syöttötuoli
 hippopotamus,virtahepo
 holdall,kassi laukku
 "horse riding ride , to",ratsastaa
-hungry,n�lk�inen
+hungry,nälkäinen
 intellikeys,ohjainlevy
-intellikeys,mukautettava n�pp�imist�
+intellikeys,mukautettava näppäimistö
 intellikeys,Intellikeys
-IT assistant 1a,mikrotukinekil�
-IT assistant 1b,mikrotukinekil�
-IT assistant 2a,mikrotukinekil�
-IT assistant 2b,mikrotukinekil�
+IT assistant 1a,mikrotukinekilö
+IT assistant 1b,mikrotukinekilö
+IT assistant 2a,mikrotukinekilö
+IT assistant 2b,mikrotukinekilö
 jigsaw puzzle,palapeli
 judo,judo
-judo belt,judovy�
+judo belt,judovyö
 key 1,avain
 key 2,avain
 "kick ball 1 , to",potkaista palloa
@@ -283,7 +283,7 @@ musician 1a,muusikko
 musician 1b,muusikko
 musician 2a,muusikko
 musician 2b,muusikko
-need toilet,vessah�t�
+need toilet,vessahätä
 newspaper,sanomalehti
 newspaper person 1a,lehdenjakaja
 newspaper person 1b,lehdenjakaja
@@ -298,7 +298,7 @@ occupational therapist 1b,toimintaterapeutti
 occupational therapist 2a,toimintaterapeutti
 occupational therapist 2b,toimintaterapeutti
 ostrich,strutsi
-owl,p�ll�
+owl,pöllö
 palm tree,palmu
 panda,panda
 paramedic 1a,ensihoitaja
@@ -315,14 +315,14 @@ physio therapist 2a,fysioterapeutti
 physio therapist 2b,fysioterapeutti
 picture,kuva
 picture frame,valokuvakehys
-pilot 1a,lent�j�
-pilot 1b,lent�j�
-pilot 2a,lent�j�
-pilot 2b,lent�j�
-polar bear,j��karhu
+pilot 1a,lentäjä
+pilot 1b,lentäjä
+pilot 2a,lentäjä
+pilot 2b,lentäjä
+polar bear,jääkarhu
 police 1a,poliisi
 police 1b,poliisi
-police helmet,poliisin kyp�r�
+police helmet,poliisin kypäräirrelevant
 police radio,poliisiradio
 pool snooker,biljardi
 porcupine,piikkisika
@@ -344,8 +344,8 @@ refuse collector 1b,roskakuski
 refuse collector 2a,roskakuski
 refuse collector 2b,roskakuski
 rhinoceros,sarvikuono
-riding hat,ratsastuskyp�r�
-rifle,kiv��ri
+riding hat,ratsastuskypärä
+rifle,kivääri
 road,tie
 rocking chair,keinutuoli
 roller coaster,vuoristorata
@@ -363,13 +363,13 @@ shape puzzle,muotolauta
 shop,kauppa
 shop 2,kauppa
 short,lyhyt
-shrew,p��st�inen
+shrew,päästäinen
 shuttlecock,sulkapallo
 singer 1a,laulaja
 singer 1b,laulaja
 singer 2a,laulaja
 singer 2b,laulaja
-"ski , to",hiiht��
+"ski , to",hiihtää
 skis,sukset
 slug,etana
 snail,etana
@@ -382,7 +382,7 @@ speech language therapist 1a,puheterapeutti
 speech language therapist 1b,puheterapeutti
 speech language therapist 2a,puheterapeutti
 speech language therapist 2b,puheterapeutti
-spider,h�m�h�kki
+spider,hämähäkki
 spoon adapted,lusikka
 squirrel 1a,orava
 squirrel 1b,orava
@@ -391,7 +391,7 @@ star stacker,lelu
 step by step,step by step
 stethoscope,stetoskooppi
 stirrups,jalustimet
-stoat,k�rpp�
+stoat,kärppä
 stool,palli
 suitcase 1,matkalaukku
 suitcase 2,matkalaukku
@@ -418,7 +418,7 @@ thirsty,janoinen
 thunder storm,ukkos myrsky
 tiger,tiikeri
 toad,rupi konna
-"toilet , go to the",menn� vessaan
+"toilet , go to the",mennä vessaan
 toilets,vessat
 trampoline,trampoliini
 "trampoline , to",pomppia trampoliinissa
@@ -428,52 +428,52 @@ visitor 1a,vierailja
 visitor 1b,vierailja
 visor,visiiri
 volleyball,lentopallo
-wall,sein�
+wall,seinä
 wasp,ampiainen
 webcam,Web-kamera
-wheelchair,py�r�tuoli
-wheelchair and switch mount,py�r�tuoli painikkeella
-wheelchair communication aid,py�r�tuoli ja kommunikointilaite
+wheelchair,pyörätuoli
+wheelchair and switch mount,pyörätuoli painikkeella
+wheelchair communication aid,pyörätuoli ja kommunikointilaite
 window,ikkuna
 winner,voittaja
 wolf,susi
-"work , to",ty�skennell�
+"work , to",työskennellä
 zebra,seepra
 across,poikki
 across,yli
 against,vastaan
-ahead,edess�
+ahead,edessä
 auroscope,otoskooppi
-back ache,selk�kipu
+back ache,selkäkipu
 begin start,aloittaa
 blood pressure,verenpaine
 both,molemmat
 bottom 2,alla
 bottom 2,pohja
-"break , to",rikkoa
+"break , to",rikkoaw
 bright room,valoisa huone
 broken,rikki
-bumpy,t�yssyj�
+bumpy,töyssyjä
 bumpy,pomppuinen
-clean dishes,tiskata
-clean room,puhdas huone
-close to,vieress�
-close to,l�hell�
+clean dishes,tiskataw
+clean room,puhdas huonew
+close to,vieressä
+close to,lähellä
 coated spoon,lusikka
 correct,oikea
 counters,pelikolikot
-cow,lehm�
+cow,lehmä
 cream ointment,hoitovoide
-cricket 2,hein�sirkka
+cricket 2,heinäsirkka
 cricket 2,sirkka
 crooked,kiero
 crutches,kainalosauvat
 crutches 1,kainalosauvat
 curly,kiharainen
 cut,leikata
-deep,syv�
+deep,syvä
 dish partitioned,osioitu lautanen
-dish partitioned,lautanen
+dish partitioned,lautanenw
 doidy cup,muki
 donkey,aasi
 drink consistency firm spoon,juoma lusikka
@@ -485,8 +485,8 @@ even,tasan
 even,tasaisesti
 every,jokainen
 extra large,extra large
-extra large,eritt�in suuri
-eye drops,silm�tipat
+extra large,erittäin suuri
+eye drops,silmätipat
 favourite,suosikki
 fifty percent,puolet
 finish,loppua
@@ -506,11 +506,11 @@ flag Armenia,Armenian lippu
 flag Aruba,Aruban lippu
 flag Asean,Asean lippu
 flag Austria,Australian lippu
-flag Azerbaijan,Azerbaid�anin lippu
+flag Azerbaijan,Azerbaidžanin lippu
 flag Bahrain,Bahrainin lippu
 flag Bangladesh,Bangladeshin lippu
 flag Barbados,Barbadoksen lippu
-flag Belarus,Valko-Ven�j�n lippu
+flag Belarus,Valko-Venäjän lippu
 flag Belgium,Belgian lippu
 flag Benin,Beninin lippu
 flag blank,lippu
@@ -552,7 +552,7 @@ flag Georgia,Gruusian lippu
 flag Germany,Saksan lippu
 flag Ghana,Ghanan lippu
 flag Greece,Kreikan lippu
-flag Greenland,Gr�nlannin lippu
+flag Greenland,Grönlannin lippu
 flag Guinea Bissau,Guinea Bissaun lippu
 flag Guyana,Guyanan lippu
 flag Haiti,Haitin lippu
@@ -603,7 +603,7 @@ flag Puerto Rico,Puerto Ricon lippu
 flag Rass al Khaimah Sharjah,Rass al Khaimah Sharjahin lippu
 flag Red Cross,Punaisen ristin lippu
 flag Romania,Romanian lippu
-flag Russian Federation,Ven�j�n federaation lippu
+flag Russian Federation,Venäjän federaation lippu
 flag Rwanda,Ruandan lippu
 flag Samoa,Samoan lippu
 flag Sao Tome Principe,Sao Tomen ja Principen lippu
@@ -614,8 +614,8 @@ flag Sierra Leone,Sierra Leonen lippu
 flag Singapore,Singaporen lippu
 flag Solomon Islands,Salomonsaarten lippu
 flag Somalia,Somalian lippu
-flag South Africa,Etel�-Afrikan lippu
-flag South Korea,Etel�-Korean lippu
+flag South Africa,Etelä-Afrikan lippu
+flag South Korea,Etelä-Korean lippu
 flag St. Kitts and Nevis,St.Kitts ja Nevisin lippu
 flag Suriname,Surinamen lippu
 flag Sweden,Ruotsin lippu
@@ -629,7 +629,7 @@ flag The Czech Republic,Tsekin tasavallan lippu
 flag The Gambia,Gambian lippu
 flag The Netherlands,Hollannin lippu
 flag The Sudan,Sudanin lippu
-flag Timor Leste,It�-Timorin lippu
+flag Timor Leste,Itä-Timorin lippu
 flag Togo,Togon lippu
 flag Tokelau,Tokelaun lippu
 flag Tonga,Tongan lippu
@@ -646,14 +646,14 @@ flag United States of America, USA:n lippu
 flag Uzbekistan,Uzbekistanin lippu
 flag Venezuela,Venezuelan lippu
 flag Viet Nam,Vietnamin lippu
-flag Western Sahara,L�nsi-Saharan lippu
+flag Western Sahara,Länsi-Saharan lippu
 flag Yemen, Jemenin lippu
-flat,tasainen
-fuzzy,p�rr�inen
+flat,tasainena
+fuzzy,pörröinen
 half,puolikas
 hard,vaikea
 hard,kova
-headache,p��ns�rky
+headache,päänsärky
 healthy,terve
 hearing aid 1,kuulokoje
 hearing aid 2,kuulokoje
@@ -668,18 +668,18 @@ killer whale,miekkavalas
 large,suuri
 leopard,leopardi
 little,pieni
-lots more,paljon enemm�n
-loud,��nek�s
-loud,kova��ninen
+lots more,paljon enemmän
+loud,äänekäs
+loud,kovaääninen
 lucky,onnekas
 lump,kuhmu
-medicine,l��ke
+medicine,lääke
 messy room,likainen huone
-middle,keskell�
+middle,keskellä
 mistake no wrong,ei
 mistake no wrong,virhe
-mistake no wrong,v��rin
-more,enemm�n
+mistake no wrong,väärin
+more,enemmän
 most,eniten
 mouth,suu
 neither,ei kumpikaan
@@ -702,12 +702,12 @@ piglet,porsas
 plaster,kipsi
 plate guard,lautastuki
 plate lipped,lautanen
-pointed,ter�v�
+pointed,terävä
 pool hoist,allasnosturi
 prawn,katkarapu
-quarter,nelj�sosa
+quarter,neljäsosa
 ram,oinas
-ram,p�ssi
+ram,pässi
 ram,uuhi
 ramp,ramppi
 rash,ihottuma
@@ -716,49 +716,49 @@ seahorse,merihevonen
 seizure,kohtaus
 seventy five percent,75 prosenttia
 shallow,matala
-sharp,ter�v�
+sharp,terävä
 sheep,lammas
 shiny,kimaltava
 slice,viipale
 sling,keinu
 sneeze cold,nuha
-soft,pehme�
+soft,pehmeä
 some,muutama
 south east,kaakko
 south west,lounas
-spiders web,h�m�h�kinseitti
-spotty,t�plik�spilkullinen
-spotty,t�plik�s
+spiders web,hämähäkinseitti
+spotty,täplikäspilkullinen
+spotty,täplikäs
 sting bee,ampiaisen pistos
 straight,suora
 striped,raidallinen
 surgery health centre,terveyskeskus
 syringe,ruisku
-tablet blister pack,l��kken l�pipainopakkaus
-tablets,l��kkeet
+tablet blister pack,lääkken läpipainopakkaus
+tablets,lääkkeet
 tablets,pillerit
 teeth,hampaat
-thermometer,l�mp�mittari
+thermometer,lämpömittari
 thick,paksu
 thin 2,ohut
-three quarters,�
-toothache,hammass�rky
-top 2,p��lle
-top 2,p��ll�
-twenty five percent,�
-twenty five percent,nelj�sosa
+three quarters,¾
+toothache,hammassärky
+top 2,päälle
+top 2,päällä
+twenty five percent,¼
+twenty five percent,neljäsosa
 under 1,all3
 under 1,alla
-walking frame,k�velytuki
-walking stick,k�velykeppi
-warm clothes,l�mpim�t vaatteet
+walking frame,kävelytuki
+walking stick,kävelykeppi
+warm clothes,lämpimät vaatteet
 wavy,aaltoileva
 weak link,heikko lenkki
-wet 1,m�rk�
+wet 1,märkä
 whole,kokonainen
-xray,r�ntgen
-"arm wrestle , to",v��nt�� k�tt�
-awake,hereill�
+xray,röntgen
+"arm wrestle , to",vääntää kättä
+awake,hereillä
 blind,sokea
 blind 2,sokea
 bone 2,luu
@@ -766,9 +766,9 @@ bow,rusetti
 break 2,tauko
 broken bone,murtunut luu
 cigarette,tupakka
-cleaning box,siivousv�lineet
+cleaning box,siivousvälineet
 closed shop,suljettu kauppa
-clothes extra large,eritt�in isot vaatteet
+clothes extra large,erittäin isot vaatteet
 clothes large,isot vaatteet
 clothes medium,keskikokoiset vaatteet
 clothes neat,siistit vaatteet
@@ -779,12 +779,12 @@ country Algeria,maa Algeria
 country Angola,maa Angola
 country Armenia,maa Armenia
 country Aruba,Maa Aruba
-country Austria,maa It�valta
+country Austria,maa Itävalta
 country Azerbaijan,maa Azerbaitsan
 country Bahrain,maa bahrain
 country Bangladesh,maa Bangladesh
 country Barbados,maa Barbados
-country Belarus,maa Valko-Ven�j�
+country Belarus,maa Valko-Venäjä
 country Belgium,maa Belgia
 country Benin,maa Benin
 country Bonaire,maa Bonaire
@@ -821,7 +821,7 @@ country Georgia,maa Georgia
 country Germany,maa Saksa
 country Ghana,maa  Ghana
 country Greece,maa Kreikka
-country Greenland,maa Gr��nlanti
+country Greenland,maa Gröönlanti
 country Guinea Bissau,maa Guinea Bissau
 country Guyana,maa Guyana
 country Haiti,maa Haiti
@@ -868,7 +868,7 @@ country Palestine,maa Palestiina
 country Panama,maa Panama
 country Qatar,maa Qatar
 country Romania,maa Romania
-country Russian Federation,maa Ven�j�n federaatio
+country Russian Federation,maa Venäjän federaatio
 country Rwanda,maa Ruanda
 country Samoa,maa Samoa
 country Sao Tome Principe,maa Sao Tome Principe
@@ -880,8 +880,8 @@ country Sierra Leone,maa Sierra Leone
 country Singapore,maa Singapore
 country Solomon Islands,maa Salomonsaaret
 country Somalia,maa Somalia
-country South Africa,maa Etel�-Afrikka
-country South Korea,maa Etel�-Korea
+country South Africa,maa Etelä-Afrikka
+country South Korea,maa Etelä-Korea
 country St. Kitts and Nevis,maa St.Kitts ja Nevis
 country Suriname,maa Suriname
 country Sweden,maa Ruotsi
@@ -908,7 +908,7 @@ country United States,maa USA
 country Uzbekistan,maa Uzbekistan
 country Venezuela,maa Venezuela
 country Viet Nam,maa Vietnam
-country Western Sahara,maa L�nsi-Sahara
+country Western Sahara,maa Länsi-Sahara
 country Yemen,maa Jemen
 curly hair,kiharat hiukset
 dead,kuollut
@@ -918,27 +918,27 @@ delicious food,herkullinen ruoka
 dirty,likainen
 door 2,ovi
 dry,kuiva
-empty,tyhj�
+empty,tyhjä
 enough,tarpeeksi
-extra,ylim��r�inen
-extra 2,ylim��r�inen
-eye,silm�
-eyes,silm�t
-eyes closed,silm�t kiinni
+extra,ylimääräinen
+extra 2,ylimääräinen
+eye,silmä
+eyes,silmät
+eyes closed,silmät kiinni
 fancy,hieno
 fast 2,nopea
-first 2,ensimm�inen
+first 2,ensimmäinen
 flame,liekki
-forward,eteenp�in
-full,t�ynn�
+forward,eteenpäin
+full,täynnä
 funny laugh,hassu nauru
 glasses,lasit
-"go through door , to",menn� ovesta
-good,hyv�
-good person,hyv� ihminen
+"go through door , to",mennä ovesta
+good,hyvä
+good person,hyvä ihminen
 good to drink,juomakelpoista
-good to eat,sy�m�kelpoista
-good to eat 2,sy�m�kelpoista
+good to eat,syömäkelpoista
+good to eat 2,syömäkelpoista
 great,mahtava
 handsome,komea
 hat too big,liian iso hattu
@@ -946,12 +946,12 @@ high,korkea
 hot person,kuuma
 inside room,huoneessa
 last 2,viimeinen
-left hand,vasen k�si
-long,pitk�
+left hand,vasen käsi
+long,pitkä
 lost,eksynyt
 messy clothes,likaiset vaatteet
 non speaking,puhumaton
-non speaking,mykk�
+non speaking,mykkä
 office block,toimistotalo
 old person 1,vanhus
 old person 2,vanhus
@@ -962,9 +962,9 @@ outside,ulos
 outside,ulkona
 pepper mill,pippurimylly
 "point , to",osoittaa
-pretty,n�tti
+pretty,nätti
 ready 2,valmis
-right hand,oikea k�si
+right hand,oikea käsi
 salt,suola
 scary,pelottava
 second 3,toinen
@@ -972,18 +972,18 @@ short 2,lyhyt
 slippery,liukas
 sticky,tahmea
 stomach ache,vatsakipu
-stubble,s�nki
+stubble,sänki
 tartan,ruudullinen kangas
 tartan,tartan
 tartan,skottikangas
 ugly,ruma
 vase,vaasi
 "vomit sick , to",oksentaa
-warm fire,l�mmin tuli
-wet,m�rk�
-wrong thought,v��rin ajateltu
+warm fire,lämmin tuli
+wet,märkä
+wrong thought,väärin ajateltu
 bin bags,roskapussit
-computer keyboard,n�pp�imist�
+computer keyboard,näppäimistö
 computer speaker,kaiutin
 "crush pestle , to",jauhaa
 "dip food , to",dipata
@@ -995,7 +995,7 @@ flag Alderney,Alderneyn lippu
 flag American Samoa,Amerikan Samoan lippu
 flag Andorra,Andorran lippu
 flag Anguilla,Anguillan lippu
-flag Antartica,Etel�mantereen lippu
+flag Antartica,Etelämantereen lippu
 flag Argentina,Argentiinan lippu
 flag Belize,Belizan lippu
 flag Bermuda,Bermudan lippu
@@ -1012,7 +1012,7 @@ flag Dominica,Dominican lippu
 flag Ecuador,Ecuadorin lippu
 flag Egypt,Egyptin lippu
 flag El Salvador,El Salvadorin lippu
-flag Equatorial Guinea,P�iv�ntasaajan Guinean lippu
+flag Equatorial Guinea,Päiväntasaajan Guinean lippu
 flag Falkland Islands,Falkandin saarten lippu
 flag Fiji,Fijin lippu
 flag Gibraltar,Gibraltarin lippu
@@ -1092,11 +1092,11 @@ flag Wales,Walesin lippu
 flag Zambia,Sambian lippu
 flag Zimbabwe,Zimbabwen lippu
 freezer,pakastin
-headpointer 2,p��hiiri
+headpointer 2,päähiiri
 "melt , to",sulattaa
 "scoop , to",kaapia
-toast,paahtoleip�
-"wash up , to",peseyty�
+toast,paahtoleipä
+"wash up , to",peseytyä
 Advent,adventti
 Advent calendar,adventtikalenteri
 angel,enkeli
@@ -1105,33 +1105,33 @@ balloon,ilmapallo
 basket,kori
 basket 2,kori
 bell,kello
-birthday cake,syntym�p�iv�kakku
-birthday card,syntym�p�iv�kortti
+birthday cake,syntymäpäiväkakku
+birthday card,syntymäpäiväkortti
 "bless , to",siunata
 bonfire,kokko
-Bonfire Night,juhannusy�
-Boxing Day,tapaninp�iv�
+Bonfire Night,juhannusyö
+Boxing Day,tapaninpäivä
 broomstick,luudanvarsi
-candle 2,kynttil�
+candle 2,kynttilä
 candy cane,karkkikeppi
 card,kortti
 carol singer,kuorolaulaja
 catherine wheel,viuhka
 "celebrate 2 , to",juhlia
 "celebrate 3 , to",juhlia
-celebrate birthday,juhlia syntym�p�iv��
+celebrate birthday,juhlia syntymäpäivää
 celebration,juhlat
 champagne,sanppanja
 "champagne pop , to",poksauttaa samppanja
 chick,tipu
 chimney,savupiippu
-chocolate log,k��retorttu
+chocolate log,kääretorttu
 Christian,kristitty
 Christmas,joulu
 Christmas bauble,kuusenkoriste
 Christmas bell,joulukello
 Christmas cake,joulukakku
-Christmas Day,joulup�iv�
+Christmas Day,joulupäivä
 Christmas decorations,joulukoristeet
 Christmas Eve,jouluaatto
 Christmas lights,jouluvalot
@@ -1148,16 +1148,16 @@ cross palm,ristipuu
 crown of thorns,orjantappurakruunu
 Crucifixion,ristiinnaulitseminen
 "decorate tree , to",koristella kuusi
-dinner 2 people,ruokailu 2 ihmist�
-dinner 3 people,ruokailu 3 ihmist�
+dinner 2 people,ruokailu 2 ihmistä
+dinner 3 people,ruokailu 3 ihmistä
 dove,kyyhkynen
-Easter egg,p��si�ismuna
-Easter egg hunt,p��si�ismunan mets�stys
+Easter egg,pääsiäismuna
+Easter egg hunt,pääsiäismunan metsästys
 elf,tonttu
 fairy,haltia
 family,perhe
 Father Christmas,joulupukki
-Father Christmas sack,joulupukin s�kki
+Father Christmas sack,joulupukin säkki
 fireworks,ilotulitusraketti
 fireworks,ilotulitteet
 fireworks 2,ilotulitusraketti
@@ -1166,7 +1166,7 @@ frankincense,olibaanihartsi
 ghost,kummitus
 gold bar,kultaharkko
 goose roast,hanhenpaisti
-guy,j�tk�
+guy,jätkä
 Guy Fawkes,Guy Fawkes
 Halloween,halloween
 harvest,sadonkorjuu
@@ -1189,8 +1189,8 @@ manger,kaukalo
 Mary,Maria
 mince pie,lihapiiras
 mistletoe,mistelinoksa
-monster,hirvi�
-Nativity,Kristuksen syntym�
+monster,hirviö
+Nativity,Kristuksen syntymä
 palm,palmu
 Palm Sunday,palmusunnuntai
 pancake 2,pannukakku
@@ -1199,7 +1199,7 @@ parade 1,paraati
 parade 2,paraati
 party celebration,juhla
 party popper,paukkupommi
-passion flower,k�rsimyskukka
+passion flower,kärsimyskukka
 pie,piiras
 "pray , to",rukoilla
 prayer,rukous
@@ -1212,28 +1212,28 @@ ribbon,nauha
 risen,noussut
 rocket 2,raketti
 Rudolph,Petteri
-sack,s�kki
+sack,säkki
 sausage roll,makkarapasteija
 sausage roll small,pieni makkarapasteija
 shepherd 1a,paimen
 shepherd 1b,paimen
 Shrove Tuesday 1,laskiainen
-simnel cake,p��si�iskakku
+simnel cake,pääsiäiskakku
 sledge,leka
 sleigh,reki
-sparkler,s�detikku
+sparkler,sädetikku
 stable 1,talli
 stable 2,talli
-stuffing,t�ytteet
-table 2,p�yt�
-tablecloth,p�yt�liina
-three wise kings,kolme viisasta miest�
+stuffing,täytteet
+table 2,pöytä
+tablecloth,pöytäliina
+three wise kings,kolme viisasta miestä
 tinsel,hopealanka
 tomb 1,hautakammio
 tomb 2,hautakammio
-"toss pancake , to",heitt�� lettua
-"toss pancake , to",heitt�� l�tty�
-"toss pancake , to",heitt�� r�isk�lett�
+"toss pancake , to",heittää lettua
+"toss pancake , to",heittää lättyä
+"toss pancake , to",heittää räiskälettä
 tree ornament chocolate,suklaakoriste
 trick or treat,karkki tai kepponen
 wishbone,toiveluu
@@ -1241,22 +1241,22 @@ witch,noita
 witches hat,noitahattu
 "wrap , to",paketoida
 wrapping paper,lahjapaperi
-yule log,k��retorttu
+yule log,kääretorttu
 airways,hengityskanava
 ankle,nilkka
-arm,k�si
-arms,k�det
-aunt maternal,t�ti
-aunt paternal,t�ti
-back,selk�
-back 1,selk�
+arm,käsi
+arms,kädet
+aunt maternal,täti
+aunt paternal,täti
+back,selkä
+back 1,selkä
 back garden,takapiha
 beak,nokka
-beehive,mehil�ispes�
-bees nest,mehil�ispes�
+beehive,mehiläispesä
+bees nest,mehiläispesä
 bird bath,lintuallas
 bird feeder,lintulauta
-body outline,kehon ��riviivat
+body outline,kehon ääriviivat
 brother,veli
 buffalo,puhveli
 calf,vasikka
@@ -1270,31 +1270,31 @@ claw,kynsi
 cockerel,kukonpoika
 comet,komeetta
 cow shed,lato
-dad parent,is�
-daughter,tyt�r
+dad parent,isä
+daughter,tytär
 dog kennel,koirankoppi
 ear,korva
 Earth,maa
-Earths atmosphere,ilmakeh�
+Earths atmosphere,ilmakehä
 family 2,perhe
 fangs,torahampaat
-feather,h�yhen
+feather,höyhen
 feet,jalat
-fin,ev�
+fin,evä
 finger,sormi
 fingernail,kynsi
 fist,nyrkki
-flipper,r�pyl�
+flipper,räpylä
 foot,jalka
 front,etuosa
 goldfish bowl,kultakalamalja
-grandfather,isois�
-grandmother,iso�iti
+grandfather,isoisä
+grandmother,isoäiti
 grandparents,isovanhemmat
 gum,purkka
-head,p��
+head,pää
 "hear , to",kuulla
-heart,syd�n
+heart,sydän
 heron,harmaahaikara
 hoof,kavio
 horns,sarvet
@@ -1311,12 +1311,12 @@ married,naimisissa
 Mars,Mars
 Mercury,Merkkuurius
 Milky Way,linnunrata
-mole,myyr�
+mole,myyrä
 Moon,kuu
-mum parent,�iti
+mum parent,äiti
 mussel,simpukka
 Neptune,Neptunus
-nest,pes�
+nest,pesä
 nostril,sierain
 oyster,osteri
 oyster 2,osteri
@@ -1329,8 +1329,8 @@ planets,planeetat
 Pluto,Pluto
 prickles,piikit
 puffin,lunni
-quail,viiri�inen
-rattle snake,kalkkarok��rme
+quail,viiriäinen
+rattle snake,kalkkarokäärme
 robin,punarinta
 satellite,satelliitti
 Saturn,Saturnus
@@ -1341,17 +1341,17 @@ senses,aistit
 "shave underarm , to",ajaa kainalot
 sister,sisko
 skeleton,luuranko
-skunk,haisun��t�
+skunk,haisunäätä
 sole,ainoa
 son,poika
-"squeak mouse , to",vikist�
-star,t�hti
-starfish,merit�hti
+"squeak mouse , to",vikistä
+star,tähti
+starfish,meritähti
 step brother,velipuoli
-step dad parent,is�puoli
-step daughter 1,tyt�rpuoli
-step daughter 2,tyt�rpuoli
-step mum parent,�itipuoli
+step dad parent,isäpuoli
+step daughter 1,tytärpuoli
+step daughter 2,tytärpuoli
+step mum parent,äitipuoli
 step sister,sisarpuoli
 step son 1,poikapuoli
 step son 2,poikapuoli
@@ -1364,16 +1364,16 @@ trap,ansa
 turkey,kalkkuna
 turtle,kilpikonna
 uncle maternal,eno
-uncle paternal,set�
+uncle paternal,setä
 underarm,kainalo
 underarm hair,kainalokarvat
 Uranus,Uranus
 Venus,Venus
 vulture,korppikotka
-"wag tail , to",heiluttaa h�nt��
-"wag tail 2 , to",heiluttaa h�nt��
+"wag tail , to",heiluttaa häntää
+"wag tail 2 , to",heiluttaa häntää
 walrus,mursu
-webbed foot,r�pyl�
+webbed foot,räpylä
 whiskers,viiksikarvat
 wife,vaimo
 windpipe,henkitorvi
