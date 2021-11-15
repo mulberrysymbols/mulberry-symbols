@@ -61,7 +61,7 @@
         <ol class="contents-list">
           {{#each categories}}
           <li class="list-element">
-            <a class="contents-link" href="#{{ this.anchor }}">{{ this.name }}</a>
+            <a class="contents-link" href="#{{ this.anchor }}">{{ @key }}</a>
           </li>
           {{/each}}
         </ol>
