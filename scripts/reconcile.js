@@ -32,4 +32,4 @@ const parser = parse({ from: 2, cast: true }, function(err, data) {
   });
 });
 
-fs.createReadStream("data/symbol-info.csv").pipe(parser);
+fs.createReadStream("scripts/data/symbol-info-en.csv").pipe(parser);
