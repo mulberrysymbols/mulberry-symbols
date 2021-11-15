@@ -110,7 +110,7 @@ The [Latest Release](https://github.com/mulberrysymbols/mulberry-symbols/release
 
 We also have:
 
-- A partial [Finnish translation](https://github.com/mulberrysymbols/mulberry-symbols/blob/master/FinnishSymbolNames.csv) of symbol names (select "raw" to download)
+- A [Finnish translation](https://github.com/mulberrysymbols/mulberry-symbols/blob/master/scripts/data/FinnishSymbolNames.csv) of symbol names (select "raw" to download)
 
 ### Downloading individual symbols
 
@@ -161,6 +161,7 @@ Here's a list of uses of the Mulberry Symbols that we know about. Please let us 
 - Claire Barge, Graphics Designer - for the symbols with their adult-friendly, clear, inclusive style
 - Sandra and others - for their work in symbol colouring
 - E.A. Draffan and several Speech and Language Therapists for suggesting and reviewing symbols
+- Tapio Koivuniemi for the Finnish symbol names
 - Our techie [GitHub contributors](https://github.com/mulberrysymbols/mulberry-symbols/graphs/contributors)
 
 ## Contact
