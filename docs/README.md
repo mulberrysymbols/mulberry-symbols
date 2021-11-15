@@ -112,6 +112,7 @@ We also have:
 
 - A [Finnish translation](https://github.com/mulberrysymbols/mulberry-symbols/blob/master/scripts/data/FinnishSymbolNames.csv) of symbol names (select "raw" to download)
 
+
 ### Downloading individual symbols
 
 We plan to add an interactive facility to [select and download symbols](https://github.com/mulberrysymbols/mulberry-symbols/issues/31) but until then it is possible, though you need to specify the symbol name yourself.
