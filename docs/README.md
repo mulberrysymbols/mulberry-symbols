@@ -116,7 +116,7 @@ We also have:
 
 We plan to add an interactive facility to [select and download symbols](https://github.com/mulberrysymbols/mulberry-symbols/issues/31) but until then it is possible, though you need to specify the symbol name yourself.
 
-- Open [categories.html](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest/download/categories.html) - it's big so a slow download
+- Open [categories.html](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest/download/categories-en.html) - it's big so a slow download
 - Right click on a symbol and select "Save Image" or equivalent depending on your web browser
 - Change the filename from index.svg to whatever you want and save
 
