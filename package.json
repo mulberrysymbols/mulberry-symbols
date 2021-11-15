@@ -4,7 +4,7 @@
   "description": "The Mulberry open symbol set is designed to be an alternative set for adult AAC users and is freely usable in on-line applications due to a permissive licence.",
   "main": "gulpfile.js",
   "engines": {
-    "node": ">=8.0"
+    "node": ">=16.0"
   },
   "engineStrict": true,
   "directories": {
