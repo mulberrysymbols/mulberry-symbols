@@ -10,12 +10,14 @@ See [mulberrysymbols.org](https://mulberrysymbols.org) for more details
 
 This is a typical npm/node managed package. A source of complexity, especially in releases, is due to the symbols and the website being in the same repo.
 
-Two npm scripts are provided in `package.json`
+Several  npm scripts are provided in `package.json`
 
 1. test - checks the symbols names against the `symbol-info.csv`
 1. build - build everything
 1. build:zip - generates the .zip for distribution
 1. build:categories - generate categories-xx.pdf and catagories-en.html
+
+NB building the HTML require puppeteer which currently does not work on WSL on Win 10 (it might on Win 11).
 
 If you want to develop the website locally follow the instructions on [Githubs docs](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
 
