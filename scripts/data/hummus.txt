@@ -1,0 +1,11 @@
+{{22909:cooking,cookery,preparation_(general)}}Ingredients
+·      2 {{22590:tin,can}}cans of garbanzo {{24021:bean_(dried),chick-pea,kidney_bean,pinto_bean}}beans
+·      2 cloves {{14423:garlic}}garlic, {{15989:peel-(to)}}peeled
+·      {{14406:fruit_juice,juice}}Juice of 1 {{15221:little,small}}small {{15190:lemon}}lemon
+...
+
+{{13408:cook-(to)}}Method
+1.    {{13872:drain,sift,strain-(to)}}Drain the {{24021:bean_(dried),chick-pea,kidney_bean,pinto_bean}}beans, but {{15143:keep,preserve,save-(to)}}reserve the {{18209:water,fluid,liquid}}liquid for use {{14417:future}}later
+2.    {{15143:keep,preserve,save-(to)}}Reserve a {{24111:few,little}}few {{24021:bean_(dried),chick-pea,kidney_bean,pinto_bean}}beans for decoration {{14417:future}}later
+3.    {{16440:put,locate,place-(to)}}Place the {{24021:bean_(dried),chick-pea,kidney_bean,pinto_bean}}beans in a {{22393:food_processor,kitchen_machine}}food processor (or {{22392:mixer,blender}}blender, but processor is easier), {{15481:mix,blend-(to)}}pulse the {{24021:bean_(dried),chick-pea,kidney_bean,pinto_bean}} cooked chickpeas to {{25581:mash,mush,pulp_(food)}}mash them.  
+...
