@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const util = require('util');
-const parse = require('csv-parse');
+const {parse} = require('csv-parse');
 const asyncReadFile = util.promisify(fs.readFile);
 
 
