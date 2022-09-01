@@ -97,7 +97,7 @@ These symbols are provided as a "free at the point of use" resource for speech a
 
 ## The Open AAC ecosystem
 
-Mulberry is proud to be part of the growing number of tools and services providing free and open access to symbols and AAC. Steve Lee wrote a [blog post summarising](https://opendirective.net/2020/04/17/the-open-communication-symbols-ecosystem/) the state of play in April 2020.
+Mulberry is proud to be part of the growing number of tools and services providing free and open access to symbols and AAC. Steve Lee wrote a [blog post summarising](https://opendirective.net/posts/2020-04-17-the-open-communication-symbols-ecosystem/) the state of play in April 2020.
 
 ## Downloads
 
