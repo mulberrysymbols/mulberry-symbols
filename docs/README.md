@@ -112,7 +112,6 @@ We also have:
 
 - A [Finnish translation](https://github.com/mulberrysymbols/mulberry-symbols/blob/master/scripts/data/FinnishSymbolNames.csv) of symbol names (select "raw" to download)
 
-
 ### Downloading individual symbols
 
 We plan to add an interactive facility to [select and download symbols](https://github.com/mulberrysymbols/mulberry-symbols/issues/31) but until then it is possible, though you need to specify the symbol name yourself.
@@ -135,7 +134,7 @@ You can easily use the text "Copyright 2018/19 Steve Lee - This work is licensed
 
 ## Contributions
 
-We'd love to work with you to help improve the symbols or this website. For example, new symbols and translations are currently needed. 
+We'd love to work with you to help improve the symbols or this website. For example, new symbols and translations are currently needed.
 We use the GitHub collaboration platform to discuss and track work - see you there.
 
 - [Open in GitHub](https://github.com/mulberrysymbols/mulberry-symbols)
@@ -150,7 +149,7 @@ Here's a list of uses of the Mulberry Symbols that we know about. Please let us 
 - [Bildstod.se](http://bildstod.se) is a free and open online resource that lets users create their own symbol support from a large database collection of open symbol sets. Some of the Mulberry symbols there have been adapted by DART.
 - [BoardBuilder](https://globalsymbols.com/boardbuilder) is a web app for designing communication boards which can be exported as PDF or to AACs.
 - [cboard](https://www.cboard.io/) is an open source communication web app using symbols and text to speech.
-- Commtap use the symbols in their [Symboliser](https://symboliser.commtap.org/) product for adding symbols to text and [Eye Gaze Communication Book Maker](https://symboliser.commtap.org/eye-gaze-communication-book-maker-powerpoint/) which use the open source [symbol server](https://symboliser.commtap.org/commtap-symbols-server-api/). 
+- Commtap use the symbols in their [Symboliser](https://symboliser.commtap.org/) product for adding symbols to text and [Eye Gaze Communication Book Maker](https://symboliser.commtap.org/eye-gaze-communication-book-maker-powerpoint/) which use the open source [symbol server](https://symboliser.commtap.org/commtap-symbols-server-api/).
 - [CommuniKate](http://communikate.equalitytime.co.uk/) is an AAC and set of Powerpoint/Impress board templates.
 - [Global Symbols](https://globalsymbols.com) provides a dictionary of international communications symbols, apps and training.
 - [Open AAC](https://www.openaac.org/) is an initiative to create and encourage open-licensed resources and tools to support AAC users.
@@ -167,4 +166,4 @@ Here's a list of uses of the Mulberry Symbols that we know about. Please let us 
 
 ## Contact
 
-If you have any questions or suggestions then do raise an issue over on [GitHub](https://github.com/mulberrysymbols/mulberry-symbols) or drop me a line at "steve @ opendirective . com".
+If you have any questions or suggestions then do raise an issue over on [GitHub](https://github.com/mulberrysymbols/mulberry-symbols) or drop me a line at "steve @ fullmeasure . co . uk".
