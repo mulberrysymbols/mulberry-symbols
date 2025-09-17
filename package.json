@@ -33,7 +33,7 @@
     "archiver": "5.3.1",
     "csv-parse": "5.3.0",
     "handlebars": "4.7.7",
-    "puppeteer": "16.1.0"
-  },
-  "dependencies": {}
+    "puppeteer": "16.1.0",
+    "svgo": "^4.0.0"
+  }
 }
