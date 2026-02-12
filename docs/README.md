@@ -1,6 +1,6 @@
 # Mulberry Symbols
 
-The Mulberry Symbols, or Pictograms, are a set of scalable SVG graphic images designed for communications use. They are ideal for adults using AAC software or devices or any online accessibility use where their liberal licence ensures unrestricted use, copying and distribution.
+The Mulberry Symbols, or Pictograms, are a set of scalable SVG graphic images designed for accessibility communications use. They are ideal for adults using AAC software, on devices or any online accessibility use where their liberal licence ensures unrestricted use, copying and distribution.
 
 Below is a sample of the Mulberry Symbols. You can view the entire [collection of symbols](https://github.com/mulberrysymbols/mulberry-symbols/releases/latest/download/categories-en.html) (very large web page) or download a pdf as described below.
 
@@ -82,6 +82,12 @@ Below is a sample of the Mulberry Symbols. You can view the entire [collection o
 </div>
 <!-- markdownlint-enable MD033 -->
 
+## Global Symbols and the Open AAC ecosystem
+
+Mulberry is proud to be featured in the [Global Symbols](https://globalsymbols.com/) open community along with other symbol sets. Global Symbols has tools for exploring, using and creating open symbols. It's an excellent place to start with open symbol use.
+
+There is a growing number of tools and services like Global Symbols providing free and open access to symbols and AAC. Steve Lee wrote a [blog post summarising](https://opendirective.net/posts/2020-04-17-the-open-communication-symbols-ecosystem/) the state of play in April 2020.
+
 ## Our Vision
 
 We believe that communication is a fundamental human right. Many people with impaired speech and other language difficulties require symbols to support their communication needs, to enable their desires, wishes and opinions to be expressed.
@@ -94,10 +100,6 @@ These symbols are provided as a "free at the point of use" resource for speech a
 - Features unusual symbols usually missing from proprietary sets
 - Designed by graphic artists, reviewed by community and coloured by SLTs overseeing volunteers who had mental health issues
 - Symbols and design process originated by Garry Paxton who then assigned copyright over to Steve Lee in 2018
-
-## The Open AAC ecosystem
-
-Mulberry is proud to be part of the growing number of tools and services providing free and open access to symbols and AAC. Steve Lee wrote a [blog post summarising](https://opendirective.net/posts/2020-04-17-the-open-communication-symbols-ecosystem/) the state of play in April 2020.
 
 ## Downloads
 
@@ -130,12 +132,15 @@ So, you are free to reproduce these symbols and distribute them or derivatives i
 
 We do encourage you to modify and enhance the symbols so that they are even more useful. We'd love you to contribute your changes back to us to share but you are not required to do so. The licence allows us to find and publish your changes anyway but we'd much prefer to work directly with you.
 
-You can easily use the text "Copyright 2018/19 Steve Lee - This work is licensed under the Creative Commons Attribution-ShareAlike 2.0 UK: England & Wales License." and also attribute us with a link to this website plus a mention of Mulberry Symbols.
+## Attribution and citing
+
+You can easily use the text "Mulberry Symbols are copyright 2018 to 2026 Steve Lee and licensed under the Creative Commons Attribution-ShareAlike 2.0 UK: England & Wales License. See https://mulberrysymbols.org for details".
+
+The point is to ensure others can easily access and use the symbols.
 
 ## Contributions
 
-We'd love to work with you to help improve the symbols or this website. For example, new symbols and translations are currently needed.
-We use the GitHub collaboration platform to discuss and track work - see you there.
+We'd love to work with you to help improve the symbols. For example, new symbols and translations are currently needed. We use the GitHub collaboration platform to discuss and track work but [Global Symbols](https://globalsumbols.com) may be a better place to start, depending on your interest.
 
 - [Open in GitHub](https://github.com/mulberrysymbols/mulberry-symbols)
 

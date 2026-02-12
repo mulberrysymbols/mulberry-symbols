@@ -10,7 +10,7 @@ See [mulberrysymbols.org](https://mulberrysymbols.org) for more details
 
 This is a typical npm/node managed package. A source of complexity, especially in releases, is due to the symbols and the website being in the same repo.
 
-Several  npm scripts are provided in `package.json`
+Several npm scripts are provided in `package.json`
 
 1. test - checks the symbols names against the `symbol-info.csv`
 1. build - build everything
@@ -44,8 +44,9 @@ Any changes pushed to `master` cause the website to be regenerated and published
 
 ## Contributors
 
-Thanks to the following people for helping to improve the Mulberry Symbols
+Thanks to the following for helping to improve the Mulberry Symbols
 
 - @austin94
 - @gavinhenderson
 - @shayc
+- [Global Symbols](https://globalsymbols.com)
