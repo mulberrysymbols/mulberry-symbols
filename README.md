@@ -30,9 +30,7 @@ Currently this is a manual process. The following updates the zip and category f
 1. Execute `npm run build` to build the zip and categories files
 1. Make a GitHub Release with Tag of `v<RELEASE NUMBER>`, adding release notes
 1. Add the zip to the release
-1. Add `categories-xx.pdf` to the release
 1. Add `categories-en.html` to the release
-1. Add `symbol-info.csv` to the release - this gets generated manually from a master Google Sheet
 1. Announce the release
 1. Perform `git pull` to get the release tag locally
 
