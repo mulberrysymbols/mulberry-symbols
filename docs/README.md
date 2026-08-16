@@ -126,7 +126,7 @@ We'd love to know [how you plan to use the symbols](https://github.com/mulberrys
 
 ## Licence
 
-These symbols are published under the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) licence. You can use the symbols in any project or product, commercial or otherwise as long as any distribution gives us clear attribution and any new or derived symbols are shared under the same licence.
+These symbols are published under the [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licence. You can use the symbols in any project or product, commercial or otherwise as long as any distribution gives us clear attribution and any new or derived symbols are shared under the same licence.
 
 So, you are free to reproduce these symbols and distribute them or derivatives in printed or electronic form. For example, in a printed communication document or board, a website, app or marketing material. While you may charge for your product or added value, you must not charge for the symbols themselves. They are to remain free of cost and freely available to all.
 
@@ -134,9 +134,13 @@ We do encourage you to modify and enhance the symbols so that they are even more
 
 ## Attribution and citing
 
-You can easily use the text "Mulberry Symbols are copyright 2018 to 2026 Steve Lee and licensed under the Creative Commons Attribution-ShareAlike 2.0 UK: England & Wales License. See https://mulberrysymbols.org for details".
+The point of clear attribution is to ensure others can easily access and use the original symbols by following a link provided with your distribution. Derived should be equally available and never under more restrictive rights.
 
-The point is to ensure others can easily access and use the symbols.
+If you redistribute the symbols you can easily provide attribution with text similar to this: "Mulberry Symbols by Steve Lee are licenced under the Creative Commons Attribution-ShareAlike 4.0 License. See https://mulberrysymbols.org for details" or if you have hyperlinks: "[Mulberry Symbols](https://mulberrysymbols.org) by Steve Lee are licenced under [CC BY SA](https://creativecommons.org/licenses/by-sa/4.0/)"
+
+If you distribute modified or otherwise derived symbols you must provide attribution and also make them available under the same or a compatible licence.
+
+More details on correctly attributing are available on the [Creative Commons wiki](https://wiki.creativecommons.org/wiki/Recommended_practices_for_attribution).
 
 ## Contributions
 
