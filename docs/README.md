@@ -99,7 +99,7 @@ These symbols are provided as a "free at the point of use" resource for speech a
 - Adult oriented symbols - most proprietary sets are designed for children
 - Features unusual symbols usually missing from proprietary sets
 - Designed by graphic artists, reviewed by community and coloured by SLTs overseeing volunteers who had mental health issues
-- Symbols and design process originated by Garry Paxton who then assigned copyright over to Steve Lee in 2018
+- Symbols and design process originated Garry Paxton in 2008. He then assigned copyright over to Steve Lee in 2018
 
 ## Downloads
 
@@ -134,11 +134,11 @@ We do encourage you to modify and enhance the symbols so that they are even more
 
 ## Attribution and citing
 
-The point of clear attribution is to ensure others can easily access and use the original symbols by following a link provided with your distribution. Derived should be equally available and never under more restrictive rights.
+The point of clear attribution is to ensure others can easily access and use the original symbols by following a link provided with your distribution (or physical product). Derived symbols must be equally available and never under more restrictive rights.
 
-If you redistribute the symbols you can easily provide attribution with text similar to this: "Mulberry Symbols by Steve Lee are licenced under the Creative Commons Attribution-ShareAlike 4.0 License. See https://mulberrysymbols.org for details" or if you have hyperlinks: "[Mulberry Symbols](https://mulberrysymbols.org) by Steve Lee are licenced under [CC BY SA](https://creativecommons.org/licenses/by-sa/4.0/)"
+If you redistribute the symbols in electronic or physical form you can easily provide attribution with text similar to this: "Mulberry Symbols by Steve Lee are licenced under the Creative Commons Attribution-ShareAlike 4.0 License. See https://mulberrysymbols.org for details" or if you have hyperlinks: "[Mulberry Symbols](https://mulberrysymbols.org) by Steve Lee are licenced under [CC BY SA](https://creativecommons.org/licenses/by-sa/4.0/)"
 
-If you distribute modified or otherwise derived symbols you must provide attribution and also make them available under the same or a compatible licence.
+If you distribute modified or otherwise derived symbols you must also make them available under the same or a compatible licence.
 
 More details on correctly attributing are available on the [Creative Commons wiki](https://wiki.creativecommons.org/wiki/Recommended_practices_for_attribution).
 
