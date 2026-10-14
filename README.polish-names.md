@@ -12,13 +12,15 @@ dictionary (names, domains, subcategories, verb classes, most notes) are in Poli
 
 | File | Contents |
 |---|---|
-| `scripts/data/categories-pl.csv` | maps the 117 source categories to a Polish domain and subcategory, an ASCII folder path and notes |
-| `scripts/data/verbs-pl.csv` | 464 verbs: Polish infinitive, aspect, semantic class and subclass, approximate WordNet domain, notes |
-| `scripts/data/symbol-info-pl.csv` | all 3436 symbols with a Polish name, category, part of speech (English and Polish), flags, and an intentionally empty `database-decision` column |
-| `scripts/mk-tree-pl.js` | builds `tree-pl/<domain>/<subcategory>/<symbol>.svg` (or with `--verbs`: `verbs-tree-pl/<class>/<subclass>/`) and validates consistency against `symbol-info.csv` |
+| `scripts/data/mulberry-pl.ods` | one workbook with three sheets, described below |
+| ↳ sheet `symbols` | all 3436 symbols with a Polish name, category, part of speech (English and Polish), flags, and an intentionally empty `database-decision` column |
+| ↳ sheet `verbs` | 468 verbs: Polish infinitive, aspect, semantic class and subclass, approximate WordNet domain, notes |
+| ↳ sheet `categories` | maps the 117 source categories to a Polish domain and subcategory, an ASCII folder path and notes |
+| `scripts/read-ods.js` | small dependency-free reader for the workbook (used by `mk-tree-pl.js`) |
+| `scripts/mk-tree-pl.js` | builds `tree-pl/<domain>/<subcategory>/<symbol>.svg` (or with `--verbs`: `verbs-tree-pl/<class>/<subclass>/`) and validates the workbook against `symbol-info.csv` (same symbols, same order, valid categories, a row for every verb) |
 | `.gitignore` | the generator's output folders |
 
-All CSV files use LF line endings.
+Every sheet has a header row in the first line; `symbol-id` and `symbol-en` match `symbol-info.csv`.
 
 ## Usage
 
@@ -55,7 +57,7 @@ would end up at the same path under the same name.
   British calendar and school culture rather than a single denomination. This note rests on names and
   tags, not on an analysis of the images' symbolism.
 
-## Polish names for all symbols (`symbol-info-pl.csv`)
+## Polish names for all symbols (sheet `symbols`)
 
 One row per file in `EN/`; key: `symbol-en` (file name without `.svg`). The `database-decision`
 column is intentionally empty.
@@ -66,10 +68,14 @@ Columns: `symbol-id`, `symbol-en`, `symbol-pl`, `domain-pl`, `subcategory-pl`,
 `wordnet-domain`, `aspect` (the last four apply to verbs only), `notes`, `flags`, `database-decision`.
 
 Translation rules:
-- Verbs: the infinitive (dictionary form) from `verbs-pl.csv`; all other names in the nominative singular.
+- Verbs: the infinitive (dictionary form) from the sheet `verbs`; all other names in the nominative singular.
   Interface commands (`copy`, `paste`, `print`, `save`) are imperatives marked "(polecenie)" ("command"),
   while the maths operations (`add`, `subtract`, `multiply`, `divide`) are verbal nouns; this distinction
   is deliberate but open to decision.
+- Citation form (the form a user searches for): `symbol-pl` always holds one lemma. Nouns are in the nominative
+  singular (nominative plural for pluralia tantum, see `number-pl`), verbs in the infinitive, adjectives in the
+  nominative singular masculine. Inflected forms ("psa", "pieska") and synonyms are not stored; an application
+  that searches these names needs lemmatisation or its own alias list.
 - Adjectives are stored in the base form (nominative singular masculine); `form-gender-pl` says which
   form was stored. Where possible a gender-neutral form was chosen (e.g. "w związku małżeńskim", "na
   emeryturze"). Gender pairs ("-y/-a") or separate symbols are an open decision.
@@ -89,7 +95,7 @@ Translation rules:
 Flags in the `flags` column (they can be combined): `K` culture-specific (UK) content or idiom (112);
 `B` brand name (21); `E` typo or error in the source (15); `N` not a state: territory, region,
 organisation (90); `P` disputed or not universally recognised status (14); `M` motion verb (7);
-`G` source grammar inconsistent with the name (3); `R` marked `rated=1` in the source (6).
+`G` source grammar inconsistent with the name (7); `R` marked `rated=1` in the source (6).
 
 ### Parts of speech
 
@@ -104,14 +110,14 @@ while established compound names ("woda po goleniu" = aftershave, "sok jabłkowy
 nouns. The column `number-pl` marks only nouns that exist in Polish solely in the plural (pluralia
 tantum); the list is partial.
 
-Ten symbols with a verbal English name sit outside the "Verb" category and have no row in
-`verbs-pl.csv`: `add`, `subtract`, `multiply`, `divide`, `copy`, `paste`, `print`, `save`, `float`, `mend`.
+Eight symbols with a verbal English name sit outside the "Verb" category and have no row in
+the sheet `verbs`: `add`, `subtract`, `multiply`, `divide`, `copy`, `paste`, `print`, `save`.
 For `copy` there is also a separate verb symbol `copy_,_to`.
 
-## Verbs (`verbs-pl.csv`)
+## Verbs (sheet `verbs`)
 
-464 verb entries (grammar `Verb` or `VerbComplex`, or the `_,_to` suffix; three of them, `gravy_pour`,
-`mash_potato`, `pour_cake_mixture`, have grammar `Noun` in the source and flag `G`).
+468 verb entries (grammar `Verb` or `VerbComplex`, or the `_,_to` suffix; seven of them, `gravy_pour`,
+`mash_potato`, `pour_cake_mixture`, `break_2`, `float`, `mend` and `toilet_,_go_to_the`, have grammar `Noun` in the source and flag `G`).
 
 - Source names are in dictionary form ("X, to"), not inflected. Hits ending in `-ing` and `-ed` are
   lexemes (`sing`, `bring`, `swing`) or idioms (`get_dressed`).
@@ -127,7 +133,7 @@ For `copy` there is also a separate verb symbol `copy_,_to`.
   `social`, `stative`, `weather`. plWordNet has an analogous set. This is not a dictionary lookup but my
   assignment from the meaning and the Polish infinitive; it is meant for comparison with other resources,
   not for decisions. The `weather` domain is not used.
-- Aspect (`impf` = imperfective, `pf` = perfective): 461 `impf`, 3 `pf` (`znaleźć`,
+- Aspect (`impf` = imperfective, `pf` = perfective): 465 `impf`, 3 `pf` (`znaleźć`,
   `spóźnić się na autobus`, `oparzyć się`). The citation rule and aspect pairs are left to decision.
 - Motion verbs have determinate/indeterminate pairs (iść/chodzić, biec/biegać, jechać/jeździć); they are
   marked in `notes`.
@@ -156,8 +162,8 @@ Original set: *Mulberry Symbols*, (c) 2018-2026 Steve Lee,
 licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 (see `LICENSE.txt`). Source: <https://github.com/mulberrysymbols/mulberry-symbols>.
 
-Changes from the original: added `categories-pl.csv`, `verbs-pl.csv`, `symbol-info-pl.csv`, the script
-`mk-tree-pl.js`, this file, `README.pl.md` and entries in `.gitignore`. The derived material is shared
+Changes from the original: added `scripts/data/mulberry-pl.ods`, the scripts `mk-tree-pl.js` and
+`read-ods.js`, this file, `README.pl.md` and entries in `.gitignore`. The derived material is shared
 under the same licence (CC BY-SA 4.0). The CC licence does not cover trademarks; we do not suggest
 endorsement by the author of the original.
 
