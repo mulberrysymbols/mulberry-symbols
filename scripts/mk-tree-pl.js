@@ -2,18 +2,19 @@
 //
 // It never changes the EN/ directory or any file name. It creates copies (or
 // symbolic links) in the structure  <domain>/<subcategory>/<symbol>.svg
-// based on scripts/data/categories-pl.csv.
+// based on the `categories` sheet of scripts/data/mulberry-pl.ods.
 //
 // Usage:
 //   node scripts/mk-tree-pl.js                  # copies into ./tree-pl
 //   node scripts/mk-tree-pl.js --out other/dir
 //   node scripts/mk-tree-pl.js --link           # symlinks instead of copies
 //   node scripts/mk-tree-pl.js --dry-run        # validation only
-//   node scripts/mk-tree-pl.js --verbs          # verbs grouped by meaning (verbs-pl.csv), default ./verbs-tree-pl
+//   node scripts/mk-tree-pl.js --verbs          # verbs grouped by meaning (sheet `verbs`), default ./verbs-tree-pl
 
 const fs = require('fs');
 const path = require('path');
 const { parse } = require('csv-parse/sync');
+const { readOds } = require('./read-ods');
 
 const ROOT = path.resolve(__dirname, '..');
 const args = process.argv.slice(2);
@@ -34,11 +35,40 @@ const readCsv = (file) =>
     bom: true,
   });
 
+// Polish data: one workbook with the sheets `symbols`, `verbs` and `categories`.
+const WORKBOOK = path.join(__dirname, 'data', 'mulberry-pl.ods');
+const workbook = readOds(WORKBOOK);
+const sheet = (name) => {
+  if (!workbook[name]) {
+    console.error(`sheet "${name}" not found in ${path.relative(ROOT, WORKBOOK)}`);
+    process.exit(1);
+  }
+  return workbook[name];
+};
+
 const symbols = readCsv('symbol-info.csv');
-// --verbs mode: verbs arranged by semantic class (verbs-pl.csv).
+
+// The sheet `symbols` must list exactly the symbols of symbol-info.csv, in the same order.
+{
+  const rows = sheet('symbols');
+  const problems = [];
+  if (rows.length !== symbols.length) problems.push(`sheet symbols has ${rows.length} rows, symbol-info.csv has ${symbols.length}`);
+  symbols.forEach((s, i) => {
+    const r = rows[i];
+    if (!r || r['symbol-id'] !== s['symbol-id'] || r['symbol-en'] !== s['symbol-en']) {
+      problems.push(`sheet symbols, row ${i + 2}: expected ${s['symbol-id']} ${s['symbol-en']}, found ${r ? `${r['symbol-id']} ${r['symbol-en']}` : 'nothing'}`);
+    }
+  });
+  if (problems.length) {
+    console.error(`ERRORS (${problems.length}):`);
+    problems.slice(0, 50).forEach((e) => console.error('  - ' + e));
+    process.exit(1);
+  }
+}
+// --verbs mode: verbs arranged by semantic class (sheet `verbs`).
 if (flag('--verbs')) {
   const verbOut = path.resolve(ROOT, option('--out', 'verbs-tree-pl'));
-  const verbs = readCsv('verbs-pl.csv');
+  const verbs = sheet('verbs');
   const verbErrors = [];
   const bySymbol = new Map(symbols.map((s) => [s['symbol-en'], s]));
   const verbSeen = new Set();
@@ -46,7 +76,7 @@ if (flag('--verbs')) {
   for (const v of verbs) {
     const name = v['symbol-en'];
     if (!bySymbol.has(name)) verbErrors.push(`symbol not in symbol-info.csv: ${name}`);
-    if (verbSeen.has(name)) verbErrors.push(`duplicate in verbs-pl.csv: ${name}`);
+    if (verbSeen.has(name)) verbErrors.push(`duplicate in sheet verbs: ${name}`);
     verbSeen.add(name);
     const src = path.join(ROOT, 'EN', `${name}.svg`);
     if (!fs.existsSync(src)) verbErrors.push(`missing file: EN/${name}.svg`);
@@ -90,7 +120,7 @@ if (flag('--verbs')) {
   process.exit(0);
 }
 
-const categories = readCsv('categories-pl.csv');
+const categories = sheet('categories');
 
 const byId = new Map(categories.map((c) => [c['category-id'], c]));
 const errors = [];
@@ -110,7 +140,7 @@ for (const s of symbols) {
 }
 // 2. No mapped category is orphaned.
 for (const c of categories) {
-  if (!usedIds.has(c['category-id'])) errors.push(`orphaned category in categories-pl.csv: id=${c['category-id']}`);
+  if (!usedIds.has(c['category-id'])) errors.push(`orphaned category in sheet categories: id=${c['category-id']}`);
 }
 
 // 3. Files exist and there are no name collisions in the target tree.
